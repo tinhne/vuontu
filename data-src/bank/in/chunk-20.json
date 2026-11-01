@@ -1,0 +1,1427 @@
+[
+{
+"h": "promotion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pronoun",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "proof",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "properly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "property",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "proportion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "proposal",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "propose",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "prosperity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "prosperous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "protect",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "protection",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "protective",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "protest",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "proud",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "prove",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "proverb",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "provided",
+"p": [
+"conjunction"
+],
+"c": "B1"
+},
+{
+"h": "psychological",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "pub",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "public transport",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "publicly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "publisher",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pullover",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pump",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "punish",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "punishment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pupil",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "puppy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pure",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "purify",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "purse",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "puzzle",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "quake",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "qualified",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "qualify",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "quantity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "question mark",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "questionnaire",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "queue",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "race",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "racial",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "radiation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rail",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "railroad",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "railway",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rainfall",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rainforest",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rank",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rapid",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "rapidly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "rare",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "rarely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "raspberry",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ration",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rational",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "razor",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "react",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "realistic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "reality",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rearrange",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "reasonable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "rebuild",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "recall",
+"p": [
+"verb",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reception",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "recite",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "reclaim",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "recognise",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "recommend",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "recording",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "recover",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "recovery",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "recycled",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "recycling",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reduce",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "reduction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reef",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "referee",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reflection",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "refreshments",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "refund",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "refusal",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "refuse",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "regain",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "regard",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "regarding",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "region",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "regional",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "register",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "registration",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "regulation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reject",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "relate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "relation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "relationship",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "relative",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "relatively",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "relaxing",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "reliable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "religion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "religious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "rely",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "remainder",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "remark",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "remarkable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "remedy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "remembrance",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "remote control",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "remove",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "renew",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "repay",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "repeatedly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "representative",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reproduce",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "republic",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reputation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "require",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "requirement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rescue",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "researcher",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "resemble",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "reservation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reserve",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "resident",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "residential",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "resist",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "resolve",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "resort",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "resource",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "respect",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "respectable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "respond",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "responsibility",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "responsible",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "rest",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "restore",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "restrict",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "retail",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "retain",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "retell",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "retrospect",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reunification",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reunify",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "revise",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "revision",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "reward",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "rewrite",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "rid",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "riddle",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "ridiculous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "ripe",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "rise",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "risk",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "roadside",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "robot",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rolling",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "rotten",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "rough",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "routine",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rubber",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rubbish",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "rudely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "runaway",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "runway",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sacred",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "sadness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "safari",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "safeguard",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "safely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "safety",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "salesman",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "salmon",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sand",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sandal",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "satellite",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "satisfaction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "satisfied",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "saucepan",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "saucer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "scan",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "scare",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "scared",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "scary",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "scatter",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "scenic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "scholar",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "scholarship",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "schoolmate",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "schoolteacher",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "science fiction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "scold",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "scope",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "score",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "scratch",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "sculpture",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "season",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "seawater",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "seaweed",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "second-hand",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "B1"
+}
+]

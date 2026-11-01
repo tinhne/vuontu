@@ -1,0 +1,1421 @@
+[
+{
+"h": "oddity",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "offspring",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "orchard",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "ordinarily",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "organizational",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "ornamental",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "otter",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "outset",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "overalls",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "overdraft",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "oversee",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "overseer",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "panorama",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "panoramic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "parasite",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "paternal",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "paternalistic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "pathos",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "paywall",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "peacock",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "peasant",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "pedicure",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "pendulous",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "pendulum",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "peninsula",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "perceptive",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "perceptively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "perpetuate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "persecute",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "persecution",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "personalisation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "personalise",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "persuasively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "pertain to",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "pertinent",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "phenomenal",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "phenomenally",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "physicality",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "physique",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "pigeon",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "pinnacle",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "pioneer",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "placid",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "placidly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "plaque",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "plaster",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "plausibility",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "plausible",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "plausibly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "pleasurable",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "ploy",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "plumbing",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "plummet",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "plunge",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "poetess",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "poise",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "popularization",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "portable",
+"p": [
+"adjective",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "portray",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "portrayal",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "possessor",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "posture",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "pounce",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "preach",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "preacher",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "precision",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "predecessor",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "premier",
+"p": [
+"adjective",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "premise",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "premises",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "primitively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "principally",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "privileged",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "profess",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "professionalism",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "profound",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "profoundly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "prohibitive",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "prohibitively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "proliferate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "prolific",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "prolifically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "prop",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "prophet",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "prophetic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "prospective",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "protagonist",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "provisions",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "provocative",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "provocatively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "provoke",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "prowl",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "psyche",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "psychiatric",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "psychiatrist",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "purity",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "quarry",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "quest",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "quip",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "quirk",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "quirky",
+"p": [
+"adjective",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "radiator",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "rapport",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "rarity",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "raunchily",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "raunchy",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "readable",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "realism",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "realist",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "reap",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "reassurance",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "reassure",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "recess",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "recessive",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "recharge",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "recognisable",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "recognisably",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "rediscover",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "reenact",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "refreshing",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "refreshingly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "refurbish",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "refurbishment",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "relapse",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "relinquish",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "reluctantly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "remedial",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "reminisce",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "reminiscent",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "remorse",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "remorsefully",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "remorseless",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "remorselessly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "remotely",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "removed",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "render",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "rendering",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "renown",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "repel",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "repellant",
+"p": [
+"noun",
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "repertory",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "repute",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "resent",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "resilience",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "resilient",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "resin",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "resonate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "respite",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "restoration",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "restorative",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "retention",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "retrace",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "revealing",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "revere",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "riveting",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "robust",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "robustly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "rotate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "roundup",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "rudimentary",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "rudiments",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "rumble",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "rustle",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "ruthless",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "ruthlessness",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "sacrifice",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "salivate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "saloon",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "salvage",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "salvation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "salve",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "sanctity",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "sap",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "sarcasm",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "sarcastic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "sarcastically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "sauna",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "scathing",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "scenario",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "scoff",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "scorn",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "scornful",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "scornfully",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "screenplay",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "screenwriter",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "scrutinise",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "scrutiny",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "sedate",
+"p": [
+"verb",
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "sedately",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "sedentary",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "seedling",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "self-conscious",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "self-worth",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "sentient",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "sentiment",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "sentimental",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "sentimentally",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "sequel",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "settee",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "shambles",
+"p": [
+"noun"
+],
+"c": "C1"
+}
+]

@@ -1,0 +1,1455 @@
+[
+{
+"h": "dislike",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "display",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "disturb",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "divide",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "dizzy",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "done",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "double",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "doubt",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "download",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "downstairs",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "downtown",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "drawer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "drawing",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "dressed",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "drill",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "driver's license",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "drug",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "drugstore",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "duck",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "during",
+"p": [
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "dust",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "earn",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "earring",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "earth",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "earthquake",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "easily",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "east",
+"p": [
+"adjective",
+"adverb",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "editor",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "education",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "educational",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "effect",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "effort",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "elderly",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "electric",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "elephant",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "elevator",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "elsewhere",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "embarrassing",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "emergency",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "empty",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "encourage",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "endangered",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "ending",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "energetic",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "enormous",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "enough",
+"p": [
+"adverb",
+"determiner",
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "enter",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "entertainment",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "entrance",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "envelope",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "envy",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "episode",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "error",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "escalator",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "escape",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "especially",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "essay",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "establish",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "euro",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "even",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "ever",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "evidence",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "exactly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "exam",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "except",
+"p": [
+"conjunction",
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "exchange",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "exhibition",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "exist",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "expect",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "experience",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "expert",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "explain",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "explanation",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "explore",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "express",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "expression",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "extra",
+"p": [
+"adjective",
+"adverb",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "extremely",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "fact",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fail",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "fairly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "fall",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "familiar",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "fancy",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "fantastic",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "far",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "fare",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fascinating",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "fashion",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fast food",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fault",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "favour",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fear",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "feather",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "feature",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "fee",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "female",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fence",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "few",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "fiction",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fighter",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "figure",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "film",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "final",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "finally",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "first name",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fisherman",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fit",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "fix",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "flea",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "flight",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "float",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "flood",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "flour",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fog",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "folder",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "follow",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "fool",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "footballer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "forbid",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "force",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "forest",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "forever",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "fork",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fortunately",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "fortune",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "forward",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "frame",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "frank",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "freedom",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "freeze",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "fresh",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "fridge",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "fried",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "friendship",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "frighten",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "frightened",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "frightening",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "fry",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "fully",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "function",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "furniture",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "further",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "gallery",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "garage",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "garlic",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "gas",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "gate",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "gather",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "gender",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "generation",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "gentle",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "given",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "globe",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "glove",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "golden",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "golf",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "good-looking",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "government",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "grace",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "gradually",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "graduate",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "gramme",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "grandchild",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "granddad",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "granddaughter",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "grandson",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "granny",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "grateful",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "greatly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "greedy",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "grilled",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "grocery store",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "guard",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "guidebook",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "gun",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "half-price",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "ham",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "handbag",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "handicapped",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "handle",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "happily",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "happiness",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "hardly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "harm",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "harmful",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "harmony",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "harvest",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "hate",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "headphone",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "headteacher",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "heat",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "heating",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "heavily",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "helpful",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "hero",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "herself",
+"p": [
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "hey",
+"p": [
+"interjection"
+],
+"c": "A2"
+},
+{
+"h": "high school",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "highway",
+"p": [
+"noun"
+],
+"c": "A2"
+}
+]

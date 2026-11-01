@@ -1,0 +1,1422 @@
+[
+{
+"h": "carton",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cashpoint",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "casual",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "categorise",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "category",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cattle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "caution",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cautious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "cave",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "CD-ROM",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "celebrity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cell",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "central",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "central heating",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ceremony",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "certainty",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "challenging",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "champion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "channel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "chaos",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "characterise",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "characteristic",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "charge",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "chariot",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "charity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "charm",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "chase",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "chat show",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "check-in counter",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "check-in desk",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "checkout",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cheerful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "chemist",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "chemistry",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cherish",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "chest of drawers",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "chewing gum",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "chief",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "choir",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "choke",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "Christian",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "chronological",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "chuckle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "circular",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "circus",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "citizenship",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "civil",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "civilisation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "classical",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "classify",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "cliff",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "climate",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "climber",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "clinic",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "clip",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "closely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "coal",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "coastal",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "cod",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "coffin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "collapse",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "collar",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "columnist",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "combination",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "combine",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "comedian",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "comedy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "comet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "comfort",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "comma",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "command",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "comment",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "commercial",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "commit",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "common sense",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "commonly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "companion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "comparison",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "compete",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "competitive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "competitor",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "complement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "completely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "complex",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "complicate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "complicated",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "compliment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "compose",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "composition",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "compound",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "compromise",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "concentration",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "concept",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "concerned",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "conclude",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "conclusion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "conduct",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "confidence",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "confirm",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "confirmation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "conflict",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "confusing",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "confusion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "congratulate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "connect",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "connexion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "conquer",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "conscious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "consequently",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "conservation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "conservative",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "considerable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "consideration",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "consonant",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "constantly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "constitute",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "constitution",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "construct",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "construction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "consume",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "consumer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "consumption",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "contain",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "content",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "continual",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "continually",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "continuous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "continuously",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "contrary",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "contribute",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "contribution",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "controversial",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "convey",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "convince",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "copyright",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "correction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cotton",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cough",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "council",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "counselling",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "counter",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "countless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "county",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "courage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "courageous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "courgette",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "craft",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "crash",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "creator",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "criminal",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "crisis",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "critic",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "critical",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "crop",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "crossing",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "crossroads",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "crow",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cruel",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "crush",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cucumber",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cultivate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "cultural",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "cure",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "curiosity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "curious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "curiously",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "curly",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "currency",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "current",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "currently",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "curriculum",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "curtain",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "curve",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cushion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "customs",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "CV",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cycle",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "daisy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "damage",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "damaged",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "damp",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "dangerously",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "dare",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "darkness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dating",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "daze",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dazzle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "deadline",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "deadly",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "deaf",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "dealer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "debris",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "debt",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "decision",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "declaration",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "declare",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "decline",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "decrease",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "dedicate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "deed",
+"p": [
+"noun"
+],
+"c": "B1"
+}
+]

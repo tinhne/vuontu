@@ -1,0 +1,1420 @@
+[
+{
+"h": "takeaway",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tale",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "talented",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "talkative",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "tank",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "taste",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "tasteless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "tasty",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "tax",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "teaching",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "teammate",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "teamwork",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tease",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "technique",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "technological",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "teen",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "telecommunications",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "telegram",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "teller",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "temper",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "temporary",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "tempt",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "tend",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "tendency",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tense",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tension",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tent",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "term",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "terminal",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "terribly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "terrific",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "terrified",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "terror",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "terrorism",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "thankful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "theft",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "theory",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "thirst",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "thorough",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "threat",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "threatening",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "thriller",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "throughout",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "thumb",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "thump",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "thunder",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "thunderous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "thus",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "tick",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "tide",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tighten",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "tightly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "tile",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "timely",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "tin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tiny",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "tire",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "tiring",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "tissue",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tobacco",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tongue",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "toothpaste",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tornado",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "toss",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "total",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "totally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "tourism",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tournament",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "trace",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "tracksuit",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "traditionally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "traffic jam",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tragedy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tragic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "trail",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "transfer",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "transform",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "transformation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "transitional",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "translate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "transport",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "transportation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "trash",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "travel agent",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "treat",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "treatment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tremble",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "tremendous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "trend",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "trigger",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "trim",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "triumph",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "tropical",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "trumpet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "trustworthy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "tumble",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "tuna",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "turbulence",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "turning",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "turtle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "twin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "twist",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "typical",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "typically",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "unable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unafraid",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unbelievable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "uncertainty",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "unclear",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "uncontrollable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "uncover",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "underage",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "undergo",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "underneath",
+"p": [
+"adverb",
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "underpants",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "undo",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "undress",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "unemployed",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unemployment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "unexpected",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unexpectedly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "unfairly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "unfit",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unfold",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "unfortunate",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unfriendly",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unheard",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unify",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "uninterested",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "uninteresting",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "union",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "unique",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unite",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "universe",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "unless",
+"p": [
+"conjunction"
+],
+"c": "B1"
+},
+{
+"h": "unlikely",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unlucky",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unpack",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "unpredictable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unrelated",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "untidy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unusually",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "unwanted",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "unwell",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "up-to-date",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "update",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "uplifted",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "upload",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "upper",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "upward",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "urge",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "urgent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "usage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "used to",
+"p": [
+"modal"
+],
+"c": "B1"
+},
+{
+"h": "useless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "vacancy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "vague",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "vain",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "valuable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "van",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "variety",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "various",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "vary",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "vast",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "vegetarian",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "vehicle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "vein",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "vessel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "vet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "via",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "vice",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "vice president",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "victim",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "victory",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "video clip",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "viewpoint",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "violence",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "violently",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "virtual",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "virus",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "visa",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "visible",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "vision",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "visual",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "visually",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "vivid",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "vividly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "volcano",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "volume",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "volunteer",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "vowel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "voyage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "wagon",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ward",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "wardrobe",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "warmly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "warmth",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "warn",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "warning",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "warranty",
+"p": [
+"noun"
+],
+"c": "B1"
+}
+]

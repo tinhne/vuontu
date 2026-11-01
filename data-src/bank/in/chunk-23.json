@@ -1,0 +1,1420 @@
+[
+{
+"h": "warrior",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "washbowl",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "waste",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "wasteful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "waterfall",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "wax",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "weakness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "weapon",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "weather forecast",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "webcam",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "weird",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "well-dressed",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "westward",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "wetland",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "whale",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "whenever",
+"p": [
+"adverb",
+"conjunction"
+],
+"c": "B1"
+},
+{
+"h": "wherever",
+"p": [
+"conjunction"
+],
+"c": "B1"
+},
+{
+"h": "whether",
+"p": [
+"conjunction"
+],
+"c": "B1"
+},
+{
+"h": "whichever",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "B1"
+},
+{
+"h": "whisper",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "whistle",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "whoever",
+"p": [
+"pronoun"
+],
+"c": "B1"
+},
+{
+"h": "widespread",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "wildlife",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "wildly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "willingness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "windscreen",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "windsurfing",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "wing",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "wire",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "wither",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "witness",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "wizard",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "working",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "workout",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "workplace",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "workshop",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "worn",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "worth",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "worthwhile",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "worthy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "wound",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "wrap",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "wrapping",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "wrist",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "wristwatch",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "written",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "yell",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "yoga",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "abandoned",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "abnormally",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "abolish",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "aboriginal",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "abruptly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "absentee",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "absurd",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "abuse",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "accessibility",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "accommodation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "accordingly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "accumulate",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "accusation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "achievable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "acid",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "acquisition",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "actively",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "actual",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "acute",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "adaptable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "addict",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "addicted",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "addiction",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "additionally",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "adequate",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "adequately",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "adjustment",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "administrative",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "admirable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "admiringly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "admittedly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "adopted",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "adoption",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "adore",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "adorn",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "advancement",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "advent",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "adventurous",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "adverse",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "adversely",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "adversity",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "affectionate",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "affectionately",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "affordable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "ageless",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "aggressively",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "agonise",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "agony",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "aircraft",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "aircrew",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "alcoholism",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "alert",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "allegation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "alliance",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ally",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "alongside",
+"p": [
+"preposition"
+],
+"c": "B2"
+},
+{
+"h": "alphabetical",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "altar",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "alter",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "alternate",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "alternatively",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "altitude",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "aluminium",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "amaze",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "amazement",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "amazingly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "ambassador",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ambiguity",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ambiguous",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "ammonia",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "amongst",
+"p": [
+"preposition"
+],
+"c": "B2"
+},
+{
+"h": "ample",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "amplifier",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "amplify",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "amuse",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "analogy",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "analyst",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "anchor",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "anchorage",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "anchorman",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "anchorperson",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "anguish",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "animate",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "anonymous",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "antiaircraft",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "antibacterial",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "anticancer",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "anticipate",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "anticipation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "antipollution",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "antistatic",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "antivirus",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "apostrophe",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "applicant",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "appreciative",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "appropriately",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "approximate",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "arch",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "archeologist",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "arctic",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "arena",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "aristocracy",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "armful",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "arouse",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "arrogant",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "artery",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "articulate",
+"p": [
+"verb",
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "artificially",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "artistry",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ash",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "aspiration",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "aspire",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "assault",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "assemble",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "assembly",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "assert",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "assess",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "assessment",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "assumption",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "assurance",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "assure",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "astonish",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "astonished",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "astonishing",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "astonishment",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "astronomy",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "athletics",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "attached",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "attainable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "attainment",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "attendance",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "attentive",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "attentively",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "attractiveness",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "attribute",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "atypical",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "aubergine",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "audit",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "audition",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "authorise",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "authoritative",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "availability",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "await",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "awe",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "ax",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "axis",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "backup",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "backwards",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "backyard",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bad-tempered",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "badge",
+"p": [
+"noun"
+],
+"c": "B2"
+}
+]

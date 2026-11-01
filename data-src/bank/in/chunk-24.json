@@ -1,0 +1,1413 @@
+[
+{
+"h": "balanced",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "balky",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "ballad",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ballet",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ballot",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ban",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "banker",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bankrupt",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bankruptcy",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "barbershop",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "barley",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "barn",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "barometer",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "barren",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "barrier",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bartender",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bathhouse",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "battlefield",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "beagle",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "beak",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "beam",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bearing",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "beautify",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bellow",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "belongings",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "beneficial",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "benevolence",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "benevolent",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "berry",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bestow",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bestseller",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "betray",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bewilder",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bewilderment",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bid",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bidding",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bikini",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "billion",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bind",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bio",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "biological",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "biotechnology",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "birdcage",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "birthplace",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bitterly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "bizarre",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "blade",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "blast",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "blaze",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "blindly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "blindness",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "blink",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bloodstream",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bloody",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "blooming",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "blossom",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "blur",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "blurt",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "boiling",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "bolt",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bombard",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bomber",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bombing",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bony",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "bookish",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "booklet",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bookmark",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "boost",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "booth",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bossy",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "botany",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bothered",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "bothersome",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "bourbon",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "boxer",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bracket",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "brag",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bravery",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "breakable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "breakdown",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "breakup",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "breathtaking",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "breezy",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "brewery",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "brilliantly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "broadband",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "broadcaster",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "broaden",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "broadly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "brochure",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "brother-in-law",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "browse",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "browser",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bruise",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bud",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bulimia",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bully",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bum",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bumper",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bun",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "burdensome",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "bureaucracy",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "burglary",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "burgle",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "burial",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "bustle",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "bustling",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "buzz",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "cabinet",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cable",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "calmly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "campaign",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "candidate",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cane",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cannonball",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "canon",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "capability",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "caption",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "captive",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "caravan",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "carbon",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "carbon dioxide",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "carbon footprint",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "carbon monoxide",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cardboard",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cardigan",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "carefree",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "caring",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "carnival",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "carpool",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "carve",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "cascade",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "cast",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "casually",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "catalogue",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "catalyst",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "catastrophe",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "catastrophic",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "catchy",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "categorisation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "catering",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cathedral",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cease",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "ceiling",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cellar",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cellist",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cello",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cemetery",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "centigrade",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "certificate",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "certification",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "certify",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "chancellor",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "chaotic",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "charming",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "cheat",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "checkpoint",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cheeky",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "cheerfully",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "cheerfulness",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "chemotherapy",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cherished",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "cherry",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "chew",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "childish",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "chimney",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "chip",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "chop",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "chunk",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "circuit",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "circuitry",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "circumstance",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "citywide",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "clam",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "clap",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "clarify",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "classification",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "clause",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "clearness",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "clerical",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "client",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "climate change",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "clog",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "closure",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "clothing",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "clumsy",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "coaching",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "coalition",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "coarse",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "coastline",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cocktail",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "cocoa",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "coconut",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "coherence",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "coherent",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "coincide",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "coincidence",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "colleague",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "collector",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "collocation",
+"p": [
+"noun"
+],
+"c": "B2"
+}
+]

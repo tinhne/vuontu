@@ -1,0 +1,1419 @@
+[
+{
+"h": "persuasion",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pessimist",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pessimistic",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "petrified",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "petty",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "pH",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pharmacist",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "phase",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "philosophical",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "physician",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pi",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pickle",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "picky",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "picturesque",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "pillowcase",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pine",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pint",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "piracy",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pirate",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pitch",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "plague",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "planning",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "playmate",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "playwright",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "plead",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "plot",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pluck",
+"p": [
+"verb",
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "plum",
+"p": [
+"noun",
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "plumber",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pneumonia",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "point of view",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pointless",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "polar bear",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "polio",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "polish",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "politeness",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "politically",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "polity",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "polo",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ponder",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "popularise",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "popularity",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "porch",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "portion",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pose",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "posh",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "possessed",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "postal",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "postpone",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "potent",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "potentially",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "powerfully",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "practicality",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "practically",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "prance",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prawn",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "precede",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "precisely",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "predicament",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "predicate",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "predicative",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "predictable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "predictive",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "predictor",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prefect",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "preferable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "preferably",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "prehistoric",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "prehuman",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "preindustrial",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "prejudge",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "preliminary",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "preoccupy",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "prescribe",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "presenter",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "presidency",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "presidential",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "prestige",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prestigious",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "presumably",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "prevail",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "prevention",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "preventive",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "previously",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "priceless",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "prick",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "primary",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "prime",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "prime minister",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prior",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "priority",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "privately",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "privilege",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "probable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "probe",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "procedure",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "profile",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "profit",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "profitable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "programmer",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "programming",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prohibit",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "project",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "projection",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prom",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prominence",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prompt",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "promptly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "proponent",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "proposed",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "prose",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prosecute",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "prospect",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "prosper",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "proudly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "proven",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "province",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "provision",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "proximity",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "psychologically",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "psychology",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "publication",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "publicise",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "publicity",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pudding",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pulse",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "pumpkin",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "punch",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "punctual",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "punctuality",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "purchase",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "purposeful",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "pursuit",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "puzzled",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "qualification",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "quantify",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "quarantine",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "quarrel",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "quarrelsome",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "queer",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "query",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "quotable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "quotation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "quote",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "racism",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "racist",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "rack",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "radar",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "radiate",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "radical",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "radically",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "radium",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "rafter",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "rag",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "rainbow",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "rainstorm",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "rally",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "ram",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ramp",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ranger",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "rape",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "rash",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "rattle",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ravage",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "reaction",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "readily",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "real estate",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "realisation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "rear",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "reasonably",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "rebel",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "rebellious",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "recession",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "recipe",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "reckon",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "recognition",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "recollect",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "recollection",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "recommendable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "recommendation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "reconsider",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "recreation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "recruit",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "rectangular",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "redo",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "redundant",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "reed",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "reference",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "referent",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "refinery",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "reflective",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "reform",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "refrain",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "refresh",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "refuge",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "refugee",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "refute",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "regardless",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "reggae",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "regime",
+"p": [
+"noun"
+],
+"c": "B2"
+}
+]

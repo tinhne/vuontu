@@ -1,0 +1,1451 @@
+[
+{
+"h": "volleyball",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "vote",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "wait",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "waiter",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "waitress",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "wake",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "walk",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "wall",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "want",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "war",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "warm",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "was",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "wash",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "watch",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "water",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "way",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "we",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "wear",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "weather",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "Wednesday",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "week",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "weekend",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "welcome",
+"p": [
+"adjective",
+"interjection",
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "well",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "were",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "what",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "wheel",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "when",
+"p": [
+"adverb",
+"conjunction"
+],
+"c": "A1"
+},
+{
+"h": "where",
+"p": [
+"adverb",
+"conjunction"
+],
+"c": "A1"
+},
+{
+"h": "which",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "white",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "who",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "whose",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "why",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "wife",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "will",
+"p": [
+"modal",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "win",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "wind",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "window",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "winter",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "wish",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "with",
+"p": [
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "woman",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "wonderful",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "word",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "work",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "worker",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "world",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "worry",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "would",
+"p": [
+"modal"
+],
+"c": "A1"
+},
+{
+"h": "write",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "writer",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "wrong",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "yard",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "year",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "yellow",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "yes",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "yesterday",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "yet",
+"p": [
+"adverb",
+"conjunction"
+],
+"c": "A1"
+},
+{
+"h": "yoghurt",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "you",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "young",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "your",
+"p": [
+"determiner"
+],
+"c": "A1"
+},
+{
+"h": "yours",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "yourself",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "zoo",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "ability",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "abroad",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "accept",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "acceptable",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "accident",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "account",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "achieve",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "across",
+"p": [
+"adverb",
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "act",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "actually",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "addition",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "additional",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "adjective",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "adjust",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "admire",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "admit",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "adult",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "advanced",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "advantage",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "adventure",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "advertisement",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "advertising",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "advice",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "advise",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "affair",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "against",
+"p": [
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "aged",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "agency",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "agent",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "ahead",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "air",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "aisle",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "alarm",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "alarm clock",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "alive",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "allow",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "alright",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "although",
+"p": [
+"conjunction"
+],
+"c": "A2"
+},
+{
+"h": "ambition",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "among",
+"p": [
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "amused",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "amusement",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "ancestor",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "ancient",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "angel",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "angrily",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "ankle",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "anniversary",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "annoy",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "annoying",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "anxious",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "anymore",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "anyway",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "anywhere",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "apart",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "apartment",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "apologise",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "apparently",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "appear",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "appearance",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "apply",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "appointment",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "appreciate",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "appropriate",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "architecture",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "area",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "argue",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "argument",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "armchair",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "armed",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "artificial",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "asleep",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "assistant",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "association",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "astronaut",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "athlete",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "atom",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "attack",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "attempt",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "attention",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "attitude",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "attractive",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "audience",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "audio",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "author",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "automatic",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "automatically",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "average",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "avoid",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "award",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "awful",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "background",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "badly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "badminton",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bake",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "balcony",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "balloon",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "banking",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "barbecue",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "barber",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bargain",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "base",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "basic",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "basically",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "basket",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "batch",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "battery",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bay",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "beauty",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "been",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "beer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "beg",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "beginner",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "beginning",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "behaviour",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "being",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "belly",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "belong",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "belt",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bench",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bend",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "besides",
+"p": [
+"adverb",
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "beyond",
+"p": [
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "bill",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "bit",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bite",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "blackboard",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "blame",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "blanket",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "blonde",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "blood",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bloom",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "board game",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "boil",
+"p": [
+"verb"
+],
+"c": "A2"
+}
+]

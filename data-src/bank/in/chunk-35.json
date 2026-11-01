@@ -1,0 +1,1414 @@
+[
+{
+"h": "wallboard",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "walnut",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "warship",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wartime",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wasp",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "waterproof",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "weaken",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "weakly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "wealthy",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "wearisome",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "weary",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "weave",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wed",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "weed",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "welfare",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "well-balanced",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "well-built",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "well-organised",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "well-paid",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "western",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "wheat",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "whereas",
+"p": [
+"conjunction"
+],
+"c": "B2"
+},
+{
+"h": "whip",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "whisky",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "widen",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "widow",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "width",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wilderness",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "willing",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "willingly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "winding",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "windshield",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wink",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wipe",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "wit",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "withdraw",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "withdrawal",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "witty",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "wolf",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wondrous",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "woodcarving",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wordlessly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "workaholic",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "workbench",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "workman",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "worktable",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "worldly",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "worldview",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "worm",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wornout",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "worrying",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "worsen",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "worship",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "worthless",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "wreck",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "wrongly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "X-ray",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "yacht",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "yawn",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "yearn",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "yield",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "youthful",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "yummy",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "zebra",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "zip",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "zoom",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "abound",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "abstraction",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "accustomed",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "acidic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "acoustic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "acoustically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "acoustics",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "acre",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "acutely",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "adjoin",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "adjoining",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "adjustable",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "adrenaline",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "advantageous",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "adversary",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "advisory",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "aesthetic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "aesthetically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "agonize",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "agreeable",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "aimless",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "aimlessly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "alienate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "align",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "alignment",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "allege",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "alleviate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "altruism",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "altruistic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "amateur",
+"p": [
+"noun",
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "amid",
+"p": [
+"preposition"
+],
+"c": "C1"
+},
+{
+"h": "amplification",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "amply",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "anchored",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "animatedly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "anthropologist",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "anthropology",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "anticlimactic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "antics",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "antiquated",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "antiquity",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "appal",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "appalling",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "appallingly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "appliance",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "apprehensive",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "apprentice",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "apprenticeship",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "apt",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "apt to",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "aqua",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "aquarium",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "artistically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "assertion",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "astray",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "atmospheric",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "avid",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "baldly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "batter",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "battered",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "bearded",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "beforehand",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "beguiling",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "beguilingly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "believably",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "benign",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "benignly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "bequeath",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "billiards",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "blankness",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "bliss",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "blister",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "blithely",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "blockbuster",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "bouquet",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "brainwash",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "brainwashing",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "bribe",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "bribery",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "bubbly",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "buffer",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "buffoon",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "bulk",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "bulk up",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "bulky",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "bureaucratic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "bureaucratically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "buzzer",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "bypass",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "calorie",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "candid",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "candidly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "canoe",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "carpenter",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "carpentry",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "carrier",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "cavity",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "ceaseless",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "ceaselessly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "cessation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "chaotically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "characterisation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "charter",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "chauffer",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "chill",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "chilly",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "chisel",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "chiselled",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "churn",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "circulate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "circulation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "citation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "cite",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "clammy",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "clan",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "classy",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "claustrophobia",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "claustrophobic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "cleanly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "clench",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "cleverness",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "climactic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "climax",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "clinical",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "cloak",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "closeness",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "clutch",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "clutter",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "collaborate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "collaboration",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "collaborative",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "collaborator",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "commend",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "commendation",
+"p": [
+"noun"
+],
+"c": "C1"
+}
+]

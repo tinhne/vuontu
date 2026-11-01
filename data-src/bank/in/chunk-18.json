@@ -1,0 +1,1427 @@
+[
+{
+"h": "laughter",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "launch",
+"p": [
+"verb",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lawful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "lay",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "layer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "leadership",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "leading",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "league",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lean",
+"p": [
+"adjective",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "leap",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "lecture",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "legal",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "legally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "length",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lessen",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "lettuce",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "liar",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "liberate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "liberation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "librarian",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lifeguard",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lifelong",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "lift",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "lighter",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lightly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "lightning",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "likeness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "limit",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "limitation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "limited",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "limp",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "link",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "liquid",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "literary",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "literature",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "liver",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "loaf",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "locate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "location",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lodge",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "log",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "logic",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "logo",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lorry",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "loss",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lottery",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "loud",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "loudspeaker",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lovingly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "loyal",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "loyalty",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "luggage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lung",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "luxury",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "magical",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "magician",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "magnificent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "mailbox",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "main",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "maintain",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "maintenance",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "majority",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "management",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mankind",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "maple",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "marble",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "march",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "marine",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "marked",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "marriage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mash",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "mass",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "massive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "mathematician",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mathematics",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "maximum",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mayor",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "meaningful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "meanwhile",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "measure",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "measurement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mechanic",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mechanical",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "meditate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "meditation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "Mediterranean",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "medium",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "melt",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "membership",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "memorable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "memorise",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "mend",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "mental",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "mentally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "merchant",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mere",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "merely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "mess",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "message board",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "messy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "middle-aged",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "mild",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "mile",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mineral",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "minimise",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "minimum",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "minor",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "minority",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "minus",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "miracle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mischief",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "miserable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "misery",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mislead",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "mission",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "misty",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "misunderstanding",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mixing bowl",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "modal verb",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "modem",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "moderate",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "modify",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "moisture",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "molecule",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "monitor",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "monk",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "monster",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "monthly",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "monument",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "moral",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "moreover",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "mosquito",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "moss",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "motherland",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "motionless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "motivate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "motivation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "motive",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "motor",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "motorcycle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "motto",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mount",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "mountaintop",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mourn",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "movement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mud",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mule",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "murderer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "muscle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mustard",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "mutual",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "myth",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "nail",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "naked",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "nap",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "narrate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "narrative",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "narrow",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "nasty",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "nationalist",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "naturally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "navy blue",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "nearby",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "necklace",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "nectar",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "needle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "negotiate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "negotiation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "neighbourhood",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "nephew",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "nervousness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "network",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "neutral",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "nevertheless",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "newborn",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "newcomer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "newly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "next door",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "next-door",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "nickname",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "niece",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "nightlife",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "nod",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "noisily",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "none",
+"p": [
+"pronoun"
+],
+"c": "B1"
+},
+{
+"h": "nonetheless",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "nonsense",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "nor",
+"p": [
+"conjunction"
+],
+"c": "B1"
+},
+{
+"h": "normally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "northeast",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "northeastern",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "northern",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "northwest",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "northwestern",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "noticeable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "noticeboard",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "notion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "notorious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "novelist",
+"p": [
+"noun"
+],
+"c": "B1"
+}
+]

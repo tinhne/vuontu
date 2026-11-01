@@ -1,0 +1,1434 @@
+[
+{
+"h": "boiled",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "bonus",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bookcase",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bookshelf",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bookshop",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bored",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "boss",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bother",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "bra",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "brainstorm",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "brake",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "branch",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "brand",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "brave",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "breeze",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bride",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "brilliant",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "budget",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bug",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bulb",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "burn",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "bury",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "bus station",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bus stop",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "bush",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "businessman",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "businesswoman",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cab",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cafeteria",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "calendar",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "camping",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "campus",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "capital",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "capital letter",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "captain",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "car park",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "carrot",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cash",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cassette",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "castle",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cause",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "cent",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "centimetre",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "centre",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "century",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cereal",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "certain",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "certainly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "chain",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chairman",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "challenge",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "champagne",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "championship",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chance",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chapter",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chart",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "chat",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "cheap",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "cheek",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cheer",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "chef",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chemical",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cheque",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chess",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chest",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "childhood",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chilli",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chimpanzee",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chin",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "chirp",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "choice",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cigarette",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "citizen",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "claim",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "classic",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "classical music",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cleaner",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "clear",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "clearly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "clerk",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "click",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "climbing",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "clone",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "clown",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "clue",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "coast",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "coin",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cola",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "colourful",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "column",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "comb",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "comfortable",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "comic",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "commitment",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "committee",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "common",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "communicate",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "communication",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "company",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "comparative",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "compare",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "competition",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "complain",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "complaint",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "complete",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "composer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "concentrate",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "concern",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "condition",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "confident",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "confuse",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "confused",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "consequence",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "consider",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "consist",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "contact",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "container",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "context",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "continent",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "continue",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "contrast",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "control",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "convenience",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "convenient",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "cooker",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cooking",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cooler",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "correctly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "cost",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "count",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "country",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "countryside",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "couple",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "court",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "crazy",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "create",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "creative",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "creativity",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "creature",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "credit",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cricket",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "crime",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "crisp",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "criticise",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "cross",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "crowd",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "crowded",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "crown",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cruise",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "cupboard",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "curry",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "curse",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "custom",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "customer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "cycling",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "daily",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "dam",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "dancer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "danger",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "dangerous",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "daylight",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "dead",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "deal",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "death",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "debate",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "decide",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "deep",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "deeply",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "degree",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "delay",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "dentist",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "department store",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "depend",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "description",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "desert",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "dessert",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "destroy",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "detail",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "develop",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "developed",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "diamond",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "diary",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "die",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "diet",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "differently",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "difficulty",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "digital camera",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "dinosaur",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "direct",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "direction",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "director",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "disadvantage",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "disagree",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "disappear",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "disappointed",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "disappointing",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "disco",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "discover",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "discussion",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "dishonest",
+"p": [
+"adjective"
+],
+"c": "A2"
+}
+]

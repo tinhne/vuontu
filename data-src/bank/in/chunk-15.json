@@ -1,0 +1,1417 @@
+[
+{
+"h": "defeat",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "defence",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "defend",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "defender",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "deficiency",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "define",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "definite",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "definite article",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "definitely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "definition",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "delete",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "delicate",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "delight",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "delighted",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "delightful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "deliver",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "delivery",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "demand",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "democracy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "democratic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "demonstrate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "demonstration",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "deny",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "depart",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "department",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "departure",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dependent",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "deposit",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "depressed",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "depressing",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "depression",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "deprive",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "depth",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "derive",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "deserve",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "designer",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "desire",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "despair",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "desperate",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "despite",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "destination",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "destruction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "destructive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "detective",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "determination",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "determine",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "devastate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "devastating",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "development",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "device",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "devotion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "diagram",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dial",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "dialogue",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "diameter",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "diaper",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "differ",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "digital",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "diligence",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "diligent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "dioxide",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "directly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "dirt",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "disability",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "disable",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "disabled",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "disagreement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "disappoint",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "disappointment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "disaster",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "disastrous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "disc",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "disc jockey",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "discomfort",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "discount",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "discourage",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "discovery",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "discrimination",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "disease",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "disgusting",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "dishwasher",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dissolve",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "distance",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "distant",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "distinction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "distinctly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "distinguish",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "distribute",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "distribution",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "district",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "disturbance",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dive",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "diver",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "diverse",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "divine",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "diving",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "divorced",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "DJ",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "doc",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "document",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "documentary",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dolphin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dot",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "downward",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "doze",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dozen",
+"p": [
+"determiner",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "drag",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "dramatic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "drown",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "drunk",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "dude",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dull",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "dump",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "dustbin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dusty",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "duty",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "duty-free",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "duvet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "dynasty",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "eager",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "eagerness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "earache",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "earnest",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "eastern",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "easy-going",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "eco",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ecological",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "ecology",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "economic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "economics",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "economy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ecosystem",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ecstasy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "edge",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "edition",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "educate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "effective",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "efficiency",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "efficient",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "elbow",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "election",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "electrical",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "electricity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "electron",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "electronic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "element",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "eliminate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "embarrass",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "embarrassed",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "embarrassment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "emerge",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "emotion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "emotional",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "emotionally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "emperor",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "emphasis",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "emphasize",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "empire",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "employment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "enable",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "enclose",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "encounter",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "encouragement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "encouraging",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "encyclopaedia",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "endanger",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "endless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "endure",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "enemy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "engage",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "engaged",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "engine",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "engineering",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "Englishman",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "enjoyable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "enjoyment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "enrich",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "ensure",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "entertain",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "entertainer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "enthusiasm",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "enthusiast",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "enthusiastic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "entire",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "entirely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "entry",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "environmental",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "environmentalist",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "equal",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "equality",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "equally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "equipment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "era",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "essence",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "essential",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "establishment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "estimate",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "eternal",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "eternity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "evenly",
+"p": [
+"adverb"
+],
+"c": "B1"
+}
+]

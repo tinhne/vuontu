@@ -1,0 +1,1474 @@
+[
+{
+"h": "grape",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "grass",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "gray",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "great",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "green",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "greet",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "ground",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "group",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "grow",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "guess",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "guest",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "guitar",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "guy",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "habit",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "had",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "hair",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "haircut",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "half",
+"p": [
+"adverb",
+"determiner",
+"noun",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "hall",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "hamburger",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "hand",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "handsome",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "happen",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "happy",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "hard",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "has",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "hat",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "have",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "have to",
+"p": [
+"modal"
+],
+"c": "A1"
+},
+{
+"h": "he",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "head",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "headache",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "health",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "healthy",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "hear",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "heart",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "heavy",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "hello",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "help",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "her",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "here",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "hers",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "hi",
+"p": [
+"interjection"
+],
+"c": "A1"
+},
+{
+"h": "hide",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "high",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "hill",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "him",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "his",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "history",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "hobby",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "hold",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "hole",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "holiday",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "home",
+"p": [
+"adverb",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "hometown",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "homework",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "hope",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "horse",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "hospital",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "hot",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "hotel",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "hour",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "house",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "how",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "hungry",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "hurry",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "hurt",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "husband",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "I",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "ice",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "ice cream",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "idea",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "ideal",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "if",
+"p": [
+"conjunction"
+],
+"c": "A1"
+},
+{
+"h": "imagine",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "important",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "in",
+"p": [
+"adverb",
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "information",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "inside",
+"p": [
+"adjective",
+"adverb",
+"noun",
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "interested",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "interesting",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "internet",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "interview",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "interviewer",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "into",
+"p": [
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "introduce",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "is",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "island",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "it",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "item",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "its",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "jacket",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "January",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "jeans",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "jet",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "jewellery",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "job",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "join",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "judge",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "juice",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "July",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "jump",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "June",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "just",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "keep",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "key",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "kick",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "kid",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "kill",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "kind",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "king",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "kiss",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "kitchen",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "kite",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "knee",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "knife",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "know",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "lady",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "language",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "large",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "last name",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "late",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "later",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "laugh",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "lazy",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "leader",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "leaf",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "learn",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "leave",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "left",
+"p": [
+"adjective",
+"adverb",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "leg",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "lesson",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "let",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "letter",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "library",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "life",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "light",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "like",
+"p": [
+"conjunction",
+"preposition",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "lily",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "line",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "lion",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "list",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "listen",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "little",
+"p": [
+"adjective",
+"adverb",
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "live",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "living",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "living room",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "lonely",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "long",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "look",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "lot",
+"p": [
+"adverb",
+"noun",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "love",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "lovely",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "luck",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "lucky",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "lunch",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "machine",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "magazine",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "mail",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "make",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "man",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "many",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "map",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "March",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "match",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "maths",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "matter",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "may",
+"p": [
+"modal"
+],
+"c": "A1"
+},
+{
+"h": "May",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "maybe",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "me",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "meal",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "mean",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "meat",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "medicine",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "meet",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "meeting",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "memory",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "merry",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "message",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "middle",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "milk",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "mind",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "mine",
+"p": [
+"noun",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "minute",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "Miss",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "miss",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "mobile",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "mobile phone",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "mom",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "moment",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "mommie",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "Monday",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "money",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "monkey",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "month",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "moon",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "more",
+"p": [
+"adverb",
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "morning",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "most",
+"p": [
+"adverb",
+"determiner",
+"pronoun"
+],
+"c": "A1"
+}
+]

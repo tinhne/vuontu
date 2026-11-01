@@ -1,0 +1,1482 @@
+[
+{
+"h": "mother",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "mountain",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "mouse",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "mouth",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "move",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "movie",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "Mr.",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "Mrs",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "much",
+"p": [
+"adverb",
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "mum",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "music",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "musician",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "must",
+"p": [
+"modal"
+],
+"c": "A1"
+},
+{
+"h": "my",
+"p": [
+"determiner"
+],
+"c": "A1"
+},
+{
+"h": "name",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "nationality",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "near",
+"p": [
+"adjective",
+"adverb",
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "neck",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "need",
+"p": [
+"modal",
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "neighbour",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "never",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "new",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "news",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "newspaper",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "nice",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "night",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "nine",
+"p": [
+"number"
+],
+"c": "A1"
+},
+{
+"h": "nineteen",
+"p": [
+"number"
+],
+"c": "A1"
+},
+{
+"h": "ninety",
+"p": [
+"number"
+],
+"c": "A1"
+},
+{
+"h": "no",
+"p": [
+"adverb",
+"determiner"
+],
+"c": "A1"
+},
+{
+"h": "noise",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "nose",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "not",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "note",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "notebook",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "nothing",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "November",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "now",
+"p": [
+"adverb",
+"conjunction"
+],
+"c": "A1"
+},
+{
+"h": "number",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "nurse",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "o'clock",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "October",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "of",
+"p": [
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "off",
+"p": [
+"adjective",
+"adverb",
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "office",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "officer",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "often",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "OK",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "old",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "Olympics",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "on",
+"p": [
+"adverb",
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "once",
+"p": [
+"adverb",
+"conjunction"
+],
+"c": "A1"
+},
+{
+"h": "one",
+"p": [
+"determiner",
+"number",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "only",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "open",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "opera",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "or",
+"p": [
+"conjunction"
+],
+"c": "A1"
+},
+{
+"h": "orange",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "order",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "other",
+"p": [
+"determiner",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "our",
+"p": [
+"determiner"
+],
+"c": "A1"
+},
+{
+"h": "ours",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "out",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "outside",
+"p": [
+"adjective",
+"adverb",
+"noun",
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "over",
+"p": [
+"adverb",
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "own",
+"p": [
+"adjective",
+"pronoun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "owner",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "p.m.",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "page",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "paint",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "painting",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pair",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "palace",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pants",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "paper",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "paragraph",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pardon",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "parent",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "park",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "partner",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "party",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "past",
+"p": [
+"adjective",
+"adverb",
+"preposition"
+],
+"c": "A1"
+},
+{
+"h": "pay",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "peace",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pen",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pencil",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "people",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "period",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "person",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "personal",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "pet",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "phone",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "photo",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "piano",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pick",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "picnic",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "picture",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "piece",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pig",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pink",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pizza",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "place",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "plan",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "plane",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "play",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "player",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "please",
+"p": [
+"adverb",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "pleasure",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pocket",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "poem",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "point",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "pollution",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "pool",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "poor",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "pop",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "post",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "poster",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "potato",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "practice",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "practise",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "pray",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "present",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "pretty",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "price",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "prince",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "princess",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "problem",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "programme",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "purple",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "push",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "put",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "quarter",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "question",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "quickly",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "quiet",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "rabbit",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "radio",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "rain",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "rainy",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "rat",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "read",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "reader",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "reading",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "ready",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "real",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "really",
+"p": [
+"adverb"
+],
+"c": "A1"
+},
+{
+"h": "reason",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "red",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "remember",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "repeat",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "reporter",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "restaurant",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "result",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "review",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "ribbon",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "rice",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "rich",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "ride",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "right",
+"p": [
+"adjective",
+"adverb",
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "ring",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "river",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "role",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "room",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "rose",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "row",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "rude",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "rule",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "ruler",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "run",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "sad",
+"p": [
+"adjective"
+],
+"c": "A1"
+},
+{
+"h": "sailor",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "salad",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "sale",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "same",
+"p": [
+"adjective",
+"adverb",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "sandwich",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "Saturday",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "save",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "saw",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "say",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "school",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "science",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "scientist",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "sea",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "seat",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "second",
+"p": [
+"adjective",
+"adverb",
+"noun",
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "section",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "see",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "self",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "sell",
+"p": [
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "sentence",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "September",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "set",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "seven",
+"p": [
+"number"
+],
+"c": "A1"
+},
+{
+"h": "seventeen",
+"p": [
+"number"
+],
+"c": "A1"
+},
+{
+"h": "seventy",
+"p": [
+"number"
+],
+"c": "A1"
+},
+{
+"h": "shake",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "share",
+"p": [
+"noun",
+"verb"
+],
+"c": "A1"
+},
+{
+"h": "she",
+"p": [
+"pronoun"
+],
+"c": "A1"
+},
+{
+"h": "sheep",
+"p": [
+"noun"
+],
+"c": "A1"
+},
+{
+"h": "shelf",
+"p": [
+"noun"
+],
+"c": "A1"
+}
+]

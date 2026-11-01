@@ -1,0 +1,1428 @@
+[
+{
+"h": "secondary school",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "secretly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "secure",
+"p": [
+"adjective",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "security",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "seize",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "select",
+"p": [
+"adjective",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "selection",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "self-service",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "selfish",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "sensation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "separation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sequence",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "series",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "serious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "server",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "service",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "session",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "setting",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "settle",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "settlement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "settler",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "severe",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "severely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "sex",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "shadowy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "shallow",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "shame",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "shameful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "sharp",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "shave",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "sheer",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "sheet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "shelter",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sheriff",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "shift",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "shiny",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "shiver",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "shocked",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "shocking",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "shopper",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "shortage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "shortly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "shrimp",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sickness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sidewalk",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sigh",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "signal",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "signature",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "significance",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "signpost",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "silent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "silk",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "similarity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "similarly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "simplify",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "simultaneously",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "skeleton",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "skin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "skyscraper",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "slavery",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sleeve",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "slight",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "slightly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "slip",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "slogan",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "slope",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "slot",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "smoker",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sneeze",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "snowboard",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "snowstorm",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "soap opera",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "social networking",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "socially",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "soil",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "solid",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "somehow",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "someplace",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "sometime",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "sometimes",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "soothe",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "sophomore",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sore",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "sorrow",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sort",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "soul",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sour",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "southeast",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "southern",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "southwest",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "souvenir",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sparkle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "specialise",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "specialist",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "specially",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "spectacular",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "spectator",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "spelling",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sphere",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "spice",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "spicy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "spider",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "spinach",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "spiral",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "spirit",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "spiritual",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "spoil",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "sponge",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sponsor",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "sports",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "sportsmanship",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "stable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "stall",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "standard",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "stare",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "status",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "steadily",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "steady",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "steam",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "steel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "steep",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "stem",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "stick",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "sticker",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sticky",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "stir",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "storage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "stormy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "storyteller",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "strain",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "strangely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "strategic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "straw",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "strawberry",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "stream",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "strengthen",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "stress",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "stressed",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "stressful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "stretch",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "stricken",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "strip",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "stripe",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "struggle",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "stubborn",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "stuck",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "studio",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "stuffed",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "stumble",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "stun",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "stunning",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "stupid",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "stylish",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "subconscious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "submarine",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "substantial",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "substitute",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "suddenly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "suffer",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "sufficient",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "suffix",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "suicide",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "summarise",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "summit",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sunbathe",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "sundial",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sunrise",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sunset",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "superior",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "superstition",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "supply",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "supporter",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "supportive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "suppose",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "supposedly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "surely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "surface",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "surgeon",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "surgery",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "surprisingly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "surround",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "surrounding",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "survival",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "survivor",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "suspect",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "suspicion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "swarm",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "swear",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "sweatshirt",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "swell",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "swimmer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "switch",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "swollen",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "sword",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "sympathy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "symptom",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "syndrome",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "systematic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "tablet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "take-off",
+"p": [
+"noun"
+],
+"c": "B1"
+}
+]

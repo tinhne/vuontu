@@ -1,0 +1,1428 @@
+[
+{
+"h": "announcement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "annoyance",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "annoyed",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "annual",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "annually",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "ant",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "anti",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "antique",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "antonym",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "anxiety",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "anxiously",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "anyhow",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "ape",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "apology",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "apparent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "appeal",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "appetite",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "applaud",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "applause",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "application",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "appoint",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "appreciation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "approach",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "approval",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "approve",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "approximately",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "architect",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "arise",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "arithmetic",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "army",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "arrange",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "arrangement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "arrest",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "arrival",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "arrow",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "artist",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "artistic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "ashamed",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "aside",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "aspect",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "aspirin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "assign",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "assignment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "assist",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "assistance",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "associate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "assume",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "astronomer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "athletic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "Atlantic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "atmosphere",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "atomic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "attach",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "attachment",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "attain",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "attend",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "attract",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "attraction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "authority",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "auxiliary",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "available",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "avenue",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "aware",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "awareness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "awesome",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "awkward",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "babysit",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "babysitter",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "backache",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "backpack",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "backpacker",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "backpacking",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bacon",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "baggage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "baker",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bakery",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "balance",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bald",
+"p": [
+"adjective",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bandage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bang",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bank account",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bare",
+"p": [
+"adjective",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "barely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "bark",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "barman",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "barrel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "basement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "basin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "basis",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bathe",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "battle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "beard",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "beast",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "beat",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "beautifully",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "beaver",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "because of",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "bedside",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "behalf",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "behave",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "belief",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "beloved",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "beneath",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "benefit",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "bet",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bilingual",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "bin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "biochemistry",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "biography",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "biology",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bishop",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bitter",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "bleed",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "blend",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bless",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "blessing",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "blind",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "blog",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "blogger",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "blush",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "boast",
+"p": [
+"verb",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bold",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "boldly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "bomb",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bond",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "booking",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "boom",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "boot",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "border",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bore",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "boredom",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bounce",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bound",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "bow",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "boxing",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bracelet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "brainstorming",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "brand-new",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "brass",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bravely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "breakthrough",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "breast",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "breath",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "breathless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "breed",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "breeding",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "brick",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "brief",
+"p": [
+"adjective",
+"verb",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "briefly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "brightly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "broad",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "broadcast",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "broccoli",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bronze",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "brotherhood",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bubble",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "buddy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "builder",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bull",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bullet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bulletin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bump",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bunch",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "burden",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "bureau",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "burglar",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "burning",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "burst",
+"p": [
+"verb",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "bust",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "butcher",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "buyer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cabbage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cabin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cage",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "calculate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "calculation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "calculator",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "calf",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "caller",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "calm",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "calmness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "camel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "campsite",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "canal",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "cancel",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "cancer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "candle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "canned",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "canteen",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "capable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "capacity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "capsule",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "capture",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "career",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "careless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "carelessly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "carelessness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "carpet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "carriage",
+"p": [
+"noun"
+],
+"c": "B1"
+}
+]

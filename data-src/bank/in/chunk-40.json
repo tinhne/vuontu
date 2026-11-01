@@ -1,0 +1,1410 @@
+[
+{
+"h": "affectation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "aghast",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "agile",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "agility",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "all-encompassing",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "allegorical",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "allegory",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "allot",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "allotment",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "allude",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "allusion",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "amorphous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "amorphously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "anarchic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "angst",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "angsty",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "angular",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "angularity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "annex",
+"p": [
+"noun",
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "anonymity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "antediluvian",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "anthology",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "anthropological",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "anthropologically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "anticlimactically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "antidote",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "antithesis",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "antithetical",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "apostle",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "apprehend",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "aptitude",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "arcane",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "arcanely",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "archetypal",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "archetype",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "archival",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "ardour",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "arduous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "arduously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "armoury",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "articulation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "artifact",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "artifice",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "assimilate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "assimilation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "astringent",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "athleticism",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "attributive",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "attrition",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "attuned",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "austere",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "austerely",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "austerity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "authenticity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "automate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "autonomous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "autonomously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "autopilot",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "averse",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "avian",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "axiom",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "axiomatic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "babble",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "banish",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "banishment",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "baroque",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "bauble",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "behest",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "belligerence",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "belligerent",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "beneficiary",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "bereft",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "bereftly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "besiege",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "blandishment",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "blight",
+"p": [
+"noun",
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "blitz",
+"p": [
+"verb",
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "blubber",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "blubbery",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "blurb",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "bogus",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "bona fide",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "bout",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "brandish",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "breadwinner",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "brevity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "brim",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "brimstone",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "brink",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "brood",
+"p": [
+"verb",
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "brouhaha",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "buccaneer",
+"p": [
+"verb",
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "buffoonery",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "burgeoning",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "buzzard",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "caffeinate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "calamitous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "calamitously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "calamity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "callous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "callously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "calorific",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "capacious",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "carbonise",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "catastrophically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "cay",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "centralised",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "choreographical",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "choreography",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "chronologically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "chronology",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "chrysalis",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "cinematographer",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "cinematography",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "circumnavigate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "circumnavigation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "clinch",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "cloister",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "cloistered",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "coax",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "cocoon",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "cogent",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "cogently",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "cognitive",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "collide",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "collider",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "colloquial",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "colloquially",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "colloquium",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "combustion",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "commensurate",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "commensurately",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "commode",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "commodity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "compellingly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "computerise",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "conciliation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "conciliatory",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "concurrence",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "condensation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "condone",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "conduit",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "confabulate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "confabulation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "confection",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "confrontational",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "confrontationally",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "conglomerate",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "conjecture",
+"p": [
+"verb",
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "connotation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "connote",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "consign",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "consignment",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "consternation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "constrained",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "contagion",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "contemptuous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "contemptuously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "contractual",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "contractually",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "contraption",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "contrive",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "cordon",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "corpse",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "corpus",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "correlate",
+"p": [
+"noun",
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "correlation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "cosmic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "cosset",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "counsel",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "counterproductive",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "counterproductively",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "crippling",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "crony",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "crystallisation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "cull",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "cultish",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "curate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "curator",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "dampen",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "deaden",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "decentralise",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "declination",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "deficient",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "deficiently",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "delicatessen",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "demystification",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "demystify",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "denotation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "denote",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "denounce",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "denunciation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "depraved",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "depravity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "deprecate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "deprecatingly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "depressive",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "derelict",
+"p": [
+"adjective",
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "derision",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "derisive",
+"p": [
+"adjective"
+],
+"c": "C2"
+}
+]

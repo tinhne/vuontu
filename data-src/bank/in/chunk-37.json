@@ -1,0 +1,1415 @@
+[
+{
+"h": "forensic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "forfeit",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "formality",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "formulate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "fossil",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "fraction",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "fragmentation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "frostily",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "frosty",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "fuse",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "fusion",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "gadget",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "gamely",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "gape",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "gem",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "genome",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "geological",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "geologically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "ghostly",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "gig",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "glean",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "glum",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "glumly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "gnaw",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "goose",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "gourmet",
+"p": [
+"adjective",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "graft",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "grapefruit",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "grounds",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "gruelling",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "gruesome",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "gruesomely",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "grumble",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "gush",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "gushing",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "gushingly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "gusto",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "gutsy",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "gypsy",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "hack",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "haggle",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "harass",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "harassment",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "headstrong",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "hedgehog",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "heifer",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "heighten",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "hence",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "heroine",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "hibernate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "hibernation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "homely",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "honk",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "hostess",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "hostile",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "hostility",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "hypocrisy",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "hypocrite",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "hypocritical",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "hypocritically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "immense",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "immensely",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "immortalize",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "imp",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "impede",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "impediment",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "impersonal",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "impersonally",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "impersonate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "impersonation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "impersonator",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "impervious",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "impish",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "impishly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "implicate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "impoverished",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "incision",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "incisor",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "inclusion",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "inclusive",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "inclusively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "indefinite",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "indefinitely",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "individuality",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "induct",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "induction",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "inexcusable",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "inexcusably",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "inexhaustible",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "inexplicable",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "inexplicably",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "ingenious",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "ingenuity",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "inherent",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "inherently",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "inheritance",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "injustice",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "innovate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "insecure",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "insecurely",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "insensitive",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "insensitively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "insightful",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "insightfully",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "instinctive",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "instinctively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "insubordinate",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "insubordinately",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "insubordination",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "integral",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "intellect",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "interject",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "interjection",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "intuit",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "intuition",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "intuitive",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "intuitively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "invoice",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "irate",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "irately",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "irony",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "isolate",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "isolated",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "itinerary",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "jersey",
+"p": [
+"noun",
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "jurisdiction",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "justly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "juvenile",
+"p": [
+"noun",
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "knowledgeable",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "lacklustre",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "lapse",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "latent",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "lavatory",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "legacy",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "lethargic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "lethargically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "lethargy",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "liaison",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "likelihood",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "limitless",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "linear",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "linearly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "loom",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "ludicrous",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "ludicrously",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "lust",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "macabre",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "magnetic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "magnetically",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "magnetism",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "malfunction",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "manicure",
+"p": [
+"noun",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "manipulation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "manoeuvre",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "marginal",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "marginally",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "mark-up",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "marvel",
+"p": [
+"verb",
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "maternal",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "maternalistic",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "meaningless",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "meaninglessly",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "mechanism",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "methodical",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "midwife",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "mingle",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "minutiae",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "misplace",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "monotonous",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "monotonously",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "monotony",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "motley",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "mountaineer",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "munch",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "muscular",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "mutually",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "mythological",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "mythology",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "naive",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "naively",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "naivety",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "naturalness",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "neglectful",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "negligent",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "negligently",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "negligible",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "neutralisation",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "neutralise",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "niche",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "nocturnal",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "nondescript",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "norms",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "notable",
+"p": [
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "notwithstanding",
+"p": [
+"preposition"
+],
+"c": "C1"
+},
+{
+"h": "numb",
+"p": [
+"adjective",
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "oblige",
+"p": [
+"verb"
+],
+"c": "C1"
+},
+{
+"h": "obscure",
+"p": [
+"verb",
+"adjective"
+],
+"c": "C1"
+},
+{
+"h": "obscurely",
+"p": [
+"adverb"
+],
+"c": "C1"
+},
+{
+"h": "occupant",
+"p": [
+"noun"
+],
+"c": "C1"
+},
+{
+"h": "occupational",
+"p": [
+"adjective"
+],
+"c": "C1"
+}
+]

@@ -1,0 +1,1405 @@
+[
+{
+"h": "infallibility",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "infallible",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "infallibly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "infernal",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "infernally",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "informant",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "ingenuous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "ingenuously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "ingrate",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "ingratiate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "ingratiating",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "ingratiatingly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "innuendo",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "inscrutable",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "instantaneous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "instantaneously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "insular",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "integration",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "interlocking",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "interlude",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "intermediary",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "interrogate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "interrogation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "interrogative",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "interrogatively",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "intersperse",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "interweave",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "intrinsic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "intrinsically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "ironic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "irrelevancy",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "irrevocable",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "irrevocably",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "jargon",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "jarring",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "kinetic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "kinetically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "knack",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "lament",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "lamentation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "laryngitis",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "lassitude",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "laud",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "laudatory",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "leaven",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "leavening",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "legion",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "liaise",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "locomotion",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "locomotive",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "loiter",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "lurid",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "luridly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "lyrical",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "lyrically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "lyricist",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "maelstrom",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "maggot",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "magnanimity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "magnanimous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "magnanimously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "magnate",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "magpie",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "malice",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "malicious",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "maliciously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "malleability",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "malleable",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "mangle",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "mariner",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "marketability",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "materialisation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "materialise",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "materialism",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "materialistic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "maverick",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "meagre",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "mediate",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "mediation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "mediocrity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "melancholy",
+"p": [
+"noun",
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "melodious",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "melodiously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "menace",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "menacing",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "menacingly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "menial",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "mercantile",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "mercenary",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "merit",
+"p": [
+"noun",
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "mesh",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "mesmeric",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "metalled",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "meteorological",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "meteorology",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "methodological",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "methodologically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "methodology",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "meticulous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "meticulously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "midwifery",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "mien",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "milieu",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "minefield",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "minster",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "misdemanour",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "modernism",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "monastic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "moor",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "moribund",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "mottled",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "mull over",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "mundanity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "munificence",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "muscle-bound",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "mutinous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "mutinously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "myriad",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "mystique",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "nascent",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "neophyte",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "nigh",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "nonchalant",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "nonchalantly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "nostalgia",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "nostalgic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "nostalgically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "notoriety",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "notoriously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "oblique",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "octogenarian",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "opacity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "opaque",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "opulence",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "opulent",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "opulently",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "ordain",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "ore",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "ornate",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "ostensible",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "ostensibly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "outmoded",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "overlay",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "painstaking",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "painstakingly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "palatable",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "palate",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "parable",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "paradoxical",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "paradoxically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "paralysingly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "parameter",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "paramount",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "parasitic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "parochial",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "patchily",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "patchy",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "patronise",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "patronising",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "patronisingly",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "pedestal",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "perch",
+"p": [
+"verb",
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "pervasive",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "pervasiveness",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "perverse",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "perversity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "philanthropic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "philanthropically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "philanthropist",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "philanthropy",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "philistine",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "physiological",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "physiologically",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "plumage",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "plume",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "plutocrat",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "polysyllabic",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "ponderous",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "ponderously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "porten",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "portraiture",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "posit",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "posterity",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "postural",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "posturing",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "practitioner",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "precocious",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "precociously",
+"p": [
+"adverb"
+],
+"c": "C2"
+},
+{
+"h": "preconception",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "predilection",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "preeminent",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "preoccupation",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "prescriptive",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "presentational",
+"p": [
+"adjective"
+],
+"c": "C2"
+},
+{
+"h": "preservationist",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "pressurization",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "pressurize",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "presuppose",
+"p": [
+"verb"
+],
+"c": "C2"
+},
+{
+"h": "presupposition",
+"p": [
+"noun"
+],
+"c": "C2"
+},
+{
+"h": "primeval",
+"p": [
+"adjective"
+],
+"c": "C2"
+}
+]

@@ -1,0 +1,1454 @@
+[
+{
+"h": "hike",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "hiking",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "himself",
+"p": [
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "hip hop",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "hit",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "hockey",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "honey",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "honour",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "horror",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "host",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "however",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "hug",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "human",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "hundred",
+"p": [
+"number"
+],
+"c": "A2"
+},
+{
+"h": "hunter",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "ID",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "ID card",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "ill",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "illegal",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "image",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "imagination",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "impact",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "impatient",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "importance",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "importantly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "impossible",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "impress",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "improve",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "inch",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "include",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "increase",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "indeed",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "independence",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "indicate",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "indoor",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "inexpensive",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "influence",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "injure",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "inner",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "insect",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "inspiration",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "instant",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "instead",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "instrument",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "intelligence",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "intelligent",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "interest",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "international",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "invade",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "invent",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "invention",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "invite",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "issue",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "IT",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "itself",
+"p": [
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "jam",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "jelly",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "joke",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "journey",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "joy",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "junior",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "junk",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "killer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "kilo",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "kilogramme",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "kilometre",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "kindly",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "kingdom",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "kit",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "knock",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "knowledge",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "labour",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "lack",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "lake",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "lamp",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "land",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "landscape",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "lane",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "last",
+"p": [
+"adverb",
+"determiner",
+"pronoun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "latest",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "latter",
+"p": [
+"adjective",
+"adverb",
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "law",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "lawyer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "laziness",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "lead",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "learner",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "least",
+"p": [
+"adverb",
+"determiner",
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "leather",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "left-hand",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "leisure",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "lemon",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "lemonade",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "lend",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "less",
+"p": [
+"adverb",
+"determiner",
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "level",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "liberty",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "licence",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "lie",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "lifestyle",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "likely",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "lip",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "litre",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "lively",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "load",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "local",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "lock",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "logical",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "loose",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "lose",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "lost",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "loudly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "lover",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "low",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "luckily",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "lunchtime",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "lyric",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "mad",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "magic",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "main course",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mainly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "major",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "make-up",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "maker",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "male",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mall",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "manage",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "manager",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "manner",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mark",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "market",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "married",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "marry",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "marvellous",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "material",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "max",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "meaning",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "medal",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "medical",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "melon",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "member",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mention",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "menu",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "metal",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "method",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "metre",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "midday",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "midnight",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "might",
+"p": [
+"modal"
+],
+"c": "A2"
+},
+{
+"h": "military",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "million",
+"p": [
+"number"
+],
+"c": "A2"
+},
+{
+"h": "mineral water",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mirror",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "missing",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "mistake",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mix",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "model",
+"p": [
+"adjective",
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "modern",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "mood",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mosque",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mostly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "motorway",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "MP3 player",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "Ms.",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mug",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "murder",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "museum",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "mushroom",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "musical",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "myself",
+"p": [
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "mysterious",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "mystery",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "napkin",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "nation",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "national",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "native",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "natural",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "nature",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "nearly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "necessary",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "negative",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "nervous",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "net",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "next",
+"p": [
+"adverb",
+"determiner",
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "next to",
+"p": [
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "no one",
+"p": [
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "nobody",
+"p": [
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "noisy",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "noon",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "normal",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "north",
+"p": [
+"adjective",
+"adverb",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "notice",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "noun",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "novel",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "nowadays",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "oak",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "occupation",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "offer",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "official",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "oil",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "olive oil",
+"p": [
+"noun"
+],
+"c": "A2"
+}
+]

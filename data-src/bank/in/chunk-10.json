@@ -1,0 +1,1452 @@
+[
+{
+"h": "Olympic",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "omelette",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "onion",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "online",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "operate",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "opinion",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "opportunity",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "oppose",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "opposite",
+"p": [
+"adjective",
+"adverb",
+"noun",
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "organise",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "organised",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "original",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "orphan",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "ourselves",
+"p": [
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "out of",
+"p": [
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "oven",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "overseas",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "overweight",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "pacific",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "pack",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "painter",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pal",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pan",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "panic",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "part",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "partly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "pass",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "passage",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "passenger",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pasta",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "path",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "patient",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "PC",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pea",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "peaceful",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "pear",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pence",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "penfriend",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pepper",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "perfect",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "perfectly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "perform",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "performance",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "perfume",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "perhaps",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "permission",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "personality",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "petrol",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "petrol station",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "photograph",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "photographer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "photography",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "physical",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "physically",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "pile",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pilgrim",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pill",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pilot",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pity",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "planet",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "plant",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "plastic",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "plate",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "playful",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "playground",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pleasant",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "pleased",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "pleasing",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "plenty",
+"p": [
+"noun",
+"pronoun"
+],
+"c": "A2"
+},
+{
+"h": "plural",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "plus",
+"p": [
+"conjunction",
+"noun",
+"preposition"
+],
+"c": "A2"
+},
+{
+"h": "police",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "police officer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "police station",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "policeman",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "policewoman",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "polite",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "political",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "pollute",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "popular",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "population",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "portrait",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "position",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "possible",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "possibly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "post office",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pour",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "power",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "powerful",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "precise",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "predict",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "prediction",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "prefer",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "prepare",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "pressure",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pretend",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "prevent",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "pride",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "principal",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "print",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "printer",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "private",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "pro",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "probably",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "produce",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "product",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "production",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "professional",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "progressive",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "promise",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "pronounce",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "pronunciation",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "proper",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "provide",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "psychologist",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "public",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "publish",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "pull",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "punctuation",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "purpose",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "pursue",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "quality",
+"p": [
+"adjective",
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "queen",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "quick",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "quietly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "quit",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "quite",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "quiz",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "racket",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "raincoat",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "raise",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "range",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "rap",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "rate",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "rather",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "rating",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "raw",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "ray",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "reach",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "realise",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "receipt",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "receive",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "recent",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "recently",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "receptionist",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "record",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "recycle",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "refer",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "reflect",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "refrigerator",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "regret",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "regular",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "regularly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "relax",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "relaxed",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "release",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "remain",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "remind",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "remote",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "rent",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "repair",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "replace",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "reply",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "report",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "represent",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "request",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "research",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "response",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "retire",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "retired",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "return",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "reunion",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "reveal",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "rhythm",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "right-hand",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "road",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "roast",
+"p": [
+"adjective",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "rob",
+"p": [
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "robbery",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "robin",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "rock",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "roll",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "romance",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "romantic",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "roof",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "root",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "rope",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "roughly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "round",
+"p": [
+"adjective",
+"adverb",
+"noun",
+"preposition",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "roundabout",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "royal",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "rugby",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "ruin",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "rumour",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "runner",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "running",
+"p": [
+"noun"
+],
+"c": "A2"
+},
+{
+"h": "rush",
+"p": [
+"noun",
+"verb"
+],
+"c": "A2"
+},
+{
+"h": "sadly",
+"p": [
+"adverb"
+],
+"c": "A2"
+},
+{
+"h": "safe",
+"p": [
+"adjective"
+],
+"c": "A2"
+},
+{
+"h": "sailing",
+"p": [
+"noun"
+],
+"c": "A2"
+}
+]

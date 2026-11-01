@@ -1,0 +1,2899 @@
+{
+  "lessons": [
+    {
+      "id": "b2-relative-clauses",
+      "level": "B2",
+      "order": 1,
+      "titleVi": "Mệnh đề quan hệ xác định và không xác định",
+      "titleEn": "Defining and non-defining relative clauses",
+      "summaryVi": "Sau bài này, bạn sẽ phân biệt và dùng đúng mệnh đề quan hệ xác định và không xác định, kể cả cách đặt dấu phẩy và khi nào được lược bỏ đại từ quan hệ.",
+      "sections": [
+        {
+          "headingVi": "Mệnh đề quan hệ xác định",
+          "bodyVi": "Mệnh đề quan hệ xác định (defining relative clause) cho biết **chính xác người hoặc vật nào** đang được nói đến. Nếu bỏ mệnh đề này đi, câu sẽ thiếu thông tin quan trọng hoặc đổi nghĩa.\n\n> N (người) + who/that + V ...\n> N (vật) + which/that + V ...\n> N + (who/which/that) + S + V ... (đại từ làm tân ngữ có thể lược bỏ)\n\n- **Không** dùng dấu phẩy trước và sau mệnh đề.\n- Có thể dùng **that** thay cho who/which.\n- Khi đại từ quan hệ làm **tân ngữ**, ta có thể lược bỏ nó: the laptop (that) I bought.",
+          "examples": [
+            {
+              "en": "The students who passed the test will receive a certificate.",
+              "vi": "Những học sinh đã vượt qua bài kiểm tra sẽ nhận được chứng chỉ."
+            },
+            {
+              "en": "The laptop I bought last week has already broken down.",
+              "vi": "Chiếc laptop tôi mua tuần trước đã bị hỏng rồi."
+            },
+            {
+              "en": "Is this the café where you met your wife?",
+              "vi": "Đây có phải là quán cà phê nơi anh gặp vợ mình không?"
+            }
+          ]
+        },
+        {
+          "headingVi": "Mệnh đề quan hệ không xác định",
+          "bodyVi": "Mệnh đề quan hệ không xác định (non-defining relative clause) chỉ **bổ sung thêm thông tin** về một người hoặc vật đã rõ ràng (tên riêng, người duy nhất, vật đã được xác định). Bỏ mệnh đề đi, câu vẫn đủ nghĩa.\n\n> N, who/which/whose + ..., phần còn lại của câu\n\n- Luôn có **dấu phẩy** ngăn cách (chỉ một dấu phẩy nếu mệnh đề nằm cuối câu).\n- **Không dùng that**.\n- **Không được lược bỏ** đại từ quan hệ.\n- **which** có thể thay cho **cả mệnh đề phía trước** để bình luận về sự việc đó.",
+          "examples": [
+            {
+              "en": "My sister, who lives in Da Nang, is a software engineer.",
+              "vi": "Chị gái tôi, người đang sống ở Đà Nẵng, là kỹ sư phần mềm."
+            },
+            {
+              "en": "Hanoi, which has a history of over a thousand years, attracts many tourists.",
+              "vi": "Hà Nội, thành phố có lịch sử hơn một nghìn năm, thu hút rất nhiều du khách."
+            },
+            {
+              "en": "He passed the exam on his first try, which surprised everyone.",
+              "vi": "Anh ấy đỗ kỳ thi ngay lần đầu, điều này khiến mọi người bất ngờ."
+            }
+          ]
+        },
+        {
+          "headingVi": "Whose, where, when và giới từ + which/whom",
+          "bodyVi": "Ngoài who, which, that, bạn cần nắm thêm một số từ quan hệ khác:\n\n- **whose** + danh từ: chỉ sở hữu (của người/vật đó).\n- **where** = in/at which: chỉ nơi chốn.\n- **when** = in/on which: chỉ thời gian.\n- **why** (sau the reason): chỉ lý do.\n\nTrong văn phong trang trọng, giới từ thường được đặt **trước** đại từ quan hệ. Lưu ý: sau giới từ chỉ dùng **which** (vật) và **whom** (người), không dùng that hay who.\n\n> giới từ + which/whom + S + V\n> some of / most of / none of + which/whom",
+          "examples": [
+            {
+              "en": "The scientist whose research changed the field will give a talk tomorrow.",
+              "vi": "Nhà khoa học có công trình nghiên cứu làm thay đổi cả lĩnh vực sẽ có bài nói chuyện vào ngày mai."
+            },
+            {
+              "en": "I still remember the day when we first met.",
+              "vi": "Tôi vẫn nhớ ngày chúng ta gặp nhau lần đầu."
+            },
+            {
+              "en": "The committee to which the report was sent has not responded yet.",
+              "vi": "Ủy ban nhận được bản báo cáo vẫn chưa phản hồi."
+            },
+            {
+              "en": "There were 30 applicants, ten of whom were invited to an interview.",
+              "vi": "Có 30 ứng viên, mười người trong số đó được mời phỏng vấn."
+            }
+          ]
+        },
+        {
+          "headingVi": "Ứng dụng trong IELTS",
+          "bodyVi": "Mệnh đề quan hệ giúp bạn **nối hai câu đơn thành một câu phức**, điều mà giám khảo đánh giá cao ở tiêu chí Grammatical Range and Accuracy.\n\n- **Writing Task 1**: dùng **, which** để bình luận về số liệu vừa nêu.\n- **Writing Task 2**: dùng **whose** hoặc mệnh đề không xác định để thêm thông tin nền mà câu vẫn gọn.\n- **Speaking**: dùng mệnh đề xác định để mô tả người, nơi chốn cụ thể (the teacher who..., the place where...).\n\nHãy kiểm tra kỹ dấu phẩy: thiếu hoặc thừa dấu phẩy có thể làm thay đổi nghĩa của câu.",
+          "examples": [
+            {
+              "en": "The number of tourists rose sharply in 2019, which was partly due to cheaper flights.",
+              "vi": "Lượng khách du lịch tăng mạnh vào năm 2019, một phần là nhờ vé máy bay rẻ hơn."
+            },
+            {
+              "en": "Japan, whose population is ageing rapidly, is facing a shortage of workers.",
+              "vi": "Nhật Bản, quốc gia có dân số đang già hoá nhanh, đang đối mặt với tình trạng thiếu lao động."
+            },
+            {
+              "en": "The person who has influenced me most is my high school English teacher.",
+              "vi": "Người có ảnh hưởng lớn nhất đến tôi là cô giáo dạy tiếng Anh thời cấp ba."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "My father, that is a doctor, works long hours.",
+          "right": "My father, who is a doctor, works long hours.",
+          "noteVi": "Mệnh đề quan hệ không xác định (có dấu phẩy) không dùng that; với người, hãy dùng who."
+        },
+        {
+          "wrong": "The man who I met him yesterday is my new teacher.",
+          "right": "The man who I met yesterday is my new teacher.",
+          "noteVi": "Đại từ quan hệ đã thay cho tân ngữ nên không lặp lại him. Lỗi này thường do dịch sát kiểu “người mà tôi gặp anh ấy”."
+        },
+        {
+          "wrong": "My mother who is 55 still works full-time.",
+          "right": "My mother, who is 55, still works full-time.",
+          "noteVi": "Mỗi người chỉ có một mẹ, nên “55 tuổi” là thông tin bổ sung và phải đặt giữa hai dấu phẩy."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "The woman ___ lives next door is a nurse.",
+            "options": [
+              "who",
+              "which",
+              "whose"
+            ],
+            "answer": 0,
+            "explanationVi": "The woman là người và đại từ cần điền làm chủ ngữ cho động từ lives, nên dùng who."
+          },
+          {
+            "type": "mcq",
+            "prompt": "I lost the umbrella ___ my grandmother gave me.",
+            "options": [
+              "who",
+              "whose",
+              "which"
+            ],
+            "answer": 2,
+            "explanationVi": "The umbrella là vật và đại từ làm tân ngữ của gave, nên dùng which (hoặc that)."
+          },
+          {
+            "type": "mcq",
+            "prompt": "That's the boy ___ bike was stolen yesterday.",
+            "options": [
+              "who",
+              "whose",
+              "which",
+              "whom"
+            ],
+            "answer": 1,
+            "explanationVi": "Whose + danh từ (bike) chỉ sự sở hữu: chiếc xe đạp của cậu bé."
+          },
+          {
+            "type": "fill",
+            "prompt": "Da Lat, ___ is famous for its flowers, attracts many tourists every year.",
+            "answers": [
+              "which"
+            ],
+            "explanationVi": "Đây là mệnh đề không xác định (có dấu phẩy) và từ cần điền làm chủ ngữ cho is, nên dùng which; không dùng that hay where."
+          }
+        ],
+        "medium": [
+          {
+            "type": "fill",
+            "prompt": "This is the city ___ I was born. (1–2 từ)",
+            "answers": [
+              "where",
+              "in which"
+            ],
+            "explanationVi": "Where (= in which) thay cho nơi chốn trong mệnh đề I was born in the city."
+          },
+          {
+            "type": "mcq",
+            "prompt": "My best friend, ___ I have known since primary school, is getting married next month.",
+            "options": [
+              "that",
+              "whom",
+              "which",
+              "whose"
+            ],
+            "answer": 1,
+            "explanationVi": "Mệnh đề không xác định nói về người, đại từ làm tân ngữ của known nên dùng whom (hoặc who); that không đứng sau dấu phẩy."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is punctuated correctly?",
+            "options": [
+              "The Mekong which flows through six countries is vital for farming.",
+              "The Mekong, that flows through six countries, is vital for farming.",
+              "The Mekong, which flows through six countries, is vital for farming."
+            ],
+            "answer": 2,
+            "explanationVi": "Sông Mê Kông là danh từ riêng đã xác định, nên mệnh đề chỉ bổ sung thông tin: cần hai dấu phẩy và dùng which, không dùng that."
+          },
+          {
+            "type": "mcq",
+            "prompt": "She didn't reply to my message, ___ made me worried.",
+            "options": [
+              "which",
+              "that",
+              "what"
+            ],
+            "answer": 0,
+            "explanationVi": "Which sau dấu phẩy có thể thay cho cả mệnh đề phía trước (việc cô ấy không trả lời tin nhắn)."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "The researchers interviewed 200 participants, most of ___ were under 30.",
+            "options": [
+              "them",
+              "whom",
+              "who",
+              "which"
+            ],
+            "answer": 1,
+            "explanationVi": "Sau most of / some of trong mệnh đề quan hệ chỉ người phải dùng whom; dùng them sẽ tạo ra hai mệnh đề độc lập chỉ nối bằng dấu phẩy, sai ngữ pháp."
+          },
+          {
+            "type": "fill",
+            "prompt": "The theory on ___ the study was based has since been challenged.",
+            "answers": [
+              "which"
+            ],
+            "explanationVi": "Sau giới từ on, với danh từ chỉ vật (the theory), chỉ dùng which; không dùng that sau giới từ."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Countries ___ economies depend heavily on tourism were hit hardest during the pandemic.",
+            "options": [
+              "which",
+              "who",
+              "whose",
+              "what"
+            ],
+            "answer": 2,
+            "explanationVi": "Whose + economies diễn tả sở hữu: nền kinh tế của các quốc gia đó."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence uses a relative clause correctly?",
+            "options": [
+              "The proportion of elderly people, that is rising steadily, will put pressure on healthcare.",
+              "The graph which it shows energy consumption in three countries between 2000 and 2020.",
+              "Coal consumption fell by 20%, that reflects a shift towards renewable energy.",
+              "Coal consumption fell by 20%, which reflects a shift towards renewable energy."
+            ],
+            "answer": 3,
+            "explanationVi": "Which sau dấu phẩy dùng để bình luận cả mệnh đề trước; các câu còn lại dùng that sau dấu phẩy hoặc lặp thừa đại từ it."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b2-third-mixed-conditionals",
+      "level": "B2",
+      "order": 2,
+      "titleVi": "Câu điều kiện loại 3 và câu điều kiện hỗn hợp",
+      "titleEn": "Third and mixed conditionals",
+      "summaryVi": "Sau bài này, bạn sẽ dùng câu điều kiện loại 3 và câu điều kiện hỗn hợp để nói về những giả định trái với quá khứ và hệ quả của chúng ở quá khứ hoặc hiện tại.",
+      "sections": [
+        {
+          "headingVi": "Câu điều kiện loại 3",
+          "bodyVi": "Câu điều kiện loại 3 dùng để nói về một tình huống **không có thật trong quá khứ** và kết quả tưởng tượng của nó, cũng ở quá khứ. Cấu trúc này thường dùng để bày tỏ sự tiếc nuối hoặc trách móc.\n\n> If + S + had + V3, S + would/could/might + have + V3\n\n- **would have**: chắc chắn đã xảy ra.\n- **could have**: đã có khả năng xảy ra.\n- **might have**: có lẽ đã xảy ra.\n\nMệnh đề if có thể đứng sau mệnh đề chính; khi đó không cần dấu phẩy.",
+          "examples": [
+            {
+              "en": "If I had left home earlier, I wouldn't have missed the train.",
+              "vi": "Nếu tôi rời nhà sớm hơn thì tôi đã không lỡ chuyến tàu."
+            },
+            {
+              "en": "She could have won the race if she hadn't fallen.",
+              "vi": "Cô ấy đã có thể thắng cuộc đua nếu không bị ngã."
+            },
+            {
+              "en": "If they had checked the data, they might have noticed the error.",
+              "vi": "Nếu họ kiểm tra dữ liệu thì có lẽ họ đã phát hiện ra lỗi."
+            }
+          ]
+        },
+        {
+          "headingVi": "Câu điều kiện hỗn hợp",
+          "bodyVi": "Câu điều kiện hỗn hợp kết hợp **hai mốc thời gian khác nhau** trong cùng một câu. Có hai kiểu phổ biến:\n\n**Kiểu 1: quá khứ → hiện tại.** Một điều trái với quá khứ dẫn đến kết quả trái với hiện tại.\n\n> If + S + had + V3, S + would/could + V (nguyên mẫu)\n\n**Kiểu 2: hiện tại → quá khứ.** Một đặc điểm không đúng ở hiện tại (thường là tính cách hoặc sự thật lâu dài) dẫn đến kết quả trái với quá khứ.\n\n> If + S + V2/were, S + would/could + have + V3\n\nMẹo: hãy tìm các từ chỉ thời gian như **now, today, still** (hiện tại) hoặc **yesterday, last year** (quá khứ) để xác định mỗi mệnh đề nói về lúc nào.",
+          "examples": [
+            {
+              "en": "If I had studied medicine, I would be a doctor now.",
+              "vi": "Nếu hồi đó tôi học ngành y thì bây giờ tôi đã là bác sĩ."
+            },
+            {
+              "en": "If we had bought that house, we would live near the beach now.",
+              "vi": "Nếu chúng tôi mua căn nhà đó thì giờ đã được sống gần biển."
+            },
+            {
+              "en": "If she weren't so shy, she would have spoken up at the meeting yesterday.",
+              "vi": "Nếu cô ấy không nhút nhát như vậy thì hôm qua cô ấy đã lên tiếng trong cuộc họp."
+            },
+            {
+              "en": "If I spoke Japanese, I could have helped those tourists.",
+              "vi": "Nếu tôi biết nói tiếng Nhật thì tôi đã có thể giúp những du khách đó."
+            }
+          ]
+        },
+        {
+          "headingVi": "Đảo ngữ và các cách diễn đạt thay thế",
+          "bodyVi": "Trong văn viết trang trọng, bạn có thể bỏ if và đưa **had** lên đầu câu. Ngoài ra, một số cụm từ cũng mang nghĩa điều kiện loại 3.\n\n> Had + S + (not) + V3, S + would have + V3\n> Without / But for + N, S + would have + V3\n\n- Không viết **Hadn't I known**; dạng phủ định đúng là **Had I not known**.\n- **But for** mang sắc thái trang trọng, nghĩa là “nếu không có”.",
+          "examples": [
+            {
+              "en": "Had I known about the traffic jam, I would have taken the metro.",
+              "vi": "Nếu biết trước bị kẹt xe thì tôi đã đi tàu điện."
+            },
+            {
+              "en": "Had she not called me, I would have forgotten the meeting.",
+              "vi": "Nếu cô ấy không gọi cho tôi thì tôi đã quên cuộc họp."
+            },
+            {
+              "en": "Without your help, I would have failed the course.",
+              "vi": "Nếu không có sự giúp đỡ của bạn thì tôi đã trượt môn học đó."
+            }
+          ]
+        },
+        {
+          "headingVi": "Ứng dụng trong IELTS Speaking",
+          "bodyVi": "Câu điều kiện loại 3 và câu hỗn hợp rất hữu ích khi giám khảo hỏi về **quá khứ, sự tiếc nuối hoặc những ngã rẽ trong cuộc đời** (ví dụ: Part 2 kể về một quyết định quan trọng, Part 3 bàn về những thay đổi trong xã hội).\n\n- Dùng loại 3 để nói về điều bạn tiếc nuối.\n- Dùng câu hỗn hợp để nối một sự kiện trong quá khứ với tình trạng hiện tại của bạn.\n\nMột câu hỗn hợp dùng chính xác cho thấy bạn kiểm soát tốt các thì, là điểm cộng cho tiêu chí Grammatical Range and Accuracy.",
+          "examples": [
+            {
+              "en": "If I hadn't joined that English club, I wouldn't be so confident today.",
+              "vi": "Nếu không tham gia câu lạc bộ tiếng Anh đó thì giờ tôi đã không tự tin như vậy."
+            },
+            {
+              "en": "Looking back, I would have chosen a different major if I had received better advice.",
+              "vi": "Nhìn lại, có lẽ tôi đã chọn một ngành khác nếu hồi đó được tư vấn tốt hơn."
+            },
+            {
+              "en": "If smartphones hadn't been invented, people would probably read more books now.",
+              "vi": "Nếu điện thoại thông minh không được phát minh thì có lẽ bây giờ mọi người sẽ đọc sách nhiều hơn."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "If I would have known, I would have helped you.",
+          "right": "If I had known, I would have helped you.",
+          "noteVi": "Không dùng would trong mệnh đề if; mệnh đề if của câu loại 3 dùng had + V3."
+        },
+        {
+          "wrong": "If I had studied harder, I would pass the exam last year.",
+          "right": "If I had studied harder, I would have passed the exam last year.",
+          "noteVi": "Kết quả nằm ở quá khứ (last year) nên mệnh đề chính phải dùng would have + V3."
+        },
+        {
+          "wrong": "If he had took the job, he would have moved to Hanoi.",
+          "right": "If he had taken the job, he would have moved to Hanoi.",
+          "noteVi": "Sau had phải dùng quá khứ phân từ (V3) là taken, không dùng quá khứ đơn took."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "If you ___ me, I would have picked you up at the airport.",
+            "options": [
+              "called",
+              "had called",
+              "have called"
+            ],
+            "answer": 1,
+            "explanationVi": "Mệnh đề chính dùng would have + V3 (loại 3), nên mệnh đề if phải dùng had + V3."
+          },
+          {
+            "type": "mcq",
+            "prompt": "If she had studied harder, she ___ the exam last week.",
+            "options": [
+              "would pass",
+              "will have passed",
+              "would have passed",
+              "passes"
+            ],
+            "answer": 2,
+            "explanationVi": "Cả điều kiện và kết quả đều ở quá khứ (last week), nên dùng would have + V3."
+          },
+          {
+            "type": "fill",
+            "prompt": "If I ___ about the party, I would have gone. (know)",
+            "answers": [
+              "had known"
+            ],
+            "explanationVi": "Câu điều kiện loại 3: mệnh đề if dùng had + V3, nên know chuyển thành had known."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is a third conditional?",
+            "options": [
+              "If he had asked me, I would have helped him.",
+              "If it rains, we will stay at home.",
+              "If I had a car, I would drive to work."
+            ],
+            "answer": 0,
+            "explanationVi": "Câu loại 3 có cấu trúc If + had + V3, would have + V3; hai câu còn lại là loại 1 và loại 2."
+          }
+        ],
+        "medium": [
+          {
+            "type": "fill",
+            "prompt": "If I ___ the bus this morning, I wouldn't be late now. (not / miss)",
+            "answers": [
+              "hadn't missed",
+              "had not missed"
+            ],
+            "explanationVi": "Việc lỡ xe buýt xảy ra sáng nay (quá khứ) còn kết quả ở hiện tại (now): đây là câu hỗn hợp, mệnh đề if dùng had + V3."
+          },
+          {
+            "type": "mcq",
+            "prompt": "If I had taken that job in Singapore, I ___ there now.",
+            "options": [
+              "would have lived",
+              "had lived",
+              "would live",
+              "will live"
+            ],
+            "answer": 2,
+            "explanationVi": "Quyết định nằm ở quá khứ nhưng kết quả ở hiện tại (now), nên mệnh đề chính dùng would + V nguyên mẫu."
+          },
+          {
+            "type": "mcq",
+            "prompt": "If she weren't afraid of flying, she ___ to the conference in Paris last month.",
+            "options": [
+              "would go",
+              "would have gone",
+              "went",
+              "had gone"
+            ],
+            "answer": 1,
+            "explanationVi": "Nỗi sợ bay là đặc điểm ở hiện tại (weren't), còn hội nghị diễn ra tháng trước, nên mệnh đề chính dùng would have + V3."
+          },
+          {
+            "type": "mcq",
+            "prompt": "___ about the delay, we would have booked another flight.",
+            "options": [
+              "Had we known",
+              "If we knew",
+              "Were we know",
+              "We had known"
+            ],
+            "answer": 0,
+            "explanationVi": "Đảo ngữ câu loại 3: Had + S + V3 thay cho If we had known."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "If the government had invested in flood defences a decade ago, the city ___ such severe damage last year.",
+            "options": [
+              "would not suffer",
+              "would not have suffered",
+              "had not suffered",
+              "did not suffer"
+            ],
+            "answer": 1,
+            "explanationVi": "Điều kiện (a decade ago) và kết quả (last year) đều ở quá khứ, nên dùng would not have + V3."
+          },
+          {
+            "type": "mcq",
+            "prompt": "If the printing press had not been invented, literacy rates ___ far lower today.",
+            "options": [
+              "would have been",
+              "had been",
+              "would be",
+              "will be"
+            ],
+            "answer": 2,
+            "explanationVi": "Nguyên nhân ở quá khứ, kết quả ở hiện tại (today): câu hỗn hợp, mệnh đề chính dùng would + V nguyên mẫu."
+          },
+          {
+            "type": "fill",
+            "prompt": "___ the researchers used a larger sample, their findings would have been more reliable. (1 từ)",
+            "answers": [
+              "Had"
+            ],
+            "explanationVi": "Đảo ngữ câu loại 3: Had the researchers used = If the researchers had used."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is grammatically correct?",
+            "options": [
+              "If the company would have adopted the new policy, profits would have risen.",
+              "If the company had adopted the new policy, profits will have risen.",
+              "Had the company adopted the new policy, profits would rise last year.",
+              "If the company had adopted the new policy, profits would have risen."
+            ],
+            "answer": 3,
+            "explanationVi": "Câu loại 3 chuẩn: If + had + V3, would have + V3. Các câu khác dùng would trong mệnh đề if, dùng will, hoặc dùng would rise với last year."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b2-reported-speech",
+      "level": "B2",
+      "order": 3,
+      "titleVi": "Câu tường thuật",
+      "titleEn": "Reported speech",
+      "summaryVi": "Sau bài này, bạn sẽ chuyển được câu trực tiếp sang câu tường thuật (câu kể, câu hỏi, câu mệnh lệnh) và dùng linh hoạt nhiều động từ tường thuật khác nhau.",
+      "sections": [
+        {
+          "headingVi": "Lùi thì và đổi từ chỉ thời gian, nơi chốn",
+          "bodyVi": "Khi tường thuật lại lời ai đó bằng động từ ở quá khứ (said, told...), ta thường **lùi một thì** so với câu gốc.\n\n> S + said (that) + S + V (lùi thì)\n> S + told + O + (that) + S + V (lùi thì)\n\n- Hiện tại đơn → quá khứ đơn\n- Hiện tại tiếp diễn → quá khứ tiếp diễn\n- Hiện tại hoàn thành / quá khứ đơn → quá khứ hoàn thành\n- will → would; can → could; may → might; must → had to\n\nCác từ chỉ thời gian và nơi chốn cũng thay đổi theo góc nhìn của người kể:\n\n- now → then; today → that day; tonight → that night\n- tomorrow → the next day / the following day\n- yesterday → the day before / the previous day\n- here → there; this → that\n\n**Lưu ý:** không cần lùi thì khi động từ tường thuật ở hiện tại (says, explains). Bạn cũng có thể giữ nguyên thì khi nội dung vẫn còn đúng ở thời điểm kể, ví dụ một sự thật hiển nhiên.",
+          "examples": [
+            {
+              "en": "“I'm tired,” she said. → She said (that) she was tired.",
+              "vi": "“Mình mệt quá,” cô ấy nói. → Cô ấy nói rằng cô ấy mệt."
+            },
+            {
+              "en": "“I have lost my keys,” Tom told me. → Tom told me (that) he had lost his keys.",
+              "vi": "“Tớ làm mất chìa khoá rồi,” Tom nói với tôi. → Tom nói với tôi rằng cậu ấy đã làm mất chìa khoá."
+            },
+            {
+              "en": "“We will visit you tomorrow,” they said. → They said they would visit us the next day.",
+              "vi": "“Ngày mai bọn mình sẽ đến thăm cậu,” họ nói. → Họ nói rằng họ sẽ đến thăm chúng tôi vào ngày hôm sau."
+            }
+          ]
+        },
+        {
+          "headingVi": "Câu hỏi tường thuật",
+          "bodyVi": "Khi tường thuật câu hỏi, ta chuyển câu về **trật tự câu kể** (S + V), bỏ trợ động từ do/does/did và bỏ dấu chấm hỏi.\n\n> Câu hỏi Yes/No: S + asked (+ O) + if/whether + S + V (lùi thì)\n> Câu hỏi Wh-: S + asked (+ O) + từ để hỏi + S + V (lùi thì)\n\n- Đúng: She asked me where I lived.\n- Sai: She asked me where did I live.",
+          "examples": [
+            {
+              "en": "“Where do you live?” he asked. → He asked me where I lived.",
+              "vi": "“Bạn sống ở đâu?” anh ấy hỏi. → Anh ấy hỏi tôi sống ở đâu."
+            },
+            {
+              "en": "“Are you coming to the party?” Mai asked. → Mai asked if I was coming to the party.",
+              "vi": "“Cậu có đến bữa tiệc không?” Mai hỏi. → Mai hỏi tôi có đến bữa tiệc không."
+            },
+            {
+              "en": "“Why did you choose this university?” the interviewer asked. → The interviewer asked why I had chosen that university.",
+              "vi": "“Tại sao bạn chọn trường đại học này?” người phỏng vấn hỏi. → Người phỏng vấn hỏi tại sao tôi đã chọn trường đại học đó."
+            }
+          ]
+        },
+        {
+          "headingVi": "Câu mệnh lệnh và các động từ tường thuật khác",
+          "bodyVi": "Với câu mệnh lệnh hoặc lời yêu cầu, dùng **tell/ask + O + (not) to V**. Ngoài said và told, hãy dùng thêm các động từ tường thuật khác để câu văn chính xác và đa dạng hơn. Mỗi động từ đi với một cấu trúc riêng:\n\n> tell / ask / advise / warn / remind + O + (not) to V\n> offer / promise / refuse / agree + to V\n> admit / deny / suggest + V-ing\n> apologise for / insist on + V-ing\n\n**Lưu ý:** suggest không đi với cấu trúc O + to V. Hãy nói suggested going hoặc suggested (that) we (should) go.",
+          "examples": [
+            {
+              "en": "The doctor told me to get more rest.",
+              "vi": "Bác sĩ bảo tôi nghỉ ngơi nhiều hơn."
+            },
+            {
+              "en": "She warned us not to touch the wires.",
+              "vi": "Cô ấy cảnh báo chúng tôi không được chạm vào dây điện."
+            },
+            {
+              "en": "He admitted breaking the window.",
+              "vi": "Cậu ấy thừa nhận đã làm vỡ cửa sổ."
+            },
+            {
+              "en": "My teacher suggested practising speaking every day.",
+              "vi": "Thầy giáo gợi ý tôi luyện nói mỗi ngày."
+            }
+          ]
+        },
+        {
+          "headingVi": "Ứng dụng trong IELTS",
+          "bodyVi": "Trong IELTS Writing Task 2, bạn thường phải nêu quan điểm của người khác trước khi đưa ra ý kiến của mình. Các động từ tường thuật như **argue, claim, believe, point out** giúp bạn làm điều đó một cách khách quan.\n\n> Some people / Critics + argue / claim / believe + that + S + V\n\n- **argue**: lập luận (có lý lẽ đi kèm).\n- **claim**: khẳng định (chưa chắc đã đúng).\n- **point out**: chỉ ra (một thực tế).\n\nỞ đây động từ tường thuật thường chia ở hiện tại nên không cần lùi thì.",
+          "examples": [
+            {
+              "en": "Many experts argue that working from home increases productivity.",
+              "vi": "Nhiều chuyên gia lập luận rằng làm việc tại nhà giúp tăng năng suất."
+            },
+            {
+              "en": "Some people claim that university education should be free.",
+              "vi": "Một số người khẳng định rằng giáo dục đại học nên được miễn phí."
+            },
+            {
+              "en": "Critics point out that the policy has not reduced traffic congestion.",
+              "vi": "Những người phản đối chỉ ra rằng chính sách này chưa làm giảm ùn tắc giao thông."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "She asked me where did I live.",
+          "right": "She asked me where I lived.",
+          "noteVi": "Câu hỏi tường thuật dùng trật tự câu kể (S + V), không dùng trợ động từ did."
+        },
+        {
+          "wrong": "He said me that he was busy.",
+          "right": "He told me that he was busy.",
+          "noteVi": "Say không đi trực tiếp với tân ngữ chỉ người; dùng told me hoặc said to me."
+        },
+        {
+          "wrong": "My friend suggested me to join the club.",
+          "right": "My friend suggested that I join the club.",
+          "noteVi": "Suggest không dùng cấu trúc O + to V; dùng suggest + V-ing hoặc suggest (that) + S + (should) + V."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "“I am busy today,” Tom said last week. → Tom said that he ___ busy that day.",
+            "options": [
+              "is",
+              "was",
+              "will be"
+            ],
+            "answer": 1,
+            "explanationVi": "Động từ tường thuật ở quá khứ và sự việc đã qua (that day), nên lùi am thành was."
+          },
+          {
+            "type": "mcq",
+            "prompt": "“Close the door, please,” she said to me. → She told me ___ the door.",
+            "options": [
+              "closing",
+              "close",
+              "to close"
+            ],
+            "answer": 2,
+            "explanationVi": "Tường thuật lời yêu cầu dùng tell + O + to V."
+          },
+          {
+            "type": "fill",
+            "prompt": "“I will call you tomorrow,” he said. → He said he ___ call me the next day.",
+            "answers": [
+              "would"
+            ],
+            "explanationVi": "Khi lùi thì, will chuyển thành would."
+          },
+          {
+            "type": "mcq",
+            "prompt": "“Do you like coffee?” she asked. → She asked me ___ coffee.",
+            "options": [
+              "if I liked",
+              "do I like",
+              "did I like",
+              "that I liked"
+            ],
+            "answer": 0,
+            "explanationVi": "Câu hỏi Yes/No được tường thuật bằng if/whether + S + V (lùi thì), theo trật tự câu kể."
+          }
+        ],
+        "medium": [
+          {
+            "type": "mcq",
+            "prompt": "“Where is the station?” he asked. → He asked me where ___.",
+            "options": [
+              "the station was",
+              "was the station",
+              "is the station"
+            ],
+            "answer": 0,
+            "explanationVi": "Câu hỏi tường thuật dùng trật tự câu kể (S + V) và lùi thì: the station was."
+          },
+          {
+            "type": "fill",
+            "prompt": "“Don't be late,” the teacher said to us. → The teacher told us ___ late. (3 từ)",
+            "answers": [
+              "not to be"
+            ],
+            "explanationVi": "Mệnh lệnh phủ định được tường thuật bằng tell + O + not to V."
+          },
+          {
+            "type": "mcq",
+            "prompt": "“I'm sorry I broke your vase,” said Lan. → Lan apologised ___ my vase.",
+            "options": [
+              "to break",
+              "of breaking",
+              "for breaking",
+              "breaking"
+            ],
+            "answer": 2,
+            "explanationVi": "Cấu trúc đúng là apologise for + V-ing."
+          },
+          {
+            "type": "mcq",
+            "prompt": "“You should see a dentist,” my mother said to me. → My mother ___ me to see a dentist.",
+            "options": [
+              "suggested",
+              "said",
+              "explained",
+              "advised"
+            ],
+            "answer": 3,
+            "explanationVi": "Lời khuyên với should được tường thuật bằng advise + O + to V; suggest, say và explain không đi với O + to V."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "The minister denied ___ public funds for personal use.",
+            "options": [
+              "having used",
+              "to use",
+              "that use",
+              "to have use"
+            ],
+            "answer": 0,
+            "explanationVi": "Deny đi với V-ing; having + V3 nhấn mạnh hành động đã xảy ra trước đó."
+          },
+          {
+            "type": "mcq",
+            "prompt": "The spokesperson ___ that the company would cut 500 jobs by the end of the year.",
+            "options": [
+              "told",
+              "said us",
+              "announced",
+              "talked"
+            ],
+            "answer": 2,
+            "explanationVi": "Announce + that + mệnh đề là đúng; told cần tân ngữ chỉ người, said không đi trực tiếp với us, talk không đi với that."
+          },
+          {
+            "type": "fill",
+            "prompt": "“We will publish the results next month,” the research team said. → The team said they would publish the results the ___ month. (1 từ)",
+            "answers": [
+              "following",
+              "next"
+            ],
+            "explanationVi": "Next month trong câu trực tiếp chuyển thành the following month (hoặc the next month) trong câu tường thuật."
+          },
+          {
+            "type": "mcq",
+            "prompt": "“Global temperatures have risen by 1.1°C,” the report states. → The report states that global temperatures ___ by 1.1°C.",
+            "options": [
+              "had risen",
+              "would rise",
+              "were rising",
+              "have risen"
+            ],
+            "answer": 3,
+            "explanationVi": "Động từ tường thuật ở hiện tại (states) nên giữ nguyên thì của câu gốc."
+          }
+        ]
+      }
+    },
+    {
+      "id": "b2-gerund-infinitive",
+      "level": "B2",
+      "order": 4,
+      "titleVi": "V-ing hay to V",
+      "titleEn": "Gerunds and infinitives",
+      "summaryVi": "Sau bài này, bạn sẽ chọn đúng V-ing hay to V sau động từ, tính từ, giới từ và hiểu sự khác biệt về nghĩa ở các động từ như stop, remember, forget, try.",
+      "sections": [
+        {
+          "headingVi": "Khi nào dùng V-ing?",
+          "bodyVi": "V-ing (danh động từ) hoạt động giống một danh từ. Bạn dùng V-ing trong các trường hợp sau:\n\n- Sau một số động từ: **enjoy, avoid, mind, finish, keep, consider, deny, admit, practise, suggest, can't stand**.\n- Sau **giới từ**: interested in, good at, afraid of, instead of, without...\n- Làm **chủ ngữ** của câu.\n\n> S + enjoy / avoid / mind / finish... + V-ing\n> giới từ + V-ing",
+          "examples": [
+            {
+              "en": "I enjoy reading detective novels before bed.",
+              "vi": "Tôi thích đọc tiểu thuyết trinh thám trước khi đi ngủ."
+            },
+            {
+              "en": "She is interested in learning Korean.",
+              "vi": "Cô ấy quan tâm đến việc học tiếng Hàn."
+            },
+            {
+              "en": "Swimming is a great way to stay fit.",
+              "vi": "Bơi lội là một cách tuyệt vời để giữ dáng."
+            }
+          ]
+        },
+        {
+          "headingVi": "Khi nào dùng to V?",
+          "bodyVi": "To V (động từ nguyên mẫu có to) thường diễn tả mục đích, dự định hoặc điều hướng tới tương lai.\n\n- Sau một số động từ: **want, decide, hope, plan, agree, refuse, promise, afford, manage, expect, would like**.\n- Sau **tính từ**: It is difficult / easy / important to...; I'm happy to...\n- Chỉ **mục đích**: I went to the bank to withdraw some money.\n- Sau **động từ + tân ngữ**: ask, tell, allow, encourage, want + O + to V.\n\n> S + want / decide / hope... + to V\n> S + ask / allow / encourage + O + to V\n\n**Lưu ý:** let và make + O + động từ nguyên mẫu **không to** (My parents let me go out); help có thể dùng cả hai dạng.",
+          "examples": [
+            {
+              "en": "We decided to move to Ho Chi Minh City.",
+              "vi": "Chúng tôi quyết định chuyển vào Thành phố Hồ Chí Minh."
+            },
+            {
+              "en": "It is difficult to find a cheap flat in the city centre.",
+              "vi": "Thật khó để tìm được một căn hộ giá rẻ ở trung tâm thành phố."
+            },
+            {
+              "en": "My parents encouraged me to study abroad.",
+              "vi": "Bố mẹ khuyến khích tôi đi du học."
+            }
+          ]
+        },
+        {
+          "headingVi": "Động từ đổi nghĩa khi đi với V-ing và to V",
+          "bodyVi": "Một số động từ có thể đi với cả hai dạng nhưng **nghĩa khác nhau hoàn toàn**:\n\n- **stop + V-ing**: ngừng hẳn việc đang làm; **stop + to V**: dừng lại để làm việc khác\n- **remember/forget + V-ing**: nhớ/quên việc đã làm; **remember/forget + to V**: nhớ/quên việc cần làm\n- **try + V-ing**: thử làm xem sao; **try + to V**: cố gắng làm\n- **regret + V-ing**: hối tiếc vì đã làm; **regret + to V**: lấy làm tiếc phải (thông báo)\n\nMẹo nhớ: với remember, forget và regret, **V-ing** thường nhìn về việc đã xảy ra, còn **to V** nhìn về việc sắp xảy ra.",
+          "examples": [
+            {
+              "en": "He stopped smoking two years ago.",
+              "vi": "Anh ấy đã bỏ thuốc lá từ hai năm trước."
+            },
+            {
+              "en": "On the way home, we stopped to buy some bread.",
+              "vi": "Trên đường về, chúng tôi dừng lại để mua ít bánh mì."
+            },
+            {
+              "en": "Remember to lock the door when you leave.",
+              "vi": "Nhớ khoá cửa khi bạn ra ngoài nhé."
+            },
+            {
+              "en": "I'll never forget meeting my favourite singer.",
+              "vi": "Tôi sẽ không bao giờ quên lần được gặp ca sĩ yêu thích của mình."
+            }
+          ]
+        },
+        {
+          "headingVi": "Bẫy thường gặp: “to” là giới từ",
+          "bodyVi": "Trong một số cụm từ, **to** là giới từ chứ không phải dấu hiệu của động từ nguyên mẫu, nên phía sau phải dùng **V-ing**:\n\n- look forward to + V-ing\n- be/get used to + V-ing (quen với việc)\n- object to + V-ing\n- when it comes to + V-ing\n- be committed to + V-ing\n\nCách kiểm tra: nếu bạn có thể đặt một danh từ ngay sau to (look forward to **the holiday**), thì to là giới từ.\n\nCác cụm này xuất hiện rất thường xuyên trong IELTS Writing (thư, bài luận), nên hãy dùng chính xác để tránh mất điểm ngữ pháp.",
+          "examples": [
+            {
+              "en": "I'm looking forward to hearing from you.",
+              "vi": "Tôi rất mong nhận được phản hồi từ bạn."
+            },
+            {
+              "en": "She is used to working night shifts.",
+              "vi": "Cô ấy đã quen với việc làm ca đêm."
+            },
+            {
+              "en": "When it comes to choosing a career, many young people follow their parents' advice.",
+              "vi": "Khi nói đến việc chọn nghề, nhiều bạn trẻ nghe theo lời khuyên của bố mẹ."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "I look forward to hear from you.",
+          "right": "I look forward to hearing from you.",
+          "noteVi": "To trong look forward to là giới từ nên theo sau là V-ing."
+        },
+        {
+          "wrong": "She suggested to go to the beach.",
+          "right": "She suggested going to the beach.",
+          "noteVi": "Suggest đi với V-ing (hoặc mệnh đề that), không đi với to V."
+        },
+        {
+          "wrong": "He avoided to answer the question.",
+          "right": "He avoided answering the question.",
+          "noteVi": "Avoid luôn đi với V-ing."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "I enjoy ___ to music in the evening.",
+            "options": [
+              "listen",
+              "to listen",
+              "listening"
+            ],
+            "answer": 2,
+            "explanationVi": "Enjoy luôn đi với V-ing."
+          },
+          {
+            "type": "mcq",
+            "prompt": "They decided ___ a new car.",
+            "options": [
+              "buying",
+              "to buy",
+              "buy"
+            ],
+            "answer": 1,
+            "explanationVi": "Decide đi với to V."
+          },
+          {
+            "type": "fill",
+            "prompt": "Would you mind ___ the window? (open)",
+            "answers": [
+              "opening"
+            ],
+            "explanationVi": "Mind đi với V-ing: Would you mind opening...?"
+          },
+          {
+            "type": "mcq",
+            "prompt": "She is good at ___ pictures.",
+            "options": [
+              "drawing",
+              "to draw",
+              "draw",
+              "drew"
+            ],
+            "answer": 0,
+            "explanationVi": "Sau giới từ at phải dùng V-ing."
+          }
+        ],
+        "medium": [
+          {
+            "type": "mcq",
+            "prompt": "I'm sorry, I forgot ___ the milk, so there's none left.",
+            "options": [
+              "to buy",
+              "buying",
+              "buy"
+            ],
+            "answer": 0,
+            "explanationVi": "Forget + to V: quên làm việc cần làm (nên giờ không còn sữa)."
+          },
+          {
+            "type": "mcq",
+            "prompt": "After driving for three hours, we stopped ___ a short break.",
+            "options": [
+              "taking",
+              "to take",
+              "take",
+              "took"
+            ],
+            "answer": 1,
+            "explanationVi": "Stop + to V: dừng việc đang làm (lái xe) để làm việc khác (nghỉ giải lao)."
+          },
+          {
+            "type": "fill",
+            "prompt": "I'm really looking forward to ___ you next week. (see)",
+            "answers": [
+              "seeing"
+            ],
+            "explanationVi": "To trong look forward to là giới từ nên dùng V-ing."
+          },
+          {
+            "type": "mcq",
+            "prompt": "My parents won't let me ___ out after 10 p.m.",
+            "options": [
+              "going",
+              "to go",
+              "go"
+            ],
+            "answer": 2,
+            "explanationVi": "Let + O + động từ nguyên mẫu không to."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "The new policy is aimed at ___ traffic congestion in major cities.",
+            "options": [
+              "reduce",
+              "to reduce",
+              "reducing",
+              "reduced"
+            ],
+            "answer": 2,
+            "explanationVi": "Be aimed at: sau giới từ at phải dùng V-ing."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Some critics object to ___ public money on space exploration.",
+            "options": [
+              "spending",
+              "spend",
+              "to spend",
+              "spent"
+            ],
+            "answer": 0,
+            "explanationVi": "To trong object to là giới từ nên theo sau là V-ing."
+          },
+          {
+            "type": "fill",
+            "prompt": "Few young people can afford ___ a house in central London. (buy)",
+            "answers": [
+              "to buy"
+            ],
+            "explanationVi": "Afford đi với to V."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is correct?",
+            "options": [
+              "Governments should consider to raise taxes on sugary drinks.",
+              "Governments should consider raising taxes on sugary drinks.",
+              "Governments should consider raise taxes on sugary drinks."
+            ],
+            "answer": 1,
+            "explanationVi": "Consider đi với V-ing: consider raising."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1-inversion",
+      "level": "C1",
+      "order": 1,
+      "titleVi": "Đảo ngữ (Inversion)",
+      "titleEn": "Inversion for emphasis",
+      "summaryVi": "Sau bài này, bạn sẽ dùng đảo ngữ sau các trạng từ phủ định, với Only / Not until và trong câu điều kiện để nhấn mạnh ý và tăng tính trang trọng cho bài viết.",
+      "sections": [
+        {
+          "headingVi": "Đảo ngữ sau trạng từ phủ định",
+          "bodyVi": "Đảo ngữ là đưa **trợ động từ lên trước chủ ngữ** (giống câu hỏi) khi câu bắt đầu bằng một trạng từ mang nghĩa phủ định hoặc hạn chế. Mục đích là **nhấn mạnh** và tạo văn phong trang trọng.\n\n> Never / Rarely / Seldom / Little + trợ động từ + S + V\n> Not only + trợ động từ + S + V, but ... also ...\n> Hardly / Scarcely + had + S + V3 + when + S + V2\n> No sooner + had + S + V3 + than + S + V2\n> Under no circumstances / At no time + trợ động từ + S + V\n\nNếu câu gốc không có trợ động từ, hãy mượn **do/does/did** như khi đặt câu hỏi, và động từ chính trở về nguyên mẫu.",
+          "examples": [
+            {
+              "en": "Rarely do we see such a dramatic change in public opinion.",
+              "vi": "Hiếm khi chúng ta thấy dư luận thay đổi mạnh mẽ đến vậy."
+            },
+            {
+              "en": "Not only did the policy reduce pollution, but it also created thousands of jobs.",
+              "vi": "Chính sách này không những giảm ô nhiễm mà còn tạo ra hàng nghìn việc làm."
+            },
+            {
+              "en": "No sooner had I arrived at the airport than my flight was cancelled.",
+              "vi": "Tôi vừa đến sân bay thì chuyến bay bị huỷ."
+            },
+            {
+              "en": "Under no circumstances should you share your password with anyone.",
+              "vi": "Trong bất kỳ trường hợp nào, bạn cũng không được chia sẻ mật khẩu với người khác."
+            }
+          ]
+        },
+        {
+          "headingVi": "Đảo ngữ với Only và Not until",
+          "bodyVi": "Với **Only** và **Not until**, phần đảo ngữ nằm ở **mệnh đề chính**, không phải ở mệnh đề hay cụm từ đi ngay sau Only / Not until.\n\n> Only when / Only after / Only if + S + V + trợ động từ + S + V\n> Only by + V-ing / Only then + trợ động từ + S + V\n> Not until + mốc thời gian / mệnh đề + trợ động từ + S + V\n\nVí dụ: trong câu Only after the results were published did people realise..., phần the results were published giữ nguyên trật tự, còn did people realise mới là phần đảo ngữ.",
+          "examples": [
+            {
+              "en": "Only after the results were published did people realise the scale of the problem.",
+              "vi": "Chỉ sau khi kết quả được công bố, người ta mới nhận ra quy mô của vấn đề."
+            },
+            {
+              "en": "Not until the 1990s did the internet become widely available.",
+              "vi": "Mãi đến những năm 1990, Internet mới trở nên phổ biến rộng rãi."
+            },
+            {
+              "en": "Only by working together can we tackle climate change.",
+              "vi": "Chỉ bằng cách hợp tác với nhau, chúng ta mới có thể giải quyết vấn đề biến đổi khí hậu."
+            }
+          ]
+        },
+        {
+          "headingVi": "Đảo ngữ trong câu điều kiện",
+          "bodyVi": "Trong văn trang trọng, có thể bỏ **if** và đưa **should, were, had** lên đầu câu. Cách này đặc biệt phổ biến trong thư từ công việc và bài luận học thuật.\n\n> Should + S + V, ... (thay cho câu điều kiện loại 1)\n> Were + S + to V / Were + S + ..., ... (thay cho loại 2)\n> Had + S + V3, ... (thay cho loại 3)\n\nDạng phủ định: đặt **not** sau chủ ngữ, ví dụ Had it not been for..., Were it not for... (không viết Hadn't it been...).",
+          "examples": [
+            {
+              "en": "Should you need any further information, please do not hesitate to contact us.",
+              "vi": "Nếu quý vị cần thêm thông tin, xin đừng ngần ngại liên hệ với chúng tôi."
+            },
+            {
+              "en": "Were the government to raise fuel taxes, many people would switch to public transport.",
+              "vi": "Nếu chính phủ tăng thuế nhiên liệu, nhiều người sẽ chuyển sang dùng phương tiện công cộng."
+            },
+            {
+              "en": "Had the warning been issued earlier, many lives could have been saved.",
+              "vi": "Nếu cảnh báo được đưa ra sớm hơn, nhiều sinh mạng đã có thể được cứu."
+            }
+          ]
+        },
+        {
+          "headingVi": "Dùng đảo ngữ để nâng band điểm",
+          "bodyVi": "Ở tiêu chí **Grammatical Range and Accuracy**, band 7 trở lên yêu cầu bạn dùng **nhiều cấu trúc phức tạp một cách linh hoạt**. Một câu đảo ngữ đặt đúng chỗ cho giám khảo thấy bạn kiểm soát tốt ngữ pháp nâng cao.\n\n- Chỉ nên dùng **1–2 câu đảo ngữ** trong một bài viết; dùng quá nhiều sẽ thiếu tự nhiên.\n- Đặt đảo ngữ ở những ý cần nhấn mạnh, ví dụ câu chủ đề hoặc câu kết luận.\n- Trong Speaking, đảo ngữ nghe khá trang trọng; những cụm như Not only... hay Never have I... dùng vừa phải vẫn rất tự nhiên.\n- Một câu đảo ngữ sai sẽ bị trừ điểm Accuracy, vì vậy hãy kiểm tra kỹ trợ động từ và thì.",
+          "examples": [
+            {
+              "en": "Seldom has technology changed our lives as quickly as it has in the past decade.",
+              "vi": "Hiếm khi công nghệ thay đổi cuộc sống của chúng ta nhanh như trong thập kỷ vừa qua."
+            },
+            {
+              "en": "Not only does remote work save commuting time, but it also gives employees greater flexibility.",
+              "vi": "Làm việc từ xa không chỉ tiết kiệm thời gian đi lại mà còn mang lại cho nhân viên sự linh hoạt cao hơn."
+            },
+            {
+              "en": "Never have I felt so proud as when I gave my first presentation in English.",
+              "vi": "Chưa bao giờ tôi cảm thấy tự hào như lần đầu tiên thuyết trình bằng tiếng Anh."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Never I have seen such a beautiful view.",
+          "right": "Never have I seen such a beautiful view.",
+          "noteVi": "Trạng từ phủ định đứng đầu câu thì phải đảo trợ động từ have lên trước chủ ngữ."
+        },
+        {
+          "wrong": "Not only he speaks English, but he also speaks French.",
+          "right": "Not only does he speak English, but he also speaks French.",
+          "noteVi": "Câu không có trợ động từ thì phải mượn does và đưa động từ chính về nguyên mẫu."
+        },
+        {
+          "wrong": "Only when I got home I realised I had lost my keys.",
+          "right": "Only when I got home did I realise I had lost my keys.",
+          "noteVi": "Với Only when, đảo ngữ nằm ở mệnh đề chính (did I realise), không phải ở mệnh đề sau when."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "Seldom ___ to the cinema these days.",
+            "options": [
+              "we go",
+              "go we",
+              "do we go"
+            ],
+            "answer": 2,
+            "explanationVi": "Seldom đứng đầu câu nên phải đảo ngữ; câu không có trợ động từ nên mượn do: do we go."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Rarely ___ late for work.",
+            "options": [
+              "is she",
+              "she is",
+              "does she be"
+            ],
+            "answer": 0,
+            "explanationVi": "Câu có động từ be nên chỉ cần đưa is lên trước chủ ngữ."
+          },
+          {
+            "type": "fill",
+            "prompt": "Never in my life ___ I seen such a beautiful sunset. (thì hiện tại hoàn thành)",
+            "answers": [
+              "have"
+            ],
+            "explanationVi": "Never đứng đầu câu nên đảo trợ động từ have lên trước chủ ngữ: Never have I seen."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence uses inversion correctly?",
+            "options": [
+              "Hardly I had closed my eyes when the alarm rang.",
+              "Hardly had I closed my eyes when the alarm rang.",
+              "Hardly had closed I my eyes when the alarm rang."
+            ],
+            "answer": 1,
+            "explanationVi": "Cấu trúc đúng là Hardly + had + S + V3 + when + S + V2."
+          }
+        ],
+        "medium": [
+          {
+            "type": "fill",
+            "prompt": "No sooner ___ I sat down than the phone rang.",
+            "answers": [
+              "had"
+            ],
+            "explanationVi": "No sooner + had + S + V3 + than + S + V2: vừa mới... thì..."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Only when the teacher explained it again ___ the lesson.",
+            "options": [
+              "I understood",
+              "did I understand",
+              "I did understand",
+              "understood I"
+            ],
+            "answer": 1,
+            "explanationVi": "Với Only when, đảo ngữ nằm ở mệnh đề chính: did I understand."
+          },
+          {
+            "type": "mcq",
+            "prompt": "___ you need any help, please call me.",
+            "options": [
+              "Should",
+              "Would",
+              "Had",
+              "Were"
+            ],
+            "answer": 0,
+            "explanationVi": "Should + S + V đứng đầu câu tương đương If you need (đảo ngữ câu điều kiện loại 1)."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Not until I moved abroad ___ how much I missed my family.",
+            "options": [
+              "I realised",
+              "realised I",
+              "did I realise",
+              "I did realise"
+            ],
+            "answer": 2,
+            "explanationVi": "Sau Not until + mệnh đề, mệnh đề chính phải đảo ngữ: did I realise."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "___ the government to introduce stricter regulations, carbon emissions would fall significantly.",
+            "options": [
+              "Should",
+              "Were",
+              "Had",
+              "If"
+            ],
+            "answer": 1,
+            "explanationVi": "Were + S + to V tương đương If + S + were to V (đảo ngữ câu loại 2); các lựa chọn khác không đi được với to introduce."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Not only ___ air quality, but it also reduces noise levels in urban areas.",
+            "options": [
+              "cycling improves",
+              "does cycling improve",
+              "cycling does improve",
+              "improves cycling"
+            ],
+            "answer": 1,
+            "explanationVi": "Not only đứng đầu câu nên phải đảo ngữ với trợ động từ does: does cycling improve."
+          },
+          {
+            "type": "fill",
+            "prompt": "Little ___ the researchers know that their discovery would transform modern medicine. (trợ động từ)",
+            "answers": [
+              "did"
+            ],
+            "explanationVi": "Little đứng đầu câu mang nghĩa phủ định (hầu như không hề) nên phải đảo ngữ; câu ở quá khứ nên dùng did."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is grammatically correct?",
+            "options": [
+              "Only by investing in education a country can achieve long-term growth.",
+              "Only by investing in education can achieve a country long-term growth.",
+              "Only by investing in education does a country can achieve long-term growth.",
+              "Only by investing in education can a country achieve long-term growth."
+            ],
+            "answer": 3,
+            "explanationVi": "Only by + V-ing đứng đầu câu thì đảo trợ động từ can lên trước chủ ngữ a country."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1-cleft-sentences",
+      "level": "C1",
+      "order": 2,
+      "titleVi": "Câu chẻ (Cleft sentences)",
+      "titleEn": "Cleft sentences",
+      "summaryVi": "Sau bài này, bạn sẽ dùng câu chẻ It is/was ... that và What ... is/was để làm nổi bật thông tin quan trọng trong bài nói và bài viết.",
+      "sections": [
+        {
+          "headingVi": "Câu chẻ với It",
+          "bodyVi": "Câu chẻ (cleft sentence) là cách “tách” một câu bình thường thành hai phần để **làm nổi bật** một thông tin. Dạng phổ biến nhất bắt đầu bằng **It is / It was**.\n\n> It is/was + phần cần nhấn mạnh + that/who + phần còn lại\n\n- Có thể nhấn mạnh chủ ngữ, tân ngữ, trạng ngữ chỉ thời gian hoặc nơi chốn.\n- Dùng **who** (hoặc that) khi nhấn mạnh người; dùng **that** cho các trường hợp còn lại.\n- Động từ be luôn ở dạng số ít (It is / It was), kể cả khi phần nhấn mạnh là số nhiều.\n- **It was not until... that...** nghĩa là “mãi đến... mới...”.\n\nSo sánh: My grandmother taught me how to cook. → It was my grandmother who taught me how to cook. (nhấn mạnh: chính bà, chứ không phải ai khác)",
+          "examples": [
+            {
+              "en": "It was my grandmother who taught me how to cook.",
+              "vi": "Chính bà là người đã dạy tôi nấu ăn."
+            },
+            {
+              "en": "It is the cost of living that worries young people most.",
+              "vi": "Chính chi phí sinh hoạt là điều khiến người trẻ lo lắng nhất."
+            },
+            {
+              "en": "It was in 2010 that the company opened its first branch in Vietnam.",
+              "vi": "Năm 2010 chính là năm công ty mở chi nhánh đầu tiên tại Việt Nam."
+            },
+            {
+              "en": "It wasn't until midnight that we finally got home.",
+              "vi": "Mãi đến nửa đêm chúng tôi mới về đến nhà."
+            }
+          ]
+        },
+        {
+          "headingVi": "Câu chẻ với What",
+          "bodyVi": "Câu chẻ với **What** (pseudo-cleft) đưa phần thông tin quen thuộc lên trước và **để thông tin quan trọng ở cuối câu**, nơi người nghe chú ý nhất.\n\n> What + S + V + is/was + phần nhấn mạnh\n> What + S + do/did + is/was + (to) V nguyên mẫu\n> All (that) + S + V + is/was + ... (tất cả những gì...)\n> The thing / The reason / The place + (that) + S + V + is/was + ...\n\n**What** ở đây nghĩa là “điều mà / cái mà”. Không dùng **That** hay **Which** để mở đầu loại câu này.",
+          "examples": [
+            {
+              "en": "What I need is a long holiday.",
+              "vi": "Điều tôi cần là một kỳ nghỉ dài."
+            },
+            {
+              "en": "What surprised me was how friendly everyone was.",
+              "vi": "Điều khiến tôi bất ngờ là mọi người đều rất thân thiện."
+            },
+            {
+              "en": "What she did was call the police immediately.",
+              "vi": "Việc cô ấy làm là gọi cảnh sát ngay lập tức."
+            },
+            {
+              "en": "All I want is a quiet place to study.",
+              "vi": "Tất cả những gì tôi muốn là một nơi yên tĩnh để học."
+            }
+          ]
+        },
+        {
+          "headingVi": "Ứng dụng trong IELTS",
+          "bodyVi": "Câu chẻ giúp bạn **nhấn mạnh quan điểm** và làm câu văn đa dạng hơn, từ đó cải thiện cả Grammatical Range and Accuracy lẫn Coherence and Cohesion.\n\n- **Speaking Part 2–3**: mở đầu câu trả lời bằng What I like most about... is... hoặc The main reason why... is that... nghe tự nhiên và có tổ chức.\n- **Writing Task 2**: dùng It is... that... để nhấn mạnh bên chịu trách nhiệm hoặc yếu tố quan trọng nhất.\n- Cấu trúc **It is not A but B that...** rất hữu ích khi bạn muốn bác bỏ một quan niệm sai.\n\nChỉ nên dùng câu chẻ khi thực sự cần nhấn mạnh; dùng ở mọi câu sẽ khiến bài viết nặng nề.",
+          "examples": [
+            {
+              "en": "What I find most appealing about city life is the variety of job opportunities.",
+              "vi": "Điều tôi thấy hấp dẫn nhất ở cuộc sống thành thị là sự đa dạng của cơ hội việc làm."
+            },
+            {
+              "en": "It is not the amount of time spent studying but the quality of that time that matters.",
+              "vi": "Điều quan trọng không phải là học bao nhiêu thời gian mà là chất lượng của khoảng thời gian đó."
+            },
+            {
+              "en": "The main reason why many graduates move to big cities is that salaries are higher there.",
+              "vi": "Lý do chính khiến nhiều sinh viên tốt nghiệp chuyển đến các thành phố lớn là lương ở đó cao hơn."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "That I need is more time.",
+          "right": "What I need is more time.",
+          "noteVi": "Câu chẻ mở đầu bằng What (điều mà), không dùng That. Lỗi này thường do dịch thẳng cụm “điều mà”."
+        },
+        {
+          "wrong": "It is my mother who she cooks best in my family.",
+          "right": "It is my mother who cooks best in my family.",
+          "noteVi": "Who đã làm chủ ngữ cho cooks nên không thêm she."
+        },
+        {
+          "wrong": "What I want is go home.",
+          "right": "What I want is to go home.",
+          "noteVi": "Sau What I want is cần dùng to V; nếu muốn bỏ to, hãy nói What I want to do is go home."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "It was Lan ___ won the first prize.",
+            "options": [
+              "who",
+              "which",
+              "what"
+            ],
+            "answer": 0,
+            "explanationVi": "Khi nhấn mạnh người (Lan) trong câu chẻ It was..., dùng who (hoặc that)."
+          },
+          {
+            "type": "mcq",
+            "prompt": "___ I need now is a cup of coffee.",
+            "options": [
+              "That",
+              "Which",
+              "What",
+              "It"
+            ],
+            "answer": 2,
+            "explanationVi": "Câu chẻ với What: What I need = Điều tôi cần."
+          },
+          {
+            "type": "fill",
+            "prompt": "It ___ in 2015 that we first met. (be)",
+            "answers": [
+              "was"
+            ],
+            "explanationVi": "Sự việc xảy ra trong quá khứ (2015, met) nên dùng It was... that."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is a cleft sentence?",
+            "options": [
+              "The noise kept me awake all night.",
+              "It was the noise that kept me awake all night.",
+              "The noise that kept me awake all night."
+            ],
+            "answer": 1,
+            "explanationVi": "Câu chẻ có dạng It was + phần nhấn mạnh + that...; câu thứ ba chỉ là một cụm danh từ, chưa thành câu."
+          }
+        ],
+        "medium": [
+          {
+            "type": "mcq",
+            "prompt": "What surprised me most ___ how cheap the food was.",
+            "options": [
+              "were",
+              "was",
+              "is being",
+              "did"
+            ],
+            "answer": 1,
+            "explanationVi": "Mệnh đề What... làm chủ ngữ số ít và câu ở quá khứ, nên dùng was."
+          },
+          {
+            "type": "fill",
+            "prompt": "What he did ___ apologise to everyone. (1 từ)",
+            "answers": [
+              "was"
+            ],
+            "explanationVi": "Cấu trúc What + S + did + was + V: điều anh ấy đã làm là xin lỗi mọi người."
+          },
+          {
+            "type": "mcq",
+            "prompt": "It wasn't until I read the instructions ___ I understood how the machine worked.",
+            "options": [
+              "when",
+              "that",
+              "then",
+              "which"
+            ],
+            "answer": 1,
+            "explanationVi": "Cấu trúc cố định It wasn't until... that...: mãi đến khi... mới..."
+          },
+          {
+            "type": "mcq",
+            "prompt": "___ I like about my job is the people I work with.",
+            "options": [
+              "Which",
+              "That",
+              "It",
+              "What"
+            ],
+            "answer": 3,
+            "explanationVi": "What mở đầu câu chẻ với nghĩa “điều mà”; Which, That, It không làm được chức năng này."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "It is the lack of affordable housing ___ drives many young people out of large cities.",
+            "options": [
+              "what",
+              "that",
+              "where",
+              "when"
+            ],
+            "answer": 1,
+            "explanationVi": "Câu chẻ It is + phần nhấn mạnh + that + phần còn lại của câu."
+          },
+          {
+            "type": "mcq",
+            "prompt": "What policymakers often overlook ___ the long-term environmental cost of rapid urbanisation.",
+            "options": [
+              "is",
+              "are",
+              "has",
+              "does"
+            ],
+            "answer": 0,
+            "explanationVi": "Mệnh đề What... làm chủ ngữ và phần được nhấn mạnh (the long-term environmental cost) là số ít, nên dùng is."
+          },
+          {
+            "type": "fill",
+            "prompt": "It was not until the 19th century ___ public education became widespread in Europe. (1 từ)",
+            "answers": [
+              "that"
+            ],
+            "explanationVi": "Cấu trúc It was not until + mốc thời gian + that + mệnh đề: mãi đến... mới..."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is grammatically correct?",
+            "options": [
+              "What governments should do is investing more in public transport.",
+              "What governments should do it is invest more in public transport.",
+              "What governments should do is invest more in public transport.",
+              "That governments should do is invest more in public transport."
+            ],
+            "answer": 2,
+            "explanationVi": "Sau What + S + do + is dùng động từ nguyên mẫu (có hoặc không có to); không thêm it và không mở đầu bằng That."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1-nominalisation",
+      "level": "C1",
+      "order": 3,
+      "titleVi": "Danh từ hoá trong IELTS Writing (Nominalisation)",
+      "titleEn": "Nominalisation in IELTS Writing",
+      "summaryVi": "Sau bài này, bạn sẽ chuyển động từ và tính từ thành danh từ để viết những câu học thuật cô đọng, khách quan hơn trong IELTS Writing.",
+      "sections": [
+        {
+          "headingVi": "Danh từ hoá là gì?",
+          "bodyVi": "Danh từ hoá (nominalisation) là việc **chuyển động từ hoặc tính từ thành danh từ** để diễn đạt cùng một ý. Văn học thuật dùng nhiều danh từ hơn văn nói, vì cách viết này **cô đọng, khách quan** và tập trung vào sự việc thay vì con người.\n\nMột số hậu tố tạo danh từ thường gặp:\n\n- -tion / -sion: reduce → reduction, decide → decision, expand → expansion\n- -ment: develop → development, improve → improvement\n- -ance / -ence: rely → reliance, differ → difference\n- -ity / -ness: available → availability, aware → awareness\n- Giữ nguyên hình thức: increase, decline, rise, fall, change",
+          "examples": [
+            {
+              "en": "Prices increased sharply. → There was a sharp increase in prices.",
+              "vi": "Giá cả tăng mạnh. → Đã có sự gia tăng mạnh về giá cả."
+            },
+            {
+              "en": "People are not aware of the risks. → There is a lack of awareness of the risks.",
+              "vi": "Mọi người không nhận thức được các rủi ro. → Có sự thiếu nhận thức về các rủi ro."
+            },
+            {
+              "en": "The government decided to close the factory, which angered local residents. → The government's decision to close the factory angered local residents.",
+              "vi": "Chính phủ quyết định đóng cửa nhà máy, điều này khiến người dân địa phương tức giận. → Quyết định đóng cửa nhà máy của chính phủ khiến người dân địa phương tức giận."
+            }
+          ]
+        },
+        {
+          "headingVi": "Cách chuyển câu sang dạng danh từ hoá",
+          "bodyVi": "Khi danh từ hoá, các thành phần khác trong câu cũng thay đổi theo:\n\n- Động từ → danh từ (grow → growth).\n- Trạng từ → **tính từ** (rapidly → rapid).\n- Chủ ngữ hoặc tân ngữ → cụm **of + N** hoặc sở hữu cách (the growth of the population / the population's growth).\n- Liên từ chỉ nguyên nhân – kết quả (because, so) → động từ hoặc cụm từ như **lead to, result in, cause, due to**.\n\n> S + V + adv → There + be + a/an + adj + N + in/of + ...\n> Because + S + V, ... → The + adj + N + of + ... + led to / resulted in + ...",
+          "examples": [
+            {
+              "en": "Because the population grew rapidly, housing became scarce. → The rapid growth of the population led to a shortage of housing.",
+              "vi": "Vì dân số tăng nhanh nên nhà ở trở nên khan hiếm. → Sự tăng trưởng nhanh của dân số đã dẫn đến tình trạng thiếu nhà ở."
+            },
+            {
+              "en": "If we use less plastic, the oceans will be cleaner. → A reduction in plastic use would result in cleaner oceans.",
+              "vi": "Nếu chúng ta dùng ít nhựa hơn, đại dương sẽ sạch hơn. → Việc giảm sử dụng nhựa sẽ giúp đại dương sạch hơn."
+            },
+            {
+              "en": "Unemployment rose dramatically between 2008 and 2010. → Between 2008 and 2010, there was a dramatic rise in unemployment.",
+              "vi": "Tỷ lệ thất nghiệp tăng vọt từ năm 2008 đến năm 2010. → Giai đoạn 2008–2010 chứng kiến sự gia tăng đột biến của tỷ lệ thất nghiệp."
+            }
+          ]
+        },
+        {
+          "headingVi": "Ứng dụng trong IELTS Writing",
+          "bodyVi": "Danh từ hoá là một trong những dấu hiệu rõ nhất của **văn phong học thuật**, giúp bạn ghi điểm ở cả Grammatical Range and Accuracy và Lexical Resource.\n\n- **Task 1**: mô tả xu hướng bằng cụm danh từ: a gradual decline, a sharp rise, a slight fluctuation, reach a peak of...\n- **Task 2**: trình bày nguyên nhân – kết quả gọn hơn: The expansion of..., The introduction of..., A lack of...\n- Kết hợp cả câu dùng động từ và câu dùng danh từ để tránh lặp cấu trúc.\n\n**Cảnh báo:** đừng danh từ hoá mọi thứ. Câu có quá nhiều danh từ sẽ khó đọc và mơ hồ; mỗi câu vẫn cần một động từ chính rõ ràng.",
+          "examples": [
+            {
+              "en": "There was a steady decline in coal consumption over the period.",
+              "vi": "Lượng tiêu thụ than giảm đều đặn trong suốt giai đoạn này."
+            },
+            {
+              "en": "The expansion of public transport could ease traffic congestion in large cities.",
+              "vi": "Việc mở rộng giao thông công cộng có thể giảm bớt ùn tắc ở các thành phố lớn."
+            },
+            {
+              "en": "A lack of investment in rural areas has resulted in the migration of young people to cities.",
+              "vi": "Sự thiếu đầu tư vào nông thôn đã dẫn đến làn sóng người trẻ di cư lên thành phố."
+            }
+          ]
+        },
+        {
+          "headingVi": "Giới từ đi kèm danh từ",
+          "bodyVi": "Khi dùng danh từ hoá, lỗi phổ biến nhất là **chọn sai giới từ**. Hãy ghi nhớ các kết hợp sau:\n\n- an increase / a rise / a decrease / a fall **in** + thứ thay đổi (a rise in prices)\n- an increase / a rise **of** + con số (a rise of 10%)\n- reliance / dependence **on**; impact / effect **on**\n- demand **for**; access **to**; awareness **of**\n\n> There was a/an + adj + increase of + con số + in + N",
+          "examples": [
+            {
+              "en": "There was an increase of 15% in the number of international students.",
+              "vi": "Số lượng sinh viên quốc tế đã tăng 15%."
+            },
+            {
+              "en": "Our growing reliance on smartphones has changed the way we communicate.",
+              "vi": "Sự phụ thuộc ngày càng lớn vào điện thoại thông minh đã thay đổi cách chúng ta giao tiếp."
+            },
+            {
+              "en": "The demand for renewable energy has risen considerably.",
+              "vi": "Nhu cầu về năng lượng tái tạo đã tăng lên đáng kể."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "There was a sharply increase in sales.",
+          "right": "There was a sharp increase in sales.",
+          "noteVi": "Bổ nghĩa cho danh từ (increase) phải dùng tính từ (sharp), không dùng trạng từ (sharply)."
+        },
+        {
+          "wrong": "The reduce of plastic waste is very important.",
+          "right": "The reduction of plastic waste is very important.",
+          "noteVi": "Reduce là động từ; danh từ tương ứng là reduction."
+        },
+        {
+          "wrong": "There was a rise of the unemployment rate.",
+          "right": "There was a rise in the unemployment rate.",
+          "noteVi": "Rise / increase in + thứ thay đổi; rise / increase of chỉ đi với con số."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "The rapid ___ of technology has changed the way we live.",
+            "options": [
+              "develop",
+              "development",
+              "developed",
+              "developing"
+            ],
+            "answer": 1,
+            "explanationVi": "Sau mạo từ the và tính từ rapid cần một danh từ: development."
+          },
+          {
+            "type": "mcq",
+            "prompt": "There was a ___ increase in house prices last year.",
+            "options": [
+              "sharp",
+              "sharply",
+              "sharpen"
+            ],
+            "answer": 0,
+            "explanationVi": "Bổ nghĩa cho danh từ increase phải dùng tính từ sharp."
+          },
+          {
+            "type": "fill",
+            "prompt": "The government has announced a ___ in taxes. (danh từ của reduce)",
+            "answers": [
+              "reduction"
+            ],
+            "explanationVi": "Danh từ của reduce là reduction; a reduction in + N nghĩa là sự cắt giảm về..."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence uses nominalisation?",
+            "options": [
+              "Prices rose quickly.",
+              "Prices were rising quickly.",
+              "There was a rapid rise in prices."
+            ],
+            "answer": 2,
+            "explanationVi": "Động từ rose được chuyển thành danh từ rise, còn trạng từ quickly thành tính từ rapid."
+          }
+        ],
+        "medium": [
+          {
+            "type": "fill",
+            "prompt": "People rely heavily on cars. → There is a heavy ___ on cars. (danh từ của rely)",
+            "answers": [
+              "reliance"
+            ],
+            "explanationVi": "Danh từ của rely là reliance, đi với giới từ on."
+          },
+          {
+            "type": "mcq",
+            "prompt": "There has been a significant rise ___ the number of people working from home.",
+            "options": [
+              "of",
+              "in",
+              "on",
+              "at"
+            ],
+            "answer": 1,
+            "explanationVi": "Rise in + thứ thay đổi (the number of people); rise of chỉ đi với con số."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Chọn câu danh từ hoá đúng cho: “The population grew rapidly, so housing became scarce.”",
+            "options": [
+              "The rapid growth of the population led to a shortage of housing.",
+              "The rapidly growth of the population led to a short of housing.",
+              "The rapid grow of the population led to a shortage of housing."
+            ],
+            "answer": 0,
+            "explanationVi": "Grow → growth, rapidly → rapid, became scarce → a shortage of; các câu còn lại dùng sai từ loại."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Many people are not aware of the dangers of air pollution. → There is a lack of public ___ of the dangers of air pollution.",
+            "options": [
+              "aware",
+              "awaring",
+              "awareness"
+            ],
+            "answer": 2,
+            "explanationVi": "Sau tính từ public cần một danh từ: awareness."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "Which sentence correctly nominalises “Because the government invested more in renewable energy, carbon emissions fell.”?",
+            "options": [
+              "Increased government invest in renewable energy led to a fall of carbon emit.",
+              "Increased government investment in renewable energy led to a fall in carbon emissions.",
+              "The government increasing invest in renewable energy led to carbon emissions falling down."
+            ],
+            "answer": 1,
+            "explanationVi": "Invest → investment, fell → a fall in, và lead to nối nguyên nhân với kết quả; hai câu còn lại dùng động từ ở vị trí của danh từ."
+          },
+          {
+            "type": "fill",
+            "prompt": "People consume far more water in summer. → Water ___ is far higher in summer. (danh từ của consume)",
+            "answers": [
+              "consumption"
+            ],
+            "explanationVi": "Danh từ của consume là consumption; water consumption nghĩa là lượng nước tiêu thụ."
+          },
+          {
+            "type": "mcq",
+            "prompt": "The ___ of a sugar tax has led to a reduction in the consumption of soft drinks.",
+            "options": [
+              "introduce",
+              "introducing",
+              "introduced",
+              "introduction"
+            ],
+            "answer": 3,
+            "explanationVi": "Sau the và trước of cần danh từ: the introduction of."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is grammatically correct?",
+            "options": [
+              "There was a dramatic increase in unemployment in 2009.",
+              "There was a dramatic increase of unemployment in 2009.",
+              "Unemployment saw a dramatically increase in 2009.",
+              "There was a dramatic increasing in unemployment in 2009."
+            ],
+            "answer": 0,
+            "explanationVi": "Cần tính từ dramatic + danh từ increase + giới từ in trước thứ thay đổi (unemployment)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1-linking-devices",
+      "level": "C1",
+      "order": 4,
+      "titleVi": "Từ nối và phương tiện liên kết nâng cao",
+      "titleEn": "Advanced linking and cohesive devices",
+      "summaryVi": "Sau bài này, bạn sẽ dùng chính xác các từ nối nâng cao và các phương tiện liên kết như tham chiếu, từ khái quát để bài viết IELTS mạch lạc và tự nhiên hơn.",
+      "sections": [
+        {
+          "headingVi": "Từ nối theo chức năng",
+          "bodyVi": "Từ nối (linking words) giúp người đọc thấy rõ **mối quan hệ logic** giữa các ý. Ở trình độ C1, bạn cần chọn từ nối **chính xác theo chức năng**, chứ không chỉ thêm vào cho có.\n\n- Bổ sung: moreover, furthermore, in addition, what is more\n- Tương phản, nhượng bộ: however, nevertheless, nonetheless, whereas, while, although, even though, despite, in spite of\n- Nguyên nhân – kết quả: consequently, as a result, therefore, thus, hence, owing to, due to\n- Ví dụ, minh hoạ: for instance, for example, such as, namely\n- Tổng kết: in conclusion, overall, to sum up",
+          "examples": [
+            {
+              "en": "Online learning is flexible. Moreover, it is often cheaper than traditional courses.",
+              "vi": "Học trực tuyến rất linh hoạt. Hơn nữa, nó thường rẻ hơn các khoá học truyền thống."
+            },
+            {
+              "en": "Some people prefer living in cities, whereas others enjoy the peace of the countryside.",
+              "vi": "Một số người thích sống ở thành phố, trong khi những người khác lại thích sự yên bình của vùng quê."
+            },
+            {
+              "en": "The factory closed down. As a result, hundreds of workers lost their jobs.",
+              "vi": "Nhà máy đóng cửa. Kết quả là hàng trăm công nhân bị mất việc."
+            }
+          ]
+        },
+        {
+          "headingVi": "Ngữ pháp đi kèm từ nối",
+          "bodyVi": "Mỗi nhóm từ nối đi với một cấu trúc ngữ pháp khác nhau. Nhầm lẫn giữa các nhóm này là lỗi rất phổ biến.\n\n> Although / Even though / While + S + V, S + V\n> Despite / In spite of + N / V-ing, S + V\n> S + V. However / Moreover / Therefore, S + V.\n> S + V; however / nevertheless, S + V.\n> Owing to / Due to / Because of + N, S + V\n\n- **Liên từ** (although, whereas, while) nối hai mệnh đề trong cùng một câu.\n- **Trạng từ liên kết** (however, moreover, therefore) thường đứng đầu câu mới hoặc sau dấu chấm phẩy, theo sau là dấu phẩy.\n- **Giới từ** (despite, due to) đi với danh từ hoặc V-ing, không đi với mệnh đề.",
+          "examples": [
+            {
+              "en": "Despite the heavy rain, the match continued.",
+              "vi": "Bất chấp cơn mưa lớn, trận đấu vẫn tiếp tục."
+            },
+            {
+              "en": "Although it rained heavily, the match continued.",
+              "vi": "Mặc dù trời mưa to, trận đấu vẫn tiếp tục."
+            },
+            {
+              "en": "The plan was expensive; nevertheless, the council approved it.",
+              "vi": "Kế hoạch này tốn kém; tuy vậy, hội đồng vẫn phê duyệt nó."
+            },
+            {
+              "en": "Owing to a lack of funding, the project was delayed.",
+              "vi": "Do thiếu kinh phí, dự án bị trì hoãn."
+            }
+          ]
+        },
+        {
+          "headingVi": "Liên kết bằng tham chiếu và từ khái quát",
+          "bodyVi": "Từ nối không phải là cách duy nhất để liên kết ý. Người viết giỏi còn dùng **tham chiếu** (reference) để nối câu một cách tinh tế:\n\n- **This / These + danh từ khái quát**: this trend, this problem, these measures, such policies (nhắc lại cả ý vừa nêu).\n- **The former / the latter**: đối tượng thứ nhất / đối tượng thứ hai trong hai đối tượng vừa nêu.\n- **Đại từ và mệnh đề quan hệ**: it, they, which...\n\nTrong IELTS, tiêu chí **Coherence and Cohesion** đánh giá cao việc liên kết đa dạng và tự nhiên. Ngược lại, đặt từ nối máy móc ở đầu mọi câu (Firstly, Secondly, Moreover, Furthermore...) dễ bị xem là liên kết cơ học và khó đạt band 7 trở lên.",
+          "examples": [
+            {
+              "en": "Many cities have introduced congestion charges. This measure has significantly reduced traffic in city centres.",
+              "vi": "Nhiều thành phố đã áp dụng phí chống ùn tắc. Biện pháp này đã giảm đáng kể lưu lượng xe ở trung tâm."
+            },
+            {
+              "en": "Students can choose between online and face-to-face classes. The former offers flexibility, while the latter allows more interaction.",
+              "vi": "Sinh viên có thể chọn giữa lớp học trực tuyến và lớp học trực tiếp. Hình thức thứ nhất mang lại sự linh hoạt, còn hình thức thứ hai cho phép tương tác nhiều hơn."
+            },
+            {
+              "en": "Such policies may be unpopular in the short term, but they are necessary.",
+              "vi": "Những chính sách như vậy có thể không được ưa chuộng trong ngắn hạn, nhưng chúng là cần thiết."
+            }
+          ]
+        },
+        {
+          "headingVi": "Mẹo dùng từ nối trong IELTS",
+          "bodyVi": "- Không bắt đầu mọi câu bằng một từ nối; hãy để một số câu liên kết bằng tham chiếu.\n- Tránh từ nối mang tính văn nói trong bài viết: **And, But, So** ở đầu câu, **Besides**, **Anyway**.\n- **On the other hand** dùng để đưa ra mặt đối lập, không dùng để bổ sung ý.\n- **In conclusion** chỉ dùng ở đoạn kết, không dùng giữa bài.\n- Kết hợp từ nối với câu phức (While..., Although...) để cùng lúc cải thiện Coherence and Cohesion và Grammatical Range and Accuracy.",
+          "examples": [
+            {
+              "en": "While technology has made communication faster, it has also reduced face-to-face interaction.",
+              "vi": "Tuy công nghệ giúp việc giao tiếp nhanh hơn, nó cũng làm giảm sự tương tác trực tiếp."
+            },
+            {
+              "en": "Not all experts agree, however; some argue that the benefits have been exaggerated.",
+              "vi": "Tuy nhiên, không phải chuyên gia nào cũng đồng ý; một số người cho rằng lợi ích đã bị thổi phồng."
+            },
+            {
+              "en": "On the one hand, tourism creates jobs. On the other hand, it can damage the local environment.",
+              "vi": "Một mặt, du lịch tạo ra việc làm. Mặt khác, nó có thể gây hại cho môi trường địa phương."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Although it was raining, but we still went out.",
+          "right": "Although it was raining, we still went out.",
+          "noteVi": "Although và but không dùng cùng nhau trong một câu; chỉ chọn một trong hai. Lỗi này do dịch sát cặp “Mặc dù... nhưng...”."
+        },
+        {
+          "wrong": "Despite it was expensive, she bought the dress.",
+          "right": "Despite the high price, she bought the dress.",
+          "noteVi": "Despite đi với danh từ hoặc V-ing; nếu muốn dùng mệnh đề, hãy dùng Although."
+        },
+        {
+          "wrong": "The plan was good, however, it was too expensive.",
+          "right": "The plan was good; however, it was too expensive.",
+          "noteVi": "However là trạng từ liên kết, không nối hai mệnh đề bằng dấu phẩy; hãy dùng dấu chấm phẩy hoặc tách thành hai câu."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "___ it was raining, we went for a walk.",
+            "options": [
+              "Despite",
+              "Although",
+              "However"
+            ],
+            "answer": 1,
+            "explanationVi": "Although đi với mệnh đề (S + V); Despite đi với danh từ hoặc V-ing, còn However không nối hai mệnh đề trong cùng một câu theo cách này."
+          },
+          {
+            "type": "mcq",
+            "prompt": "The bus was late. ___, I missed the meeting.",
+            "options": [
+              "As a result",
+              "Although",
+              "Despite",
+              "Whereas"
+            ],
+            "answer": 0,
+            "explanationVi": "Câu sau là kết quả của câu trước, nên dùng As a result."
+          },
+          {
+            "type": "fill",
+            "prompt": "In spite ___ the bad weather, the festival was a success. (1 từ)",
+            "answers": [
+              "of"
+            ],
+            "explanationVi": "Cụm cố định là in spite of + danh từ."
+          },
+          {
+            "type": "mcq",
+            "prompt": "I like tea, ___ my brother prefers coffee.",
+            "options": [
+              "therefore",
+              "despite",
+              "whereas"
+            ],
+            "answer": 2,
+            "explanationVi": "Whereas nối hai mệnh đề mang ý đối lập."
+          }
+        ],
+        "medium": [
+          {
+            "type": "mcq",
+            "prompt": "___ the high cost, many families still choose private schools.",
+            "options": [
+              "Although",
+              "Even though",
+              "Despite",
+              "However"
+            ],
+            "answer": 2,
+            "explanationVi": "Phía sau là cụm danh từ (the high cost), nên dùng Despite."
+          },
+          {
+            "type": "fill",
+            "prompt": "Some people enjoy city life, ___ others prefer the peace of the countryside. (liên từ nghĩa là “trong khi”, 1 từ)",
+            "answers": [
+              "whereas",
+              "while",
+              "whilst"
+            ],
+            "explanationVi": "Whereas / while nối hai mệnh đề đối lập, nghĩa là “trong khi”."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Many students work part-time. ___ helps them gain experience but can affect their studies.",
+            "options": [
+              "This",
+              "These",
+              "Such",
+              "Those"
+            ],
+            "answer": 0,
+            "explanationVi": "This thay cho cả ý vừa nêu (việc đi làm thêm) và đi với động từ số ít helps."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is punctuated correctly?",
+            "options": [
+              "The museum is popular, however, it is often overcrowded.",
+              "The museum is popular; however, it is often overcrowded.",
+              "The museum is popular however it is often overcrowded."
+            ],
+            "answer": 1,
+            "explanationVi": "However nối hai mệnh đề độc lập cần dấu chấm phẩy đứng trước và dấu phẩy đứng sau."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "Rural areas often lack hospitals and schools; ___, many young people migrate to cities.",
+            "options": [
+              "consequently",
+              "whereas",
+              "nevertheless",
+              "despite this"
+            ],
+            "answer": 0,
+            "explanationVi": "Việc thanh niên di cư là kết quả của việc thiếu bệnh viện, trường học, nên dùng consequently."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Governments can either build more roads or improve public transport. ___ is often more sustainable, as it reduces the number of cars on the road.",
+            "options": [
+              "The former",
+              "The latter",
+              "Former",
+              "The first"
+            ],
+            "answer": 1,
+            "explanationVi": "Phương án giúp giảm số lượng ô tô là cải thiện giao thông công cộng, tức phương án thứ hai được nhắc đến: the latter."
+          },
+          {
+            "type": "fill",
+            "prompt": "___ to rising sea levels, several coastal communities have been relocated. (1 từ, nghĩa là “do, bởi vì”)",
+            "answers": [
+              "Owing",
+              "Due"
+            ],
+            "explanationVi": "Owing to / Due to + danh từ chỉ nguyên nhân: do mực nước biển dâng."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence uses a linking device correctly?",
+            "options": [
+              "Despite the government introduced new laws, pollution levels remained high.",
+              "Although the government introduced new laws, but pollution levels remained high.",
+              "The government introduced new laws, nevertheless pollution levels remained high.",
+              "Even though the government introduced new laws, pollution levels remained high."
+            ],
+            "answer": 3,
+            "explanationVi": "Even though + mệnh đề là đúng; despite không đi với mệnh đề, although không đi cùng but, còn nevertheless không nối hai mệnh đề bằng dấu phẩy."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c2-subjunctive",
+      "level": "C2",
+      "order": 1,
+      "titleVi": "Thức giả định (Subjunctive)",
+      "titleEn": "The subjunctive mood",
+      "summaryVi": "Sau bài này, bạn sẽ dùng thức giả định sau các động từ, tính từ chỉ yêu cầu, trong các cấu trúc wish / would rather / it's time và các cụm cố định để viết trang trọng, chính xác.",
+      "sections": [
+        {
+          "headingVi": "Giả định hiện tại sau từ chỉ yêu cầu, đề nghị",
+          "bodyVi": "Thức giả định hiện tại (mandative subjunctive) dùng sau những từ diễn tả **yêu cầu, đề nghị, sự cần thiết**. Dấu hiệu nhận biết: động từ ở dạng **nguyên mẫu không to cho mọi ngôi**, không thêm -s và không lùi thì.\n\n> S + suggest / recommend / insist / demand / propose / request + that + S + V nguyên mẫu\n> It is essential / vital / crucial / imperative + that + S + V nguyên mẫu\n> The recommendation / proposal / requirement + that + S + V nguyên mẫu\n\n- Phủ định: **not + V** (that he not be..., that they not leave...).\n- Bị động: **be + V3** (that the law be changed).\n- Tiếng Anh – Anh thường dùng **should + V** với nghĩa tương tự: that he should take.",
+          "examples": [
+            {
+              "en": "The doctor recommended that he take a week off work.",
+              "vi": "Bác sĩ khuyên anh ấy nghỉ làm một tuần."
+            },
+            {
+              "en": "It is vital that every child have access to clean water.",
+              "vi": "Điều tối quan trọng là mọi trẻ em đều được tiếp cận nguồn nước sạch."
+            },
+            {
+              "en": "The committee insisted that the report not be published until March.",
+              "vi": "Ủy ban yêu cầu bản báo cáo không được công bố trước tháng Ba."
+            },
+            {
+              "en": "The manager requested that all staff be present at the meeting.",
+              "vi": "Người quản lý yêu cầu toàn bộ nhân viên có mặt tại cuộc họp."
+            }
+          ]
+        },
+        {
+          "headingVi": "Giả định quá khứ: wish, if only, would rather, it's time, as if",
+          "bodyVi": "Thức giả định quá khứ dùng **hình thức quá khứ** để nói về điều **không có thật hoặc chưa xảy ra ở hiện tại**. Với động từ be, dạng trang trọng là **were** cho mọi ngôi.\n\n> S + wish / If only + S + V2 / were (trái với hiện tại)\n> S + wish / If only + S + had + V3 (trái với quá khứ)\n> S + would rather + S2 + V2 (muốn người khác làm gì)\n> It's (high / about) time + S + V2 (đã đến lúc phải...)\n> as if / as though + S + V2 / were (cứ như thể)",
+          "examples": [
+            {
+              "en": "I wish I were more confident when speaking English.",
+              "vi": "Ước gì tôi tự tin hơn khi nói tiếng Anh."
+            },
+            {
+              "en": "I'd rather you didn't tell anyone about this.",
+              "vi": "Tôi mong bạn đừng kể chuyện này với ai."
+            },
+            {
+              "en": "It's high time the government took action on plastic waste.",
+              "vi": "Đã đến lúc chính phủ phải hành động để giải quyết rác thải nhựa."
+            },
+            {
+              "en": "He talks as if he knew everything.",
+              "vi": "Anh ta nói cứ như thể mình biết tất cả mọi thứ."
+            }
+          ]
+        },
+        {
+          "headingVi": "Cụm cố định mang tính giả định",
+          "bodyVi": "Một số cụm từ cố định vẫn giữ dạng giả định từ tiếng Anh cổ. Chúng mang sắc thái trang trọng, rất phù hợp với văn viết học thuật hoặc bài nói cần sự trau chuốt:\n\n- **Be that as it may**: dù vậy, dù thế nào đi nữa\n- **Come what may**: dù có chuyện gì xảy ra\n- **If need be**: nếu cần thiết\n- **Suffice it to say (that)**: chỉ cần nói rằng\n- **So be it**: vậy thì đành vậy\n\nKhông thay đổi hình thức của các cụm này (không nói Is that as it may hay Comes what may).",
+          "examples": [
+            {
+              "en": "Be that as it may, the proposal still requires further funding.",
+              "vi": "Dù vậy, đề xuất này vẫn cần thêm kinh phí."
+            },
+            {
+              "en": "We will finish the project on time, come what may.",
+              "vi": "Dù có chuyện gì xảy ra, chúng tôi vẫn sẽ hoàn thành dự án đúng hạn."
+            },
+            {
+              "en": "If need be, the deadline can be extended by a week.",
+              "vi": "Nếu cần thiết, hạn chót có thể được lùi thêm một tuần."
+            },
+            {
+              "en": "Suffice it to say that the results were disappointing.",
+              "vi": "Chỉ cần nói rằng kết quả thật đáng thất vọng."
+            }
+          ]
+        },
+        {
+          "headingVi": "Nâng band IELTS với thức giả định",
+          "bodyVi": "Thức giả định là cấu trúc ít người học dùng đúng, nên khi bạn dùng chính xác, giám khảo sẽ thấy **độ chính xác ngữ pháp ở trình độ cao**, đúng với mô tả band 8–9 của Grammatical Range and Accuracy.\n\n- **Writing Task 2**: đưa ra giải pháp hoặc khuyến nghị bằng It is imperative that... hoặc Experts recommend that...\n- **Speaking Part 2–3**: bày tỏ mong ước, tiếc nuối bằng I wish..., If only..., It's high time...\n- Lỗi hay gặp: thêm -s cho động từ khi muốn dùng giả định (that he takes), hoặc dùng was thay cho were trong văn viết trang trọng.",
+          "examples": [
+            {
+              "en": "It is imperative that governments invest more in renewable energy.",
+              "vi": "Điều cấp thiết là các chính phủ phải đầu tư nhiều hơn vào năng lượng tái tạo."
+            },
+            {
+              "en": "Experts recommend that each child spend no more than two hours a day in front of a screen.",
+              "vi": "Các chuyên gia khuyến nghị mỗi trẻ không nên dành quá hai giờ mỗi ngày trước màn hình."
+            },
+            {
+              "en": "If only I had started learning English earlier!",
+              "vi": "Giá như tôi bắt đầu học tiếng Anh sớm hơn!"
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "The teacher suggested that he studies harder.",
+          "right": "The teacher suggested that he study harder.",
+          "noteVi": "Trong cấu trúc giả định sau suggest + that, động từ ở dạng nguyên mẫu (hoặc should + V) cho mọi ngôi, không thêm -s."
+        },
+        {
+          "wrong": "I wish I am taller.",
+          "right": "I wish I were taller.",
+          "noteVi": "Wish về hiện tại dùng dạng quá khứ; với be, dùng were (trang trọng) cho mọi ngôi."
+        },
+        {
+          "wrong": "It's time we go home.",
+          "right": "It's time we went home.",
+          "noteVi": "Sau It's time + S, động từ chia ở quá khứ dù đang nói về hiện tại."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "I wish I ___ more free time.",
+            "options": [
+              "had",
+              "have",
+              "will have"
+            ],
+            "answer": 0,
+            "explanationVi": "Wish về hiện tại dùng động từ ở dạng quá khứ: had."
+          },
+          {
+            "type": "mcq",
+            "prompt": "The teacher suggested that Minh ___ more books. (thức giả định)",
+            "options": [
+              "reads",
+              "reading",
+              "read",
+              "to read"
+            ],
+            "answer": 2,
+            "explanationVi": "Sau suggest + that, thức giả định dùng động từ nguyên mẫu cho mọi ngôi: Minh read."
+          },
+          {
+            "type": "fill",
+            "prompt": "It's time we ___ home. (go)",
+            "answers": [
+              "went",
+              "were going"
+            ],
+            "explanationVi": "Sau It's time + S, động từ chia ở quá khứ (went) dù đang nói về hiện tại."
+          },
+          {
+            "type": "mcq",
+            "prompt": "I'd rather you ___ smoke in the house.",
+            "options": [
+              "don't",
+              "didn't",
+              "won't",
+              "not"
+            ],
+            "answer": 1,
+            "explanationVi": "Would rather + S2 + V2: dùng dạng quá khứ (didn't) để nói về mong muốn ở hiện tại."
+          }
+        ],
+        "medium": [
+          {
+            "type": "mcq",
+            "prompt": "It is essential that every applicant ___ a valid passport. (thức giả định)",
+            "options": [
+              "has",
+              "had",
+              "have",
+              "having"
+            ],
+            "answer": 2,
+            "explanationVi": "Sau It is essential that, thức giả định dùng động từ nguyên mẫu cho mọi ngôi: have."
+          },
+          {
+            "type": "fill",
+            "prompt": "The manager insisted that the report ___ finished by Friday. (be — dạng giả định)",
+            "answers": [
+              "be",
+              "should be"
+            ],
+            "explanationVi": "Sau insist that, dùng be + V3 (hoặc should be + V3) cho câu bị động ở thức giả định."
+          },
+          {
+            "type": "mcq",
+            "prompt": "If only I ___ to your advice last year!",
+            "options": [
+              "listened",
+              "had listened",
+              "would listen",
+              "have listened"
+            ],
+            "answer": 1,
+            "explanationVi": "If only về quá khứ (last year) dùng had + V3."
+          },
+          {
+            "type": "mcq",
+            "prompt": "He spoke to me as if I ___ a child.",
+            "options": [
+              "were",
+              "am",
+              "be",
+              "will be"
+            ],
+            "answer": 0,
+            "explanationVi": "As if + S + were diễn tả điều không có thật: tôi không phải là trẻ con."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "The panel recommended that the drug ___ approved until further trials had been completed.",
+            "options": [
+              "is not",
+              "not be",
+              "does not be",
+              "not being"
+            ],
+            "answer": 1,
+            "explanationVi": "Phủ định của thức giả định là not + V nguyên mẫu; ở dạng bị động là not be + V3."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is correct in formal academic English?",
+            "options": [
+              "It is imperative that each member state to reduce its emissions by 2030.",
+              "It is imperative that each member state reducing its emissions by 2030.",
+              "It is imperative for each member state reduce its emissions by 2030.",
+              "It is imperative that each member state reduce its emissions by 2030."
+            ],
+            "answer": 3,
+            "explanationVi": "It is imperative that + S + V nguyên mẫu (reduce) là thức giả định chuẩn; các câu khác sai cấu trúc."
+          },
+          {
+            "type": "fill",
+            "prompt": "___ that as it may, the evidence for the theory remains limited. (1 từ)",
+            "answers": [
+              "Be"
+            ],
+            "explanationVi": "Be that as it may là cụm giả định cố định, nghĩa là “dù vậy”."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Many economists wish governments ___ more attention to income inequality in the past.",
+            "options": [
+              "paid",
+              "would pay",
+              "had paid",
+              "pay"
+            ],
+            "answer": 2,
+            "explanationVi": "Wish về một điều trong quá khứ (in the past) dùng had + V3."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c2-participle-clauses",
+      "level": "C2",
+      "order": 2,
+      "titleVi": "Mệnh đề phân từ (Participle clauses)",
+      "titleEn": "Participle clauses",
+      "summaryVi": "Sau bài này, bạn sẽ dùng mệnh đề phân từ (V-ing, V3, Having V3) để rút gọn câu, nối ý gọn gàng và tránh lỗi phân từ treo.",
+      "sections": [
+        {
+          "headingVi": "Ba dạng mệnh đề phân từ",
+          "bodyVi": "Mệnh đề phân từ (participle clause) giúp bạn **rút gọn câu** bằng cách bỏ chủ ngữ và liên từ, chỉ giữ lại phân từ. Có ba dạng chính:\n\n> V-ing ..., S + V (nghĩa chủ động, thường xảy ra cùng lúc hoặc chỉ lý do)\n> V3 / V-ed ..., S + V (nghĩa bị động)\n> Having + V3 ..., S + V (hành động hoàn tất trước hành động chính)\n\n- Phủ định: đặt **not** trước phân từ (Not knowing..., Not having seen...).\n- Tuỳ ngữ cảnh, mệnh đề phân từ có thể diễn tả **thời gian, lý do, điều kiện hoặc kết quả**.",
+          "examples": [
+            {
+              "en": "Walking along the beach, we saw a group of dolphins.",
+              "vi": "Khi đang đi dạo dọc bãi biển, chúng tôi nhìn thấy một đàn cá heo."
+            },
+            {
+              "en": "Built in the 11th century, the pagoda attracts thousands of visitors every year.",
+              "vi": "Được xây dựng từ thế kỷ 11, ngôi chùa thu hút hàng nghìn du khách mỗi năm."
+            },
+            {
+              "en": "Having finished her thesis, she took a long holiday in Japan.",
+              "vi": "Sau khi hoàn thành luận văn, cô ấy đi nghỉ dài ngày ở Nhật Bản."
+            },
+            {
+              "en": "Not knowing what to say, he remained silent.",
+              "vi": "Không biết phải nói gì, anh ấy đành im lặng."
+            }
+          ]
+        },
+        {
+          "headingVi": "Rút gọn mệnh đề quan hệ và mệnh đề trạng ngữ",
+          "bodyVi": "Phân từ cũng được dùng để rút gọn mệnh đề quan hệ và mệnh đề trạng ngữ, giúp câu ngắn gọn hơn mà không mất nghĩa.\n\n> N + V-ing ... (= N + who/which + V, nghĩa chủ động)\n> N + V3 ... (= N + who/which + be + V3, nghĩa bị động)\n> When / While / After / Before / Since + V-ing ..., S + V\n> If / Unless / Once / Although + V3 ..., S + V\n\nLưu ý: nên giữ lại liên từ (when, while, if...) khi cần làm rõ quan hệ thời gian hoặc điều kiện.",
+          "examples": [
+            {
+              "en": "Students living on campus pay lower rent.",
+              "vi": "Sinh viên sống trong ký túc xá trả tiền thuê thấp hơn."
+            },
+            {
+              "en": "The figures shown in the table refer to 2020.",
+              "vi": "Các số liệu được trình bày trong bảng là của năm 2020."
+            },
+            {
+              "en": "While waiting for the bus, I listened to a podcast.",
+              "vi": "Trong lúc chờ xe buýt, tôi nghe một chương trình podcast."
+            },
+            {
+              "en": "If left untreated, the infection can spread quickly.",
+              "vi": "Nếu không được điều trị, tình trạng nhiễm trùng có thể lan nhanh."
+            }
+          ]
+        },
+        {
+          "headingVi": "Tránh lỗi phân từ treo (dangling participle)",
+          "bodyVi": "Quy tắc quan trọng nhất: **chủ ngữ ngầm hiểu của phân từ phải trùng với chủ ngữ của mệnh đề chính**. Nếu không, câu sẽ mang nghĩa ngớ ngẩn.\n\n- Sai: Walking into the room, the lights went off. (đèn không thể “đi vào phòng”)\n- Đúng: Walking into the room, I noticed that the lights were off.\n- Đúng: As I walked into the room, the lights went off.\n\nNếu hai mệnh đề có chủ ngữ khác nhau, hãy dùng cấu trúc tuyệt đối (absolute construction):\n\n> With + O + V-ing / V3, S + V\n> N + V-ing / V3, S + V (trang trọng)",
+          "examples": [
+            {
+              "en": "Arriving at the station, I realised I had left my ticket at home.",
+              "vi": "Khi đến nhà ga, tôi nhận ra mình đã để quên vé ở nhà."
+            },
+            {
+              "en": "With prices rising, many families are cutting back on spending.",
+              "vi": "Khi giá cả tăng, nhiều gia đình đang cắt giảm chi tiêu."
+            },
+            {
+              "en": "Weather permitting, the ceremony will be held outdoors.",
+              "vi": "Nếu thời tiết cho phép, buổi lễ sẽ được tổ chức ngoài trời."
+            }
+          ]
+        },
+        {
+          "headingVi": "Nâng band IELTS với mệnh đề phân từ",
+          "bodyVi": "Mệnh đề phân từ là dấu hiệu của người viết thành thạo: câu gọn, ý liên kết chặt, cấu trúc đa dạng. Đây là điểm cộng lớn cho **Grammatical Range and Accuracy** ở band 7 trở lên.\n\n- **Task 1**: nối số liệu bằng V-ing ở cuối câu: ..., reaching a peak of..., ..., accounting for...\n- **Task 2**: mở đầu câu bằng V3 hoặc Having V3 để nêu nguyên nhân, bối cảnh: Faced with..., Having considered both views, ...\n- Luôn kiểm tra chủ ngữ để tránh lỗi phân từ treo, vì lỗi này làm giảm điểm Accuracy.",
+          "examples": [
+            {
+              "en": "Coal consumption rose steadily, reaching a peak of 50 million tonnes in 2015.",
+              "vi": "Lượng tiêu thụ than tăng đều, đạt đỉnh 50 triệu tấn vào năm 2015."
+            },
+            {
+              "en": "Faced with rising costs, many universities have increased their tuition fees.",
+              "vi": "Đối mặt với chi phí ngày càng tăng, nhiều trường đại học đã tăng học phí."
+            },
+            {
+              "en": "Having considered both views, I believe that the benefits outweigh the drawbacks.",
+              "vi": "Sau khi xem xét cả hai quan điểm, tôi tin rằng lợi ích lớn hơn bất lợi."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Walking into the room, the lights went off.",
+          "right": "As I walked into the room, the lights went off.",
+          "noteVi": "Lỗi phân từ treo: chủ ngữ của mệnh đề chính (the lights) không phải là người đi vào phòng."
+        },
+        {
+          "wrong": "Finished my homework, I went out with my friends.",
+          "right": "Having finished my homework, I went out with my friends.",
+          "noteVi": "Để diễn tả hành động chủ động đã hoàn tất trước, dùng Having + V3; V3 đứng một mình mang nghĩa bị động."
+        },
+        {
+          "wrong": "Writing in 1950, the novel is still popular today.",
+          "right": "Written in 1950, the novel is still popular today.",
+          "noteVi": "Cuốn tiểu thuyết được viết ra (nghĩa bị động), nên dùng quá khứ phân từ written."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "___ in 1990, the bridge is now in need of repair.",
+            "options": [
+              "Building",
+              "Built",
+              "Having built",
+              "Build"
+            ],
+            "answer": 1,
+            "explanationVi": "Cây cầu được xây dựng (nghĩa bị động) nên dùng quá khứ phân từ Built."
+          },
+          {
+            "type": "mcq",
+            "prompt": "___ down the street, I met an old friend.",
+            "options": [
+              "Walking",
+              "Walked",
+              "To walk"
+            ],
+            "answer": 0,
+            "explanationVi": "Tôi tự đi bộ (nghĩa chủ động, xảy ra cùng lúc) nên dùng V-ing: Walking."
+          },
+          {
+            "type": "fill",
+            "prompt": "The woman ___ next to me on the plane was a famous writer. (sit — dạng phân từ)",
+            "answers": [
+              "sitting"
+            ],
+            "explanationVi": "Rút gọn mệnh đề quan hệ chủ động (who was sitting) thành sitting."
+          },
+          {
+            "type": "mcq",
+            "prompt": "The books ___ on the table belong to my brother.",
+            "options": [
+              "leaving",
+              "leave",
+              "left",
+              "to leave"
+            ],
+            "answer": 2,
+            "explanationVi": "Những cuốn sách được để lại (nghĩa bị động), nên dùng left (= which were left)."
+          }
+        ],
+        "medium": [
+          {
+            "type": "mcq",
+            "prompt": "___ his homework, he went out to play football.",
+            "options": [
+              "Having finished",
+              "Finished",
+              "Being finished",
+              "Have finished"
+            ],
+            "answer": 0,
+            "explanationVi": "Làm xong bài tập xảy ra trước việc ra ngoài và mang nghĩa chủ động, nên dùng Having + V3."
+          },
+          {
+            "type": "fill",
+            "prompt": "___ by the noise, the baby started crying. (frighten — 1 từ)",
+            "answers": [
+              "Frightened"
+            ],
+            "explanationVi": "Em bé bị tiếng ồn làm cho sợ (nghĩa bị động), nên dùng quá khứ phân từ Frightened."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is correct?",
+            "options": [
+              "Looking out of the window, the mountains were beautiful.",
+              "Looking out of the window, I saw the beautiful mountains.",
+              "Looked out of the window, I saw the beautiful mountains."
+            ],
+            "answer": 1,
+            "explanationVi": "Người nhìn ra cửa sổ là I, trùng với chủ ngữ mệnh đề chính; câu đầu bị lỗi phân từ treo, câu cuối dùng sai dạng phân từ."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Not ___ what to do, she called her mother for advice.",
+            "options": [
+              "knew",
+              "known",
+              "knowing",
+              "to know"
+            ],
+            "answer": 2,
+            "explanationVi": "Phủ định của mệnh đề phân từ là Not + V-ing, ở đây chỉ lý do: vì không biết phải làm gì."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "Renewable energy rose sharply after 2010, ___ 35% of total electricity output by 2020.",
+            "options": [
+              "accounting for",
+              "accounted for",
+              "to account",
+              "account for"
+            ],
+            "answer": 0,
+            "explanationVi": "Mệnh đề V-ing ở cuối câu bổ sung kết quả cho mệnh đề chính, rất hay dùng trong IELTS Task 1."
+          },
+          {
+            "type": "fill",
+            "prompt": "___ with growing public pressure, the government agreed to review the policy. (face — 1 từ)",
+            "answers": [
+              "Faced"
+            ],
+            "explanationVi": "Be faced with nghĩa là đối mặt với; ở mệnh đề phân từ, dùng quá khứ phân từ Faced."
+          },
+          {
+            "type": "mcq",
+            "prompt": "___ the data, the researchers concluded that the hypothesis was false.",
+            "options": [
+              "Analysed",
+              "Having analysed",
+              "Being analysed",
+              "Having been analysed"
+            ],
+            "answer": 1,
+            "explanationVi": "Các nhà nghiên cứu phân tích dữ liệu (chủ động) trước khi kết luận, nên dùng Having + V3."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence contains a dangling participle?",
+            "options": [
+              "Having reviewed the literature, the authors identified three research gaps.",
+              "Collected over five years, the data reveal a clear trend.",
+              "Having been tested on animals, the researchers approved the drug for human trials.",
+              "Funded by the EU, the project ran from 2018 to 2022."
+            ],
+            "answer": 2,
+            "explanationVi": "Câu này ngụ ý các nhà nghiên cứu được thử nghiệm trên động vật; thứ được thử nghiệm là loại thuốc, nên đây là phân từ treo."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c2-ellipsis-substitution",
+      "level": "C2",
+      "order": 3,
+      "titleVi": "Tỉnh lược và thay thế (Ellipsis & substitution)",
+      "titleEn": "Ellipsis and substitution",
+      "summaryVi": "Sau bài này, bạn sẽ lược bỏ hoặc thay thế những từ ngữ lặp lại bằng one, that of, do, so, not... để nói và viết tự nhiên, mạch lạc như người bản xứ.",
+      "sections": [
+        {
+          "headingVi": "Thay thế danh từ: one, ones, that of, those of",
+          "bodyVi": "Người bản xứ rất ít khi lặp lại cùng một danh từ trong câu. Thay vào đó, họ dùng **từ thay thế**.\n\n> a / the + (tính từ) + one (thay cho danh từ đếm được số ít)\n> the + (tính từ) + ones (thay cho danh từ đếm được số nhiều)\n> that of + N (thay cho danh từ số ít hoặc không đếm được, trang trọng)\n> those of + N (thay cho danh từ số nhiều, trang trọng)\n\n- **one / ones** không thay cho danh từ không đếm được (không nói: I prefer white rice to brown one).\n- **that of / those of** rất thường gặp trong IELTS Writing Task 1 khi so sánh số liệu.",
+          "examples": [
+            {
+              "en": "I don't like this shirt. Can I try the blue one?",
+              "vi": "Tôi không thích chiếc áo này. Tôi thử chiếc màu xanh được không?"
+            },
+            {
+              "en": "These shoes are too small. Do you have any bigger ones?",
+              "vi": "Đôi giày này chật quá. Bạn có đôi nào to hơn không?"
+            },
+            {
+              "en": "The population of Tokyo is larger than that of London.",
+              "vi": "Dân số Tokyo đông hơn dân số London."
+            },
+            {
+              "en": "The salaries of nurses are lower than those of doctors.",
+              "vi": "Lương của y tá thấp hơn lương của bác sĩ."
+            }
+          ]
+        },
+        {
+          "headingVi": "Thay thế động từ và mệnh đề: do, so, not",
+          "bodyVi": "Để tránh lặp lại cả một cụm động từ hay một mệnh đề, ta dùng **do, so, not**:\n\n> so / neither + trợ động từ + S (cũng vậy / cũng không)\n> S + think / hope / believe / expect / suppose + so\n> S + hope / be afraid / guess + not\n> do so (thay cho cụm động từ, trang trọng)\n\n- Với **think, believe, expect**, dạng phủ định thường gặp là **I don't think so** (tự nhiên hơn I think not).\n- Với **hope** và **be afraid**, phủ định luôn là **I hope not / I'm afraid not** (không nói I don't hope so).",
+          "examples": [
+            {
+              "en": "“Will it rain tomorrow?” “I hope not.”",
+              "vi": "“Mai trời có mưa không?” “Hy vọng là không.”"
+            },
+            {
+              "en": "She loves spicy food, and so does her husband.",
+              "vi": "Cô ấy thích đồ cay, và chồng cô ấy cũng vậy."
+            },
+            {
+              "en": "“Is the museum open on Mondays?” “I don't think so.”",
+              "vi": "“Bảo tàng có mở cửa vào thứ Hai không?” “Tôi nghĩ là không.”"
+            },
+            {
+              "en": "The government promised to cut taxes but has not yet done so.",
+              "vi": "Chính phủ đã hứa giảm thuế nhưng vẫn chưa thực hiện."
+            }
+          ]
+        },
+        {
+          "headingVi": "Tỉnh lược (ellipsis)",
+          "bodyVi": "Tỉnh lược là **lược bỏ hẳn** những từ đã rõ từ ngữ cảnh. Người nghe tự hiểu phần bị lược nhờ câu trước đó.\n\n> S + trợ động từ / động từ khuyết thiếu (bỏ phần động từ phía sau)\n> ... want / would like / would love / try + to (bỏ động từ sau to)\n> Mệnh đề 1; mệnh đề 2 (bỏ động từ lặp lại, thay bằng dấu phẩy)\n\nTrong Speaking, tỉnh lược giúp câu trả lời ngắn gọn, tự nhiên như người bản xứ. Tuy nhiên, câu trả lời Part 1 vẫn nên được mở rộng bằng lý do hoặc ví dụ.",
+          "examples": [
+            {
+              "en": "I haven't finished the report yet, but I will soon.",
+              "vi": "Tôi chưa làm xong bản báo cáo, nhưng tôi sẽ xong sớm thôi."
+            },
+            {
+              "en": "“Would you like to join us for dinner?” “I'd love to.”",
+              "vi": "“Bạn có muốn ăn tối cùng chúng tôi không?” “Tôi rất muốn.”"
+            },
+            {
+              "en": "Some students prefer to study alone; others, in groups.",
+              "vi": "Một số sinh viên thích học một mình; số khác thích học theo nhóm."
+            },
+            {
+              "en": "He said he would call me, but he didn't.",
+              "vi": "Anh ấy nói sẽ gọi cho tôi, nhưng rồi lại không gọi."
+            }
+          ]
+        },
+        {
+          "headingVi": "Ứng dụng trong IELTS",
+          "bodyVi": "Tỉnh lược và thay thế là những phương tiện liên kết (cohesive devices) mà giám khảo tìm kiếm ở band 7 trở lên, cho cả **Coherence and Cohesion** lẫn **Grammatical Range and Accuracy**.\n\n- **Writing Task 1**: dùng that of / those of và trợ động từ (than ... did) để so sánh số liệu mà không lặp từ.\n- **Writing Task 2**: dùng do so, such, this để nhắc lại ý trước.\n- **Speaking**: trả lời tự nhiên bằng I suppose so, I'm afraid not, I'd love to, I used to.\n\nLưu ý: chọn **that** hay **those** theo số ít hay số nhiều của danh từ được thay thế.",
+          "examples": [
+            {
+              "en": "In 2020, the unemployment rate in Spain was double that of Germany.",
+              "vi": "Năm 2020, tỷ lệ thất nghiệp của Tây Ban Nha cao gấp đôi Đức."
+            },
+            {
+              "en": "Men spent more time on sport than women did.",
+              "vi": "Nam giới dành nhiều thời gian cho thể thao hơn nữ giới."
+            },
+            {
+              "en": "“Do you think people will read fewer printed books in the future?” “I suspect so, unfortunately.”",
+              "vi": "“Bạn có nghĩ sau này mọi người sẽ đọc ít sách in hơn không?” “Tiếc là tôi đoán vậy.”"
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "The population of Hanoi is larger than Da Nang.",
+          "right": "The population of Hanoi is larger than that of Da Nang.",
+          "noteVi": "Phải so sánh dân số với dân số, không phải dân số với một thành phố; dùng that of để thay cho the population."
+        },
+        {
+          "wrong": "“Is he coming?” “I think yes.”",
+          "right": "“Is he coming?” “I think so.”",
+          "noteVi": "Sau think, dùng so để thay cho cả mệnh đề; không dùng yes (lỗi do dịch sát “tôi nghĩ là có”)."
+        },
+        {
+          "wrong": "“Will it be expensive?” “I don't hope so.”",
+          "right": "“Will it be expensive?” “I hope not.”",
+          "noteVi": "Với hope, dạng phủ định là I hope not, không dùng I don't hope so."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "“Is it going to rain?” “I hope ___.”",
+            "options": [
+              "no",
+              "not",
+              "don't",
+              "isn't"
+            ],
+            "answer": 1,
+            "explanationVi": "Với hope, câu trả lời phủ định rút gọn là I hope not."
+          },
+          {
+            "type": "mcq",
+            "prompt": "I like the red dress, but my sister prefers the black ___.",
+            "options": [
+              "one",
+              "ones",
+              "it",
+              "that"
+            ],
+            "answer": 0,
+            "explanationVi": "One thay cho danh từ đếm được số ít (dress) để tránh lặp từ."
+          },
+          {
+            "type": "fill",
+            "prompt": "“I love Korean food.” “So ___ I.”",
+            "answers": [
+              "do"
+            ],
+            "explanationVi": "So + trợ động từ + S; câu gốc dùng love (hiện tại đơn) nên trợ động từ là do."
+          },
+          {
+            "type": "mcq",
+            "prompt": "“Is Nam coming to the party?” “I think ___.”",
+            "options": [
+              "yes",
+              "it",
+              "so",
+              "that"
+            ],
+            "answer": 2,
+            "explanationVi": "I think so thay cho cả mệnh đề Nam is coming to the party."
+          }
+        ],
+        "medium": [
+          {
+            "type": "mcq",
+            "prompt": "My brother can't swim, and ___ can I.",
+            "options": [
+              "so",
+              "neither",
+              "either",
+              "too"
+            ],
+            "answer": 1,
+            "explanationVi": "Đồng tình với câu phủ định dùng neither + trợ động từ + S: neither can I."
+          },
+          {
+            "type": "fill",
+            "prompt": "The climate of Da Lat is cooler than ___ of Ho Chi Minh City. (1 từ)",
+            "answers": [
+              "that"
+            ],
+            "explanationVi": "That of thay cho danh từ số ít the climate để tránh lặp từ."
+          },
+          {
+            "type": "mcq",
+            "prompt": "“Would you like to come to the cinema with us?” “I'd love ___.”",
+            "options": [
+              "so",
+              "one",
+              "to"
+            ],
+            "answer": 2,
+            "explanationVi": "Tỉnh lược sau to: I'd love to (come to the cinema)."
+          },
+          {
+            "type": "mcq",
+            "prompt": "She said she would finish the report yesterday, but she ___.",
+            "options": [
+              "didn't",
+              "wasn't",
+              "doesn't",
+              "isn't"
+            ],
+            "answer": 0,
+            "explanationVi": "Didn't thay cho didn't finish the report; câu nói về quá khứ và động từ chính là động từ thường nên dùng did."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "In 2020, the GDP per capita of Singapore was considerably higher than ___ of Malaysia.",
+            "options": [
+              "this",
+              "those",
+              "that",
+              "it"
+            ],
+            "answer": 2,
+            "explanationVi": "That of thay cho danh từ số ít the GDP per capita."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Urban residents tend to use public transport more frequently than rural residents ___.",
+            "options": [
+              "do",
+              "are",
+              "does",
+              "have"
+            ],
+            "answer": 0,
+            "explanationVi": "Do thay cho cụm động từ use public transport; chủ ngữ số nhiều (rural residents) nên dùng do."
+          },
+          {
+            "type": "fill",
+            "prompt": "The government pledged to reduce emissions by 40%, but it has yet to ___ so. (1 từ)",
+            "answers": [
+              "do"
+            ],
+            "explanationVi": "Do so thay cho cụm động từ reduce emissions by 40%."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence uses substitution correctly?",
+            "options": [
+              "Vietnam's exports were higher than that of Cambodia.",
+              "Vietnam's exports were higher than those of Cambodia.",
+              "Vietnam's exports were higher than the ones of Cambodia.",
+              "Vietnam's exports were higher than them of Cambodia."
+            ],
+            "answer": 1,
+            "explanationVi": "Exports là danh từ số nhiều nên phải dùng those of; the ones of và them of không đúng trong văn học thuật."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c2-hedging",
+      "level": "C2",
+      "order": 4,
+      "titleVi": "Ngôn ngữ rào đón trong văn học thuật (Hedging)",
+      "titleEn": "Hedging in academic writing",
+      "summaryVi": "Sau bài này, bạn sẽ dùng ngôn ngữ rào đón (may, tend to, it appears that, arguably...) để đưa ra nhận định thận trọng, khách quan và phù hợp với bằng chứng như một người viết học thuật.",
+      "sections": [
+        {
+          "headingVi": "Vì sao cần ngôn ngữ rào đón?",
+          "bodyVi": "Trong văn học thuật, người viết hiếm khi khẳng định tuyệt đối, vì hầu hết các nhận định đều có ngoại lệ hoặc chưa được chứng minh hoàn toàn. **Ngôn ngữ rào đón** (hedging) giúp bạn:\n\n- Thể hiện **sự thận trọng và khách quan**.\n- Tránh **khái quát hoá quá mức** (overgeneralisation), điều rất dễ bị phản bác.\n- Thể hiện mức độ chắc chắn **phù hợp với bằng chứng**.\n\nTrong IELTS Writing Task 2, câu như All young people are addicted to their phones khiến lập luận yếu đi. Hãy viết: Many young people appear to spend excessive time on their phones.",
+          "examples": [
+            {
+              "en": "All students hate exams. → Many students tend to find exams stressful.",
+              "vi": "Tất cả học sinh đều ghét thi cử. → Nhiều học sinh thường thấy thi cử căng thẳng."
+            },
+            {
+              "en": "Social media causes depression. → Excessive use of social media may contribute to depression in some teenagers.",
+              "vi": "Mạng xã hội gây ra trầm cảm. → Việc dùng mạng xã hội quá mức có thể góp phần gây trầm cảm ở một số thanh thiếu niên."
+            },
+            {
+              "en": "This policy will solve the housing crisis. → This policy could help to ease the housing crisis.",
+              "vi": "Chính sách này sẽ giải quyết cuộc khủng hoảng nhà ở. → Chính sách này có thể giúp giảm bớt khủng hoảng nhà ở."
+            }
+          ]
+        },
+        {
+          "headingVi": "Các phương tiện rào đón",
+          "bodyVi": "Có nhiều cách để làm mềm một nhận định:\n\n- Động từ khuyết thiếu: **may, might, could, can**\n- Động từ: **appear, seem, tend, suggest, indicate**\n- Trạng từ: **possibly, probably, arguably, generally, largely, relatively**\n- Tính từ, danh từ: **likely, possible, a tendency, a possibility**\n- Từ chỉ số lượng, phạm vi: **some, many, most, to some extent, in most cases**\n- Cấu trúc bị động khách quan: **It is believed / thought / argued that...**\n\n> It + is / seems / appears + likely / possible + that + S + V\n> S + tend(s) to / appear(s) to / seem(s) to / is likely to + V",
+          "examples": [
+            {
+              "en": "Older people tend to be less comfortable with online banking.",
+              "vi": "Người lớn tuổi thường kém thoải mái hơn khi dùng ngân hàng trực tuyến."
+            },
+            {
+              "en": "It appears that the new policy has had little effect on unemployment.",
+              "vi": "Có vẻ như chính sách mới chưa tác động nhiều đến tình trạng thất nghiệp."
+            },
+            {
+              "en": "The findings suggest that sleep quality is closely linked to academic performance.",
+              "vi": "Kết quả nghiên cứu cho thấy chất lượng giấc ngủ có liên hệ chặt chẽ với kết quả học tập."
+            },
+            {
+              "en": "This is arguably the most serious challenge facing modern cities.",
+              "vi": "Đây có lẽ là thách thức nghiêm trọng nhất mà các thành phố hiện đại đang đối mặt."
+            }
+          ]
+        },
+        {
+          "headingVi": "Mức độ chắc chắn và tránh rào đón quá mức",
+          "bodyVi": "Hãy chọn mức độ chắc chắn phù hợp với bằng chứng bạn có:\n\n- Rất chắc chắn: **clearly, certainly, undoubtedly, will**\n- Khá chắc chắn: **probably, likely, is likely to**\n- Có thể: **may, possibly, perhaps**\n- Ít chắc chắn: **might, could**\n\nRào đón quá mức cũng là một lỗi: câu như It might possibly perhaps be true nghe thiếu tự tin và lủng củng. Thông thường, **một phương tiện rào đón cho mỗi nhận định là đủ**.",
+          "examples": [
+            {
+              "en": "Remote work is likely to become more common in the future.",
+              "vi": "Làm việc từ xa nhiều khả năng sẽ trở nên phổ biến hơn trong tương lai."
+            },
+            {
+              "en": "This trend could be partly explained by changes in lifestyle.",
+              "vi": "Xu hướng này có thể được giải thích một phần bởi những thay đổi trong lối sống."
+            },
+            {
+              "en": "Rising temperatures will almost certainly affect food production.",
+              "vi": "Nhiệt độ tăng gần như chắc chắn sẽ ảnh hưởng đến sản xuất lương thực."
+            }
+          ]
+        },
+        {
+          "headingVi": "Nâng band IELTS với ngôn ngữ rào đón",
+          "bodyVi": "Rào đón đúng cách cho thấy bạn có **tư duy phản biện** và kiểm soát được sắc thái câu, giúp nâng điểm ở cả Task Response lẫn Grammatical Range and Accuracy.\n\n- **Writing Task 2**: kết hợp rào đón với câu bị động và câu phức: It could be argued that..., To some extent, I agree that...\n- **Speaking**: dùng các cụm tự nhiên như I'd say..., I suppose..., As far as I know..., It seems to me that...\n- Đừng rào đón quan điểm chính trong câu luận điểm (thesis statement) đến mức người đọc không biết bạn đồng ý hay phản đối.",
+          "examples": [
+            {
+              "en": "It could be argued that university education should be free for all.",
+              "vi": "Có thể lập luận rằng giáo dục đại học nên được miễn phí cho tất cả mọi người."
+            },
+            {
+              "en": "To some extent, I agree that technology has made people less sociable.",
+              "vi": "Ở một mức độ nào đó, tôi đồng ý rằng công nghệ đã khiến con người ít hoà đồng hơn."
+            },
+            {
+              "en": "I'd say that most people in my hometown prefer motorbikes to cars.",
+              "vi": "Tôi cho rằng phần lớn người dân ở quê tôi thích xe máy hơn ô tô."
+            }
+          ]
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "Technology always makes people lazy.",
+          "right": "Technology can make some people lazier.",
+          "noteVi": "Tránh khái quát hoá tuyệt đối (always, all); dùng can và some để nhận định thận trọng hơn."
+        },
+        {
+          "wrong": "Young people are tend to spend more time online.",
+          "right": "Young people tend to spend more time online.",
+          "noteVi": "Tend là động từ thường nên không đi với be (khác với be likely to)."
+        },
+        {
+          "wrong": "This may possibly perhaps cause problems.",
+          "right": "This may cause problems.",
+          "noteVi": "Rào đón quá mức khiến câu lủng củng; một phương tiện rào đón là đủ."
+        }
+      ],
+      "quiz": {
+        "easy": [
+          {
+            "type": "mcq",
+            "prompt": "Câu nào mang tính rào đón (thận trọng) nhất?",
+            "options": [
+              "Coffee definitely causes heart disease.",
+              "Coffee may increase the risk of heart disease.",
+              "Coffee causes heart disease."
+            ],
+            "answer": 1,
+            "explanationVi": "May và increase the risk thể hiện nhận định thận trọng; hai câu còn lại khẳng định tuyệt đối."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Young people ___ to spend more time online than older people.",
+            "options": [
+              "tend",
+              "are tend",
+              "tends",
+              "tending"
+            ],
+            "answer": 0,
+            "explanationVi": "Tend là động từ thường, chủ ngữ số nhiều (young people) nên dùng tend to + V."
+          },
+          {
+            "type": "fill",
+            "prompt": "It ___ that the new law has reduced crime. (seem — thì hiện tại đơn)",
+            "answers": [
+              "seems"
+            ],
+            "explanationVi": "It seems that... là cấu trúc rào đón phổ biến; chủ ngữ It nên động từ thêm -s."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which word is a hedging adverb?",
+            "options": [
+              "definitely",
+              "always",
+              "probably",
+              "certainly"
+            ],
+            "answer": 2,
+            "explanationVi": "Probably (có lẽ) làm giảm mức độ chắc chắn; các từ còn lại đều mang nghĩa khẳng định tuyệt đối."
+          }
+        ],
+        "medium": [
+          {
+            "type": "mcq",
+            "prompt": "The results ___ that there is a link between diet and memory.",
+            "options": [
+              "suggest",
+              "proves",
+              "is suggesting",
+              "are prove"
+            ],
+            "answer": 0,
+            "explanationVi": "Suggest là động từ rào đón và hợp với chủ ngữ số nhiều the results; các lựa chọn khác sai về hoà hợp chủ ngữ – động từ hoặc sai cấu trúc."
+          },
+          {
+            "type": "fill",
+            "prompt": "To some ___, this view is understandable. (1 từ)",
+            "answers": [
+              "extent",
+              "degree"
+            ],
+            "explanationVi": "To some extent / to some degree nghĩa là ở một mức độ nào đó, giúp quan điểm bớt tuyệt đối."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Which sentence is over-hedged (rào đón quá mức)?",
+            "options": [
+              "This may be due to rising costs.",
+              "This is probably due to rising costs.",
+              "This might possibly perhaps be due to rising costs."
+            ],
+            "answer": 2,
+            "explanationVi": "Câu này dùng ba từ rào đón (might, possibly, perhaps) cho cùng một nhận định, nghe lủng củng."
+          },
+          {
+            "type": "mcq",
+            "prompt": "It is widely ___ that regular exercise improves mental health.",
+            "options": [
+              "believe",
+              "believed",
+              "believing",
+              "belief"
+            ],
+            "answer": 1,
+            "explanationVi": "Cấu trúc bị động khách quan It is believed that... cần quá khứ phân từ believed."
+          }
+        ],
+        "hard": [
+          {
+            "type": "mcq",
+            "prompt": "Which claim is appropriately hedged and grammatically correct?",
+            "options": [
+              "Video games are certainly the cause of violent behaviour in all children.",
+              "Video games may contribute to aggressive behaviour in some children.",
+              "Video games may possibly could contribute to aggressive behaviour.",
+              "Video games are tend to cause aggressive behaviour in some children."
+            ],
+            "answer": 1,
+            "explanationVi": "Câu này dùng may và some để nhận định thận trọng, đúng ngữ pháp; các câu khác khẳng định tuyệt đối hoặc sai cấu trúc."
+          },
+          {
+            "type": "fill",
+            "prompt": "The data ___ to indicate a gradual shift towards renewable energy. (appear — thì hiện tại đơn)",
+            "answers": [
+              "appear",
+              "appears"
+            ],
+            "explanationVi": "Appear to + V là cách rào đón; data có thể được coi là số nhiều (appear) hoặc số ít (appears)."
+          },
+          {
+            "type": "mcq",
+            "prompt": "It could be ___ that standardised testing fails to measure creativity.",
+            "options": [
+              "argue",
+              "arguing",
+              "argued",
+              "argument"
+            ],
+            "answer": 2,
+            "explanationVi": "It could be argued that... là cấu trúc bị động rào đón, cần quá khứ phân từ argued."
+          },
+          {
+            "type": "mcq",
+            "prompt": "Choose the hedged and grammatically correct version of “Remote work increases productivity.”",
+            "options": [
+              "Remote work always increases productivity.",
+              "Remote work is appearing increase productivity in certain sectors.",
+              "Remote work tends increasing productivity in certain sectors.",
+              "Remote work appears to increase productivity in certain sectors."
+            ],
+            "answer": 3,
+            "explanationVi": "Appear to + V và in certain sectors làm nhận định thận trọng hơn; các câu khác khẳng định tuyệt đối hoặc sai cấu trúc."
+          }
+        ]
+      }
+    }
+  ]
+}

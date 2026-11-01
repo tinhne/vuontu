@@ -1,0 +1,2670 @@
+{
+  "topics": [
+    {
+      "id": "education",
+      "nameVi": "Giáo dục",
+      "nameEn": "Education",
+      "icon": "🎓",
+      "descriptionVi": "Từ vựng về trường học, việc học và hệ thống giáo dục.",
+      "words": [
+        {
+          "id": "education-student",
+          "word": "student",
+          "ipa": "/ˈstjuːdnt/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "học sinh, sinh viên",
+          "example": "Every student in our class has a new English book.",
+          "exampleVi": "Mỗi học sinh trong lớp chúng tôi đều có một cuốn sách tiếng Anh mới.",
+          "collocations": [
+            "university student",
+            "international student",
+            "good student"
+          ],
+          "synonyms": [
+            "learner",
+            "pupil"
+          ]
+        },
+        {
+          "id": "education-teacher",
+          "word": "teacher",
+          "ipa": "/ˈtiːtʃə/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "giáo viên",
+          "example": "My favourite teacher always made her lessons fun and easy to follow.",
+          "exampleVi": "Cô giáo tôi yêu thích nhất luôn làm cho bài học của mình vui và dễ hiểu.",
+          "collocations": [
+            "English teacher",
+            "qualified teacher",
+            "head teacher"
+          ],
+          "synonyms": [
+            "educator",
+            "tutor"
+          ]
+        },
+        {
+          "id": "education-exam",
+          "word": "exam",
+          "ipa": "/ɪɡˈzæm/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "kỳ thi, bài thi",
+          "example": "I have to study hard because my final exam is next week.",
+          "exampleVi": "Tôi phải học chăm chỉ vì kỳ thi cuối kỳ của tôi diễn ra vào tuần sau.",
+          "collocations": [
+            "pass an exam",
+            "fail an exam",
+            "take an exam"
+          ],
+          "synonyms": [
+            "test",
+            "examination"
+          ]
+        },
+        {
+          "id": "education-homework",
+          "word": "homework",
+          "ipa": "/ˈhəʊmwɜːk/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "bài tập về nhà",
+          "example": "Many children spend two hours on their homework every evening.",
+          "exampleVi": "Nhiều trẻ em dành hai tiếng làm bài tập về nhà mỗi buổi tối.",
+          "collocations": [
+            "do homework",
+            "set homework",
+            "hand in homework"
+          ],
+          "synonyms": [
+            "assignment"
+          ]
+        },
+        {
+          "id": "education-university",
+          "word": "university",
+          "ipa": "/ˌjuːnɪˈvɜːsəti/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "trường đại học",
+          "example": "She wants to go to university to study medicine after high school.",
+          "exampleVi": "Cô ấy muốn vào đại học để học ngành y sau khi học xong cấp ba.",
+          "collocations": [
+            "go to university",
+            "university degree",
+            "university entrance exam"
+          ],
+          "synonyms": [
+            "college"
+          ]
+        },
+        {
+          "id": "education-classmate",
+          "word": "classmate",
+          "ipa": "/ˈklɑːsmeɪt/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "bạn cùng lớp",
+          "example": "I still keep in touch with some of my old classmates.",
+          "exampleVi": "Tôi vẫn giữ liên lạc với một vài người bạn cùng lớp cũ.",
+          "collocations": [
+            "former classmate",
+            "help a classmate"
+          ],
+          "synonyms": [
+            "schoolmate"
+          ]
+        },
+        {
+          "id": "education-degree",
+          "word": "degree",
+          "ipa": "/dɪˈɡriː/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "bằng đại học, học vị",
+          "example": "Having a university degree no longer guarantees a well-paid job.",
+          "exampleVi": "Có bằng đại học không còn đảm bảo một công việc lương cao nữa.",
+          "collocations": [
+            "bachelor's degree",
+            "master's degree",
+            "do a degree"
+          ],
+          "synonyms": [
+            "diploma"
+          ]
+        },
+        {
+          "id": "education-knowledge",
+          "word": "knowledge",
+          "ipa": "/ˈnɒlɪdʒ/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "kiến thức, sự hiểu biết",
+          "example": "Reading widely is one of the best ways to broaden your general knowledge.",
+          "exampleVi": "Đọc nhiều là một trong những cách tốt nhất để mở rộng kiến thức chung của bạn.",
+          "collocations": [
+            "general knowledge",
+            "gain knowledge",
+            "practical knowledge"
+          ],
+          "synonyms": [
+            "understanding",
+            "expertise"
+          ]
+        },
+        {
+          "id": "education-graduate",
+          "word": "graduate",
+          "ipa": "/ˈɡrædʒueɪt/",
+          "pos": "verb",
+          "cefr": "B1",
+          "meaningVi": "tốt nghiệp",
+          "example": "After graduating from university, many young people struggle to find suitable work.",
+          "exampleVi": "Sau khi tốt nghiệp đại học, nhiều người trẻ gặp khó khăn trong việc tìm công việc phù hợp.",
+          "collocations": [
+            "graduate from university",
+            "graduate with honours",
+            "recently graduated"
+          ],
+          "synonyms": [
+            "complete a degree"
+          ]
+        },
+        {
+          "id": "education-qualification",
+          "word": "qualification",
+          "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "văn bằng, trình độ chuyên môn",
+          "example": "Employers often value practical experience as much as formal qualifications.",
+          "exampleVi": "Nhà tuyển dụng thường coi trọng kinh nghiệm thực tế ngang với bằng cấp chính thức.",
+          "collocations": [
+            "formal qualifications",
+            "academic qualifications",
+            "gain a qualification"
+          ],
+          "synonyms": [
+            "credential"
+          ]
+        },
+        {
+          "id": "education-attend",
+          "word": "attend",
+          "ipa": "/əˈtend/",
+          "pos": "verb",
+          "cefr": "B1",
+          "meaningVi": "theo học, tham dự",
+          "example": "Children in this area attend school for at least nine years.",
+          "exampleVi": "Trẻ em ở khu vực này đi học ít nhất chín năm.",
+          "collocations": [
+            "attend school",
+            "attend classes",
+            "attend a lecture"
+          ],
+          "synonyms": [
+            "go to"
+          ]
+        },
+        {
+          "id": "education-certificate",
+          "word": "certificate",
+          "ipa": "/səˈtɪfɪkət/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "giấy chứng nhận, chứng chỉ",
+          "example": "Students receive a certificate when they complete the short online course.",
+          "exampleVi": "Học viên nhận được chứng chỉ khi hoàn thành khóa học trực tuyến ngắn hạn.",
+          "collocations": [
+            "receive a certificate",
+            "language certificate",
+            "award a certificate"
+          ],
+          "synonyms": [
+            "diploma"
+          ]
+        },
+        {
+          "id": "education-curriculum",
+          "word": "curriculum",
+          "ipa": "/kəˈrɪkjələm/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "chương trình giảng dạy",
+          "example": "Many experts believe the national curriculum should place more emphasis on practical skills.",
+          "exampleVi": "Nhiều chuyên gia cho rằng chương trình giảng dạy quốc gia nên chú trọng hơn vào các kỹ năng thực tế.",
+          "collocations": [
+            "national curriculum",
+            "design a curriculum",
+            "school curriculum"
+          ],
+          "synonyms": [
+            "syllabus"
+          ]
+        },
+        {
+          "id": "education-scholarship",
+          "word": "scholarship",
+          "ipa": "/ˈskɒləʃɪp/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "học bổng",
+          "example": "He won a full scholarship to study engineering at a university abroad.",
+          "exampleVi": "Anh ấy giành được học bổng toàn phần để học ngành kỹ thuật tại một trường đại học ở nước ngoài.",
+          "collocations": [
+            "win a scholarship",
+            "full scholarship",
+            "apply for a scholarship"
+          ],
+          "synonyms": [
+            "grant",
+            "bursary"
+          ]
+        },
+        {
+          "id": "education-academic",
+          "word": "academic",
+          "ipa": "/ˌækəˈdemɪk/",
+          "pos": "adjective",
+          "cefr": "B2",
+          "meaningVi": "(thuộc) học thuật, học tập",
+          "example": "Academic success is not the only measure of a child's intelligence.",
+          "exampleVi": "Thành tích học tập không phải là thước đo duy nhất cho trí thông minh của một đứa trẻ.",
+          "collocations": [
+            "academic performance",
+            "academic year",
+            "academic achievement"
+          ],
+          "synonyms": [
+            "scholarly",
+            "educational"
+          ]
+        },
+        {
+          "id": "education-compulsory",
+          "word": "compulsory",
+          "ipa": "/kəmˈpʌlsəri/",
+          "pos": "adjective",
+          "cefr": "B2",
+          "meaningVi": "bắt buộc",
+          "example": "In many countries, education is compulsory until the age of sixteen.",
+          "exampleVi": "Ở nhiều quốc gia, giáo dục là bắt buộc cho đến năm mười sáu tuổi.",
+          "collocations": [
+            "compulsory education",
+            "compulsory subject",
+            "make something compulsory"
+          ],
+          "synonyms": [
+            "mandatory",
+            "obligatory"
+          ]
+        },
+        {
+          "id": "education-lecturer",
+          "word": "lecturer",
+          "ipa": "/ˈlektʃərə/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "giảng viên (đại học)",
+          "example": "The lecturer encouraged students to question ideas rather than simply memorise them.",
+          "exampleVi": "Giảng viên khuyến khích sinh viên đặt câu hỏi về các ý tưởng thay vì chỉ ghi nhớ chúng.",
+          "collocations": [
+            "university lecturer",
+            "senior lecturer",
+            "guest lecturer"
+          ],
+          "synonyms": [
+            "professor",
+            "tutor"
+          ]
+        },
+        {
+          "id": "education-assessment",
+          "word": "assessment",
+          "ipa": "/əˈsesmənt/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "sự đánh giá, kiểm tra năng lực",
+          "example": "Continuous assessment may be fairer than relying on a single final exam.",
+          "exampleVi": "Đánh giá thường xuyên có thể công bằng hơn so với việc chỉ dựa vào một kỳ thi cuối cùng.",
+          "collocations": [
+            "continuous assessment",
+            "formal assessment",
+            "carry out an assessment"
+          ],
+          "synonyms": [
+            "evaluation",
+            "appraisal"
+          ]
+        },
+        {
+          "id": "education-literacy",
+          "word": "literacy",
+          "ipa": "/ˈlɪtərəsi/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "khả năng đọc viết",
+          "example": "Improving adult literacy can open up better job opportunities in rural areas.",
+          "exampleVi": "Nâng cao khả năng đọc viết của người lớn có thể mở ra cơ hội việc làm tốt hơn ở vùng nông thôn.",
+          "collocations": [
+            "literacy rate",
+            "adult literacy",
+            "digital literacy"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "education-vocational",
+          "word": "vocational",
+          "ipa": "/vəʊˈkeɪʃənl/",
+          "pos": "adjective",
+          "cefr": "C1",
+          "meaningVi": "(thuộc) dạy nghề, hướng nghiệp",
+          "example": "Vocational training gives young people practical skills that employers actually need.",
+          "exampleVi": "Đào tạo nghề trang bị cho người trẻ những kỹ năng thực tế mà nhà tuyển dụng thực sự cần.",
+          "collocations": [
+            "vocational training",
+            "vocational school",
+            "vocational course"
+          ],
+          "synonyms": [
+            "occupational"
+          ]
+        },
+        {
+          "id": "education-extracurricular",
+          "word": "extracurricular",
+          "ipa": "/ˌekstrəkəˈrɪkjələ/",
+          "pos": "adjective",
+          "cefr": "C1",
+          "meaningVi": "ngoại khóa",
+          "example": "Extracurricular activities such as sports and music help students develop teamwork.",
+          "exampleVi": "Các hoạt động ngoại khóa như thể thao và âm nhạc giúp học sinh phát triển kỹ năng làm việc nhóm.",
+          "collocations": [
+            "extracurricular activities",
+            "extracurricular clubs"
+          ],
+          "synonyms": [
+            "after-school"
+          ]
+        },
+        {
+          "id": "education-plagiarism",
+          "word": "plagiarism",
+          "ipa": "/ˈpleɪdʒərɪzəm/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "sự đạo văn",
+          "example": "Universities now use software to detect plagiarism in students' essays.",
+          "exampleVi": "Các trường đại học hiện nay dùng phần mềm để phát hiện đạo văn trong bài luận của sinh viên.",
+          "collocations": [
+            "accused of plagiarism",
+            "detect plagiarism",
+            "academic plagiarism"
+          ],
+          "synonyms": [
+            "copying"
+          ]
+        },
+        {
+          "id": "education-pedagogy",
+          "word": "pedagogy",
+          "ipa": "/ˈpedəɡɒdʒi/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "phương pháp sư phạm, giáo học pháp",
+          "example": "Modern pedagogy focuses on active learning rather than passive listening.",
+          "exampleVi": "Phương pháp sư phạm hiện đại tập trung vào việc học chủ động thay vì nghe một cách thụ động.",
+          "collocations": [
+            "modern pedagogy",
+            "effective pedagogy"
+          ],
+          "synonyms": [
+            "teaching methods"
+          ]
+        },
+        {
+          "id": "education-rote-learning",
+          "word": "rote learning",
+          "ipa": "/ˌrəʊt ˈlɜːnɪŋ/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "lối học vẹt, học thuộc lòng máy móc",
+          "example": "Critics argue that rote learning discourages creativity and independent thinking.",
+          "exampleVi": "Những người phản đối cho rằng lối học vẹt cản trở sự sáng tạo và tư duy độc lập.",
+          "collocations": [
+            "rely on rote learning",
+            "rote learning methods"
+          ],
+          "synonyms": [
+            "memorisation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "nameVi": "Môi trường",
+      "nameEn": "Environment",
+      "icon": "🌿",
+      "descriptionVi": "Từ vựng về thiên nhiên, ô nhiễm và bảo vệ môi trường.",
+      "words": [
+        {
+          "id": "environment-tree",
+          "word": "tree",
+          "ipa": "/triː/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "cây, cây xanh",
+          "example": "We planted a small tree in the school garden last spring.",
+          "exampleVi": "Chúng tôi đã trồng một cái cây nhỏ trong vườn trường vào mùa xuân năm ngoái.",
+          "collocations": [
+            "plant a tree",
+            "cut down a tree",
+            "tall tree"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "environment-animal",
+          "word": "animal",
+          "ipa": "/ˈænɪml/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "động vật, con vật",
+          "example": "Many wild animals are losing their homes because of farming.",
+          "exampleVi": "Nhiều loài động vật hoang dã đang mất nơi sống vì hoạt động canh tác.",
+          "collocations": [
+            "wild animal",
+            "farm animal",
+            "animal welfare"
+          ],
+          "synonyms": [
+            "creature"
+          ]
+        },
+        {
+          "id": "environment-rubbish",
+          "word": "rubbish",
+          "ipa": "/ˈrʌbɪʃ/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "rác",
+          "example": "Please put your rubbish in the bin after the picnic.",
+          "exampleVi": "Vui lòng bỏ rác vào thùng sau buổi dã ngoại.",
+          "collocations": [
+            "throw away rubbish",
+            "rubbish bin",
+            "household rubbish"
+          ],
+          "synonyms": [
+            "garbage",
+            "trash"
+          ]
+        },
+        {
+          "id": "environment-plastic",
+          "word": "plastic",
+          "ipa": "/ˈplæstɪk/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "nhựa, chất dẻo",
+          "example": "A lot of plastic ends up in the ocean every year.",
+          "exampleVi": "Mỗi năm có rất nhiều rác nhựa trôi ra đại dương.",
+          "collocations": [
+            "plastic bag",
+            "single-use plastic",
+            "plastic waste"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "environment-forest",
+          "word": "forest",
+          "ipa": "/ˈfɒrɪst/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "rừng",
+          "example": "Forests provide oxygen and a home for thousands of plants and animals.",
+          "exampleVi": "Rừng cung cấp oxy và là nơi sinh sống của hàng nghìn loài thực vật và động vật.",
+          "collocations": [
+            "tropical forest",
+            "rain forest",
+            "protect forests"
+          ],
+          "synonyms": [
+            "woodland",
+            "jungle"
+          ]
+        },
+        {
+          "id": "environment-temperature",
+          "word": "temperature",
+          "ipa": "/ˈtemprətʃə/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "nhiệt độ",
+          "example": "Summer temperatures in my city are getting higher every year.",
+          "exampleVi": "Nhiệt độ mùa hè ở thành phố của tôi ngày càng cao hơn mỗi năm.",
+          "collocations": [
+            "high temperature",
+            "average temperature",
+            "temperatures rise"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "environment-pollution",
+          "word": "pollution",
+          "ipa": "/pəˈluːʃn/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "sự ô nhiễm",
+          "example": "Air pollution from traffic is a serious problem in many large cities.",
+          "exampleVi": "Ô nhiễm không khí do giao thông là một vấn đề nghiêm trọng ở nhiều thành phố lớn.",
+          "collocations": [
+            "air pollution",
+            "water pollution",
+            "reduce pollution"
+          ],
+          "synonyms": [
+            "contamination"
+          ]
+        },
+        {
+          "id": "environment-recycle",
+          "word": "recycle",
+          "ipa": "/ˌriːˈsaɪkl/",
+          "pos": "verb",
+          "cefr": "B1",
+          "meaningVi": "tái chế",
+          "example": "If more households recycled their paper and glass, landfill sites would fill up more slowly.",
+          "exampleVi": "Nếu nhiều hộ gia đình tái chế giấy và thủy tinh hơn, các bãi chôn lấp sẽ đầy chậm hơn.",
+          "collocations": [
+            "recycle waste",
+            "recycle bottles",
+            "recycled paper"
+          ],
+          "synonyms": [
+            "reuse",
+            "reprocess"
+          ]
+        },
+        {
+          "id": "environment-waste",
+          "word": "waste",
+          "ipa": "/weɪst/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "chất thải, rác thải",
+          "example": "Supermarkets produce a huge amount of food waste every single day.",
+          "exampleVi": "Các siêu thị thải ra một lượng rác thải thực phẩm khổng lồ mỗi ngày.",
+          "collocations": [
+            "food waste",
+            "toxic waste",
+            "reduce waste"
+          ],
+          "synonyms": [
+            "refuse"
+          ]
+        },
+        {
+          "id": "environment-global-warming",
+          "word": "global warming",
+          "ipa": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "sự nóng lên toàn cầu",
+          "example": "Global warming is causing sea levels to rise and ice caps to melt.",
+          "exampleVi": "Sự nóng lên toàn cầu đang khiến mực nước biển dâng cao và các chỏm băng tan chảy.",
+          "collocations": [
+            "tackle global warming",
+            "effects of global warming",
+            "contribute to global warming"
+          ],
+          "synonyms": [
+            "climate change"
+          ]
+        },
+        {
+          "id": "environment-wildlife",
+          "word": "wildlife",
+          "ipa": "/ˈwaɪldlaɪf/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "động vật hoang dã, đời sống hoang dã",
+          "example": "The national park was created to protect local wildlife from hunters.",
+          "exampleVi": "Vườn quốc gia được thành lập để bảo vệ động vật hoang dã địa phương khỏi những kẻ săn bắt.",
+          "collocations": [
+            "protect wildlife",
+            "wildlife habitat",
+            "local wildlife"
+          ],
+          "synonyms": [
+            "fauna"
+          ]
+        },
+        {
+          "id": "environment-flood",
+          "word": "flood",
+          "ipa": "/flʌd/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "lũ lụt, trận lụt",
+          "example": "Heavy rain last month caused serious floods in the central provinces.",
+          "exampleVi": "Mưa lớn tháng trước đã gây ra lũ lụt nghiêm trọng ở các tỉnh miền Trung.",
+          "collocations": [
+            "flash flood",
+            "flood defences",
+            "be hit by floods"
+          ],
+          "synonyms": [
+            "deluge"
+          ]
+        },
+        {
+          "id": "environment-species",
+          "word": "species",
+          "ipa": "/ˈspiːʃiːz/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "loài (sinh vật)",
+          "example": "Thousands of species could disappear if their natural homes are destroyed.",
+          "exampleVi": "Hàng nghìn loài có thể biến mất nếu môi trường sống tự nhiên của chúng bị phá hủy.",
+          "collocations": [
+            "endangered species",
+            "rare species",
+            "plant species"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "environment-endangered",
+          "word": "endangered",
+          "ipa": "/ɪnˈdeɪndʒəd/",
+          "pos": "adjective",
+          "cefr": "B2",
+          "meaningVi": "có nguy cơ tuyệt chủng",
+          "example": "The government has banned the hunting of endangered animals such as tigers and elephants.",
+          "exampleVi": "Chính phủ đã cấm săn bắt các loài động vật có nguy cơ tuyệt chủng như hổ và voi.",
+          "collocations": [
+            "endangered species",
+            "critically endangered",
+            "endangered animals"
+          ],
+          "synonyms": [
+            "threatened",
+            "at risk"
+          ]
+        },
+        {
+          "id": "environment-drought",
+          "word": "drought",
+          "ipa": "/draʊt/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "hạn hán",
+          "example": "The long drought destroyed crops and left many farmers without income.",
+          "exampleVi": "Đợt hạn hán kéo dài đã phá hủy mùa màng và khiến nhiều nông dân mất thu nhập.",
+          "collocations": [
+            "severe drought",
+            "prolonged drought",
+            "suffer from drought"
+          ],
+          "synonyms": [
+            "dry spell"
+          ]
+        },
+        {
+          "id": "environment-fossil-fuel",
+          "word": "fossil fuel",
+          "ipa": "/ˌfɒsl ˈfjuːəl/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "nhiên liệu hóa thạch",
+          "example": "Burning fossil fuels such as coal and oil releases large amounts of carbon dioxide.",
+          "exampleVi": "Việc đốt nhiên liệu hóa thạch như than đá và dầu mỏ thải ra một lượng lớn khí CO2.",
+          "collocations": [
+            "burn fossil fuels",
+            "dependence on fossil fuels",
+            "fossil fuel consumption"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "environment-renewable",
+          "word": "renewable",
+          "ipa": "/rɪˈnjuːəbl/",
+          "pos": "adjective",
+          "cefr": "B2",
+          "meaningVi": "có thể tái tạo",
+          "example": "Governments should invest more in renewable energy like solar and wind power.",
+          "exampleVi": "Các chính phủ nên đầu tư nhiều hơn vào năng lượng tái tạo như điện mặt trời và điện gió.",
+          "collocations": [
+            "renewable energy",
+            "renewable resources",
+            "renewable sources"
+          ],
+          "synonyms": [
+            "green",
+            "clean"
+          ]
+        },
+        {
+          "id": "environment-emission",
+          "word": "emission",
+          "ipa": "/iˈmɪʃn/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "khí thải, sự phát thải",
+          "example": "Stricter laws are needed to cut carbon emissions from factories and vehicles.",
+          "exampleVi": "Cần có luật lệ nghiêm ngặt hơn để cắt giảm khí thải carbon từ nhà máy và phương tiện giao thông.",
+          "collocations": [
+            "carbon emissions",
+            "reduce emissions",
+            "greenhouse gas emissions"
+          ],
+          "synonyms": [
+            "discharge",
+            "release"
+          ]
+        },
+        {
+          "id": "environment-sustainable",
+          "word": "sustainable",
+          "ipa": "/səˈsteɪnəbl/",
+          "pos": "adjective",
+          "cefr": "C1",
+          "meaningVi": "bền vững",
+          "example": "We need a more sustainable way of producing food without damaging the land.",
+          "exampleVi": "Chúng ta cần một cách sản xuất lương thực bền vững hơn mà không làm hại đất đai.",
+          "collocations": [
+            "sustainable development",
+            "sustainable lifestyle",
+            "environmentally sustainable"
+          ],
+          "synonyms": [
+            "eco-friendly",
+            "green"
+          ]
+        },
+        {
+          "id": "environment-deforestation",
+          "word": "deforestation",
+          "ipa": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "nạn phá rừng",
+          "example": "Deforestation in the Amazon is driven largely by cattle farming and logging.",
+          "exampleVi": "Nạn phá rừng ở Amazon chủ yếu do chăn nuôi gia súc và khai thác gỗ gây ra.",
+          "collocations": [
+            "prevent deforestation",
+            "large-scale deforestation",
+            "rate of deforestation"
+          ],
+          "synonyms": [
+            "forest clearance"
+          ]
+        },
+        {
+          "id": "environment-ecosystem",
+          "word": "ecosystem",
+          "ipa": "/ˈiːkəʊsɪstəm/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "hệ sinh thái",
+          "example": "Introducing a new species can upset the balance of the whole ecosystem.",
+          "exampleVi": "Việc đưa một loài mới vào có thể làm đảo lộn sự cân bằng của cả hệ sinh thái.",
+          "collocations": [
+            "fragile ecosystem",
+            "marine ecosystem",
+            "damage an ecosystem"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "environment-conservation",
+          "word": "conservation",
+          "ipa": "/ˌkɒnsəˈveɪʃn/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "sự bảo tồn",
+          "example": "Local communities play a key role in the conservation of coral reefs.",
+          "exampleVi": "Cộng đồng địa phương đóng vai trò then chốt trong việc bảo tồn các rạn san hô.",
+          "collocations": [
+            "wildlife conservation",
+            "energy conservation",
+            "conservation efforts"
+          ],
+          "synonyms": [
+            "preservation",
+            "protection"
+          ]
+        },
+        {
+          "id": "environment-biodiversity",
+          "word": "biodiversity",
+          "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "đa dạng sinh học",
+          "example": "Protecting biodiversity is essential because every species plays a part in nature.",
+          "exampleVi": "Bảo vệ đa dạng sinh học là điều thiết yếu vì mỗi loài đều có vai trò trong tự nhiên.",
+          "collocations": [
+            "loss of biodiversity",
+            "rich biodiversity",
+            "protect biodiversity"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "environment-depletion",
+          "word": "depletion",
+          "ipa": "/dɪˈpliːʃn/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "sự cạn kiệt, suy giảm",
+          "example": "The rapid depletion of natural resources threatens the needs of future generations.",
+          "exampleVi": "Sự cạn kiệt nhanh chóng của tài nguyên thiên nhiên đe dọa nhu cầu của các thế hệ tương lai.",
+          "collocations": [
+            "ozone depletion",
+            "resource depletion",
+            "rapid depletion"
+          ],
+          "synonyms": [
+            "exhaustion",
+            "reduction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "nameVi": "Công nghệ",
+      "nameEn": "Technology",
+      "icon": "💻",
+      "descriptionVi": "Từ vựng về máy tính, internet và tác động của công nghệ tới cuộc sống.",
+      "words": [
+        {
+          "id": "technology-computer",
+          "word": "computer",
+          "ipa": "/kəmˈpjuːtə/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "máy tính",
+          "example": "I use my computer every day for school and work.",
+          "exampleVi": "Tôi dùng máy tính mỗi ngày cho việc học và công việc.",
+          "collocations": [
+            "use a computer",
+            "computer game",
+            "computer skills"
+          ],
+          "synonyms": [
+            "PC"
+          ]
+        },
+        {
+          "id": "technology-internet",
+          "word": "internet",
+          "ipa": "/ˈɪntənet/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "mạng internet",
+          "example": "My grandparents learned to use the internet to talk to us.",
+          "exampleVi": "Ông bà tôi đã học cách dùng internet để trò chuyện với chúng tôi.",
+          "collocations": [
+            "on the internet",
+            "internet access",
+            "surf the internet"
+          ],
+          "synonyms": [
+            "the web"
+          ]
+        },
+        {
+          "id": "technology-password",
+          "word": "password",
+          "ipa": "/ˈpɑːswɜːd/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "mật khẩu",
+          "example": "You should never share your password with anyone, even your friends.",
+          "exampleVi": "Bạn không bao giờ nên chia sẻ mật khẩu với bất kỳ ai, kể cả bạn bè.",
+          "collocations": [
+            "strong password",
+            "enter a password",
+            "change your password"
+          ],
+          "synonyms": [
+            "passcode"
+          ]
+        },
+        {
+          "id": "technology-download",
+          "word": "download",
+          "ipa": "/ˌdaʊnˈləʊd/",
+          "pos": "verb",
+          "cefr": "A2",
+          "meaningVi": "tải xuống",
+          "example": "You can download the app for free from the official store.",
+          "exampleVi": "Bạn có thể tải ứng dụng miễn phí từ cửa hàng chính thức.",
+          "collocations": [
+            "download a file",
+            "download an app",
+            "free to download"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "technology-online",
+          "word": "online",
+          "ipa": "/ˌɒnˈlaɪn/",
+          "pos": "adverb",
+          "cefr": "A2",
+          "meaningVi": "trực tuyến, qua mạng",
+          "example": "Many students now take English classes online from home.",
+          "exampleVi": "Nhiều học sinh hiện nay học tiếng Anh trực tuyến tại nhà.",
+          "collocations": [
+            "go online",
+            "study online",
+            "available online"
+          ],
+          "synonyms": [
+            "on the internet"
+          ]
+        },
+        {
+          "id": "technology-screen",
+          "word": "screen",
+          "ipa": "/skriːn/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "màn hình",
+          "example": "Children today spend too many hours looking at a screen.",
+          "exampleVi": "Trẻ em ngày nay dành quá nhiều giờ nhìn vào màn hình.",
+          "collocations": [
+            "screen time",
+            "touch screen",
+            "computer screen"
+          ],
+          "synonyms": [
+            "display",
+            "monitor"
+          ]
+        },
+        {
+          "id": "technology-software",
+          "word": "software",
+          "ipa": "/ˈsɒftweə/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "phần mềm",
+          "example": "Teachers now use special software to track each student's progress.",
+          "exampleVi": "Giáo viên hiện nay sử dụng phần mềm chuyên dụng để theo dõi sự tiến bộ của từng học sinh.",
+          "collocations": [
+            "install software",
+            "software developer",
+            "free software"
+          ],
+          "synonyms": [
+            "program",
+            "application"
+          ]
+        },
+        {
+          "id": "technology-digital",
+          "word": "digital",
+          "ipa": "/ˈdɪdʒɪtl/",
+          "pos": "adjective",
+          "cefr": "B1",
+          "meaningVi": "kỹ thuật số",
+          "example": "Digital technology has completely changed the way we communicate with each other.",
+          "exampleVi": "Công nghệ kỹ thuật số đã thay đổi hoàn toàn cách chúng ta giao tiếp với nhau.",
+          "collocations": [
+            "digital technology",
+            "digital skills",
+            "digital age"
+          ],
+          "synonyms": [
+            "electronic"
+          ]
+        },
+        {
+          "id": "technology-install",
+          "word": "install",
+          "ipa": "/ɪnˈstɔːl/",
+          "pos": "verb",
+          "cefr": "B1",
+          "meaningVi": "cài đặt",
+          "example": "It only takes a few minutes to install the latest version of the program.",
+          "exampleVi": "Chỉ mất vài phút để cài đặt phiên bản mới nhất của chương trình.",
+          "collocations": [
+            "install software",
+            "install an app",
+            "easy to install"
+          ],
+          "synonyms": [
+            "set up"
+          ]
+        },
+        {
+          "id": "technology-upload",
+          "word": "upload",
+          "ipa": "/ˌʌpˈləʊd/",
+          "pos": "verb",
+          "cefr": "B1",
+          "meaningVi": "tải lên",
+          "example": "Millions of videos are uploaded to the internet every single day.",
+          "exampleVi": "Hàng triệu video được tải lên internet mỗi ngày.",
+          "collocations": [
+            "upload a photo",
+            "upload a file",
+            "upload videos"
+          ],
+          "synonyms": [
+            "post"
+          ]
+        },
+        {
+          "id": "technology-user",
+          "word": "user",
+          "ipa": "/ˈjuːzə/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "người dùng",
+          "example": "The new app is popular because it is simple for older users.",
+          "exampleVi": "Ứng dụng mới được ưa chuộng vì nó dễ dùng với người dùng lớn tuổi.",
+          "collocations": [
+            "internet user",
+            "smartphone users",
+            "user account"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "technology-update",
+          "word": "update",
+          "ipa": "/ˌʌpˈdeɪt/",
+          "pos": "verb",
+          "cefr": "B1",
+          "meaningVi": "cập nhật",
+          "example": "You should update your phone regularly to protect it from security risks.",
+          "exampleVi": "Bạn nên cập nhật điện thoại thường xuyên để bảo vệ nó khỏi các rủi ro bảo mật.",
+          "collocations": [
+            "update software",
+            "regularly updated",
+            "update an app"
+          ],
+          "synonyms": [
+            "upgrade",
+            "refresh"
+          ]
+        },
+        {
+          "id": "technology-device",
+          "word": "device",
+          "ipa": "/dɪˈvaɪs/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "thiết bị",
+          "example": "Most teenagers own at least one mobile device, such as a phone or tablet.",
+          "exampleVi": "Hầu hết thanh thiếu niên đều sở hữu ít nhất một thiết bị di động, như điện thoại hoặc máy tính bảng.",
+          "collocations": [
+            "mobile device",
+            "electronic device",
+            "smart device"
+          ],
+          "synonyms": [
+            "gadget",
+            "instrument"
+          ]
+        },
+        {
+          "id": "technology-gadget",
+          "word": "gadget",
+          "ipa": "/ˈɡædʒɪt/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "đồ dùng công nghệ, thiết bị nhỏ",
+          "example": "Many people buy the latest gadgets even when their old ones still work perfectly.",
+          "exampleVi": "Nhiều người mua những thiết bị công nghệ mới nhất ngay cả khi đồ cũ vẫn còn dùng tốt.",
+          "collocations": [
+            "electronic gadget",
+            "latest gadgets",
+            "kitchen gadget"
+          ],
+          "synonyms": [
+            "device"
+          ]
+        },
+        {
+          "id": "technology-artificial-intelligence",
+          "word": "artificial intelligence",
+          "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "trí tuệ nhân tạo",
+          "example": "Artificial intelligence may replace some jobs, but it will also create new ones.",
+          "exampleVi": "Trí tuệ nhân tạo có thể thay thế một số công việc, nhưng nó cũng sẽ tạo ra những công việc mới.",
+          "collocations": [
+            "develop artificial intelligence",
+            "artificial intelligence tools",
+            "advances in artificial intelligence"
+          ],
+          "synonyms": [
+            "AI",
+            "machine intelligence"
+          ]
+        },
+        {
+          "id": "technology-privacy",
+          "word": "privacy",
+          "ipa": "/ˈprɪvəsi/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "quyền riêng tư, sự riêng tư",
+          "example": "Many people worry that smart devices in their homes could threaten their privacy.",
+          "exampleVi": "Nhiều người lo lắng rằng các thiết bị thông minh trong nhà có thể đe dọa quyền riêng tư của họ.",
+          "collocations": [
+            "invasion of privacy",
+            "protect privacy",
+            "online privacy"
+          ],
+          "synonyms": [
+            "confidentiality"
+          ]
+        },
+        {
+          "id": "technology-virtual",
+          "word": "virtual",
+          "ipa": "/ˈvɜːtʃuəl/",
+          "pos": "adjective",
+          "cefr": "B2",
+          "meaningVi": "ảo (mô phỏng bằng máy tính)",
+          "example": "Students can now take virtual tours of museums without leaving the classroom.",
+          "exampleVi": "Học sinh giờ đây có thể tham quan bảo tàng ảo mà không cần rời khỏi lớp học.",
+          "collocations": [
+            "virtual reality",
+            "virtual meeting",
+            "virtual classroom"
+          ],
+          "synonyms": [
+            "simulated"
+          ]
+        },
+        {
+          "id": "technology-hacker",
+          "word": "hacker",
+          "ipa": "/ˈhækə/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "tin tặc",
+          "example": "Hackers stole the personal details of millions of customers from the website.",
+          "exampleVi": "Tin tặc đã đánh cắp thông tin cá nhân của hàng triệu khách hàng từ trang web.",
+          "collocations": [
+            "computer hacker",
+            "hackers break into",
+            "protect against hackers"
+          ],
+          "synonyms": [
+            "cybercriminal"
+          ]
+        },
+        {
+          "id": "technology-automation",
+          "word": "automation",
+          "ipa": "/ˌɔːtəˈmeɪʃn/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "sự tự động hóa",
+          "example": "Automation in factories has increased productivity but reduced the need for manual workers.",
+          "exampleVi": "Tự động hóa trong các nhà máy đã nâng cao năng suất nhưng làm giảm nhu cầu về lao động chân tay.",
+          "collocations": [
+            "increased automation",
+            "factory automation",
+            "automation of jobs"
+          ],
+          "synonyms": [
+            "mechanisation",
+            "computerisation"
+          ]
+        },
+        {
+          "id": "technology-algorithm",
+          "word": "algorithm",
+          "ipa": "/ˈælɡərɪðəm/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "thuật toán",
+          "example": "Video platforms use algorithms to recommend content based on what you have watched.",
+          "exampleVi": "Các nền tảng video sử dụng thuật toán để gợi ý nội dung dựa trên những gì bạn đã xem.",
+          "collocations": [
+            "search algorithm",
+            "complex algorithm",
+            "develop an algorithm"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "technology-cutting-edge",
+          "word": "cutting-edge",
+          "ipa": "/ˌkʌtɪŋ ˈedʒ/",
+          "pos": "adjective",
+          "cefr": "C1",
+          "meaningVi": "tiên tiến nhất, hiện đại nhất",
+          "example": "The hospital has invested in cutting-edge equipment to diagnose diseases earlier.",
+          "exampleVi": "Bệnh viện đã đầu tư vào trang thiết bị tiên tiến nhất để chẩn đoán bệnh sớm hơn.",
+          "collocations": [
+            "cutting-edge technology",
+            "cutting-edge research",
+            "cutting-edge design"
+          ],
+          "synonyms": [
+            "state-of-the-art",
+            "advanced"
+          ]
+        },
+        {
+          "id": "technology-digital-divide",
+          "word": "digital divide",
+          "ipa": "/ˌdɪdʒɪtl dɪˈvaɪd/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "khoảng cách số (chênh lệch tiếp cận công nghệ)",
+          "example": "The digital divide means that poorer students often lack access to online learning.",
+          "exampleVi": "Khoảng cách số khiến học sinh nghèo thường không được tiếp cận với việc học trực tuyến.",
+          "collocations": [
+            "bridge the digital divide",
+            "widen the digital divide",
+            "close the digital divide"
+          ],
+          "synonyms": [
+            "technology gap"
+          ]
+        },
+        {
+          "id": "technology-obsolete",
+          "word": "obsolete",
+          "ipa": "/ˈɒbsəliːt/",
+          "pos": "adjective",
+          "cefr": "C2",
+          "meaningVi": "lỗi thời, không còn dùng được",
+          "example": "Rapid advances in technology mean that many devices become obsolete within a few years.",
+          "exampleVi": "Những tiến bộ nhanh chóng của công nghệ khiến nhiều thiết bị trở nên lỗi thời chỉ trong vài năm.",
+          "collocations": [
+            "become obsolete",
+            "render something obsolete",
+            "largely obsolete"
+          ],
+          "synonyms": [
+            "outdated",
+            "out of date"
+          ]
+        },
+        {
+          "id": "technology-encryption",
+          "word": "encryption",
+          "ipa": "/ɪnˈkrɪpʃn/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "sự mã hóa (dữ liệu)",
+          "example": "Strong encryption ensures that private messages cannot be read by third parties.",
+          "exampleVi": "Mã hóa mạnh đảm bảo rằng các tin nhắn riêng tư không thể bị bên thứ ba đọc được.",
+          "collocations": [
+            "data encryption",
+            "end-to-end encryption",
+            "strong encryption"
+          ],
+          "synonyms": [
+            "encoding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "nameVi": "Sức khỏe",
+      "nameEn": "Health",
+      "icon": "🩺",
+      "descriptionVi": "Từ vựng về bệnh tật, lối sống lành mạnh và chăm sóc sức khỏe.",
+      "words": [
+        {
+          "id": "health-doctor",
+          "word": "doctor",
+          "ipa": "/ˈdɒktə/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "bác sĩ",
+          "example": "You should see a doctor if your cough does not get better.",
+          "exampleVi": "Bạn nên đi khám bác sĩ nếu cơn ho không đỡ hơn.",
+          "collocations": [
+            "see a doctor",
+            "family doctor",
+            "go to the doctor"
+          ],
+          "synonyms": [
+            "physician",
+            "GP"
+          ]
+        },
+        {
+          "id": "health-healthy",
+          "word": "healthy",
+          "ipa": "/ˈhelθi/",
+          "pos": "adjective",
+          "cefr": "A1",
+          "meaningVi": "khỏe mạnh; tốt cho sức khỏe",
+          "example": "Eating fruit and vegetables every day helps you stay healthy.",
+          "exampleVi": "Ăn trái cây và rau mỗi ngày giúp bạn luôn khỏe mạnh.",
+          "collocations": [
+            "healthy food",
+            "stay healthy",
+            "healthy habits"
+          ],
+          "synonyms": [
+            "well",
+            "in good shape"
+          ]
+        },
+        {
+          "id": "health-medicine",
+          "word": "medicine",
+          "ipa": "/ˈmedsn/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "thuốc; y học",
+          "example": "Take this medicine three times a day after meals.",
+          "exampleVi": "Hãy uống thuốc này ba lần một ngày sau bữa ăn.",
+          "collocations": [
+            "take medicine",
+            "cough medicine",
+            "modern medicine"
+          ],
+          "synonyms": [
+            "medication",
+            "drug"
+          ]
+        },
+        {
+          "id": "health-exercise",
+          "word": "exercise",
+          "ipa": "/ˈeksəsaɪz/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "sự tập thể dục, vận động",
+          "example": "Regular exercise is good for both your body and your mind.",
+          "exampleVi": "Tập thể dục thường xuyên tốt cho cả cơ thể lẫn tinh thần của bạn.",
+          "collocations": [
+            "do exercise",
+            "regular exercise",
+            "physical exercise"
+          ],
+          "synonyms": [
+            "physical activity",
+            "workout"
+          ]
+        },
+        {
+          "id": "health-headache",
+          "word": "headache",
+          "ipa": "/ˈhedeɪk/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "chứng đau đầu",
+          "example": "Looking at a screen for too long often gives me a headache.",
+          "exampleVi": "Nhìn màn hình quá lâu thường khiến tôi bị đau đầu.",
+          "collocations": [
+            "have a headache",
+            "terrible headache",
+            "get a headache"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "health-fit",
+          "word": "fit",
+          "ipa": "/fɪt/",
+          "pos": "adjective",
+          "cefr": "A2",
+          "meaningVi": "khỏe mạnh, cân đối (nhờ tập luyện)",
+          "example": "My father swims every morning to keep fit.",
+          "exampleVi": "Bố tôi bơi mỗi sáng để giữ cơ thể khỏe mạnh.",
+          "collocations": [
+            "keep fit",
+            "stay fit",
+            "physically fit"
+          ],
+          "synonyms": [
+            "in shape",
+            "healthy"
+          ]
+        },
+        {
+          "id": "health-diet",
+          "word": "diet",
+          "ipa": "/ˈdaɪət/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "chế độ ăn uống",
+          "example": "A balanced diet should include plenty of vegetables, grains and protein.",
+          "exampleVi": "Một chế độ ăn cân bằng nên bao gồm nhiều rau, ngũ cốc và chất đạm.",
+          "collocations": [
+            "balanced diet",
+            "healthy diet",
+            "go on a diet"
+          ],
+          "synonyms": [
+            "eating habits"
+          ]
+        },
+        {
+          "id": "health-illness",
+          "word": "illness",
+          "ipa": "/ˈɪlnəs/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "bệnh, sự đau ốm",
+          "example": "He missed several weeks of work because of a serious illness.",
+          "exampleVi": "Anh ấy đã nghỉ làm vài tuần vì một căn bệnh nghiêm trọng.",
+          "collocations": [
+            "serious illness",
+            "mental illness",
+            "recover from an illness"
+          ],
+          "synonyms": [
+            "sickness",
+            "disease"
+          ]
+        },
+        {
+          "id": "health-injury",
+          "word": "injury",
+          "ipa": "/ˈɪndʒəri/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "chấn thương, vết thương",
+          "example": "Wearing a helmet greatly reduces the risk of head injury when cycling.",
+          "exampleVi": "Đội mũ bảo hiểm làm giảm đáng kể nguy cơ chấn thương đầu khi đạp xe.",
+          "collocations": [
+            "serious injury",
+            "sports injury",
+            "suffer an injury"
+          ],
+          "synonyms": [
+            "wound",
+            "harm"
+          ]
+        },
+        {
+          "id": "health-treatment",
+          "word": "treatment",
+          "ipa": "/ˈtriːtmənt/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "sự điều trị, cách chữa trị",
+          "example": "Patients in rural areas often have to travel far to receive proper treatment.",
+          "exampleVi": "Bệnh nhân ở vùng nông thôn thường phải đi xa để được điều trị đúng cách.",
+          "collocations": [
+            "medical treatment",
+            "receive treatment",
+            "effective treatment"
+          ],
+          "synonyms": [
+            "therapy",
+            "care"
+          ]
+        },
+        {
+          "id": "health-stress",
+          "word": "stress",
+          "ipa": "/stres/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "sự căng thẳng",
+          "example": "Long working hours and money worries are common causes of stress.",
+          "exampleVi": "Thời gian làm việc dài và nỗi lo tiền bạc là những nguyên nhân phổ biến gây căng thẳng.",
+          "collocations": [
+            "under stress",
+            "reduce stress",
+            "stress-related illness"
+          ],
+          "synonyms": [
+            "pressure",
+            "tension"
+          ]
+        },
+        {
+          "id": "health-lifestyle",
+          "word": "lifestyle",
+          "ipa": "/ˈlaɪfstaɪl/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "lối sống",
+          "example": "Changing your lifestyle, such as sleeping more and smoking less, can prevent many diseases.",
+          "exampleVi": "Thay đổi lối sống, chẳng hạn như ngủ nhiều hơn và hút thuốc ít hơn, có thể phòng ngừa nhiều bệnh.",
+          "collocations": [
+            "healthy lifestyle",
+            "active lifestyle",
+            "lifestyle choices"
+          ],
+          "synonyms": [
+            "way of life"
+          ]
+        },
+        {
+          "id": "health-symptom",
+          "word": "symptom",
+          "ipa": "/ˈsɪmptəm/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "triệu chứng",
+          "example": "Common symptoms of the flu include a high temperature and a sore throat.",
+          "exampleVi": "Các triệu chứng phổ biến của bệnh cúm bao gồm sốt cao và đau họng.",
+          "collocations": [
+            "common symptoms",
+            "early symptoms",
+            "show symptoms"
+          ],
+          "synonyms": [
+            "sign",
+            "indication"
+          ]
+        },
+        {
+          "id": "health-infection",
+          "word": "infection",
+          "ipa": "/ɪnˈfekʃn/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "sự nhiễm trùng, lây nhiễm",
+          "example": "Washing your hands regularly is one of the easiest ways to prevent infection.",
+          "exampleVi": "Rửa tay thường xuyên là một trong những cách dễ nhất để phòng ngừa nhiễm trùng.",
+          "collocations": [
+            "prevent infection",
+            "risk of infection",
+            "viral infection"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "health-prescription",
+          "word": "prescription",
+          "ipa": "/prɪˈskrɪpʃn/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "đơn thuốc",
+          "example": "In some countries, you cannot buy antibiotics without a doctor's prescription.",
+          "exampleVi": "Ở một số quốc gia, bạn không thể mua thuốc kháng sinh nếu không có đơn thuốc của bác sĩ.",
+          "collocations": [
+            "write a prescription",
+            "prescription drugs",
+            "on prescription"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "health-mental-health",
+          "word": "mental health",
+          "ipa": "/ˌmentl ˈhelθ/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "sức khỏe tinh thần",
+          "example": "Schools should do more to support the mental health of their students.",
+          "exampleVi": "Các trường học nên làm nhiều hơn để hỗ trợ sức khỏe tinh thần của học sinh.",
+          "collocations": [
+            "mental health problems",
+            "mental health services",
+            "improve mental health"
+          ],
+          "synonyms": [
+            "emotional health",
+            "psychological well-being"
+          ]
+        },
+        {
+          "id": "health-nutrition",
+          "word": "nutrition",
+          "ipa": "/njuˈtrɪʃn/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "dinh dưỡng, sự dinh dưỡng",
+          "example": "Good nutrition in early childhood has a lasting effect on a person's health.",
+          "exampleVi": "Dinh dưỡng tốt trong thời thơ ấu có ảnh hưởng lâu dài đến sức khỏe của một người.",
+          "collocations": [
+            "good nutrition",
+            "poor nutrition",
+            "nutrition label"
+          ],
+          "synonyms": [
+            "nourishment"
+          ]
+        },
+        {
+          "id": "health-vaccine",
+          "word": "vaccine",
+          "ipa": "/ˈvæksiːn/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "vắc-xin",
+          "example": "The new vaccine has helped to reduce the number of serious cases dramatically.",
+          "exampleVi": "Loại vắc-xin mới đã giúp giảm đáng kể số ca bệnh nặng.",
+          "collocations": [
+            "develop a vaccine",
+            "flu vaccine",
+            "receive a vaccine"
+          ],
+          "synonyms": [
+            "jab",
+            "immunisation"
+          ]
+        },
+        {
+          "id": "health-obesity",
+          "word": "obesity",
+          "ipa": "/əʊˈbiːsəti/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "bệnh béo phì",
+          "example": "Childhood obesity is rising because children eat more junk food and exercise less.",
+          "exampleVi": "Béo phì ở trẻ em đang gia tăng vì trẻ ăn nhiều đồ ăn vặt hơn và ít vận động hơn.",
+          "collocations": [
+            "childhood obesity",
+            "rising obesity rates",
+            "tackle obesity"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "health-chronic",
+          "word": "chronic",
+          "ipa": "/ˈkrɒnɪk/",
+          "pos": "adjective",
+          "cefr": "C1",
+          "meaningVi": "mãn tính, kinh niên",
+          "example": "Chronic diseases such as diabetes require long-term treatment and careful monitoring.",
+          "exampleVi": "Các bệnh mãn tính như tiểu đường đòi hỏi điều trị lâu dài và theo dõi cẩn thận.",
+          "collocations": [
+            "chronic disease",
+            "chronic pain",
+            "chronic illness"
+          ],
+          "synonyms": [
+            "long-term",
+            "persistent"
+          ]
+        },
+        {
+          "id": "health-sedentary",
+          "word": "sedentary",
+          "ipa": "/ˈsedntri/",
+          "pos": "adjective",
+          "cefr": "C1",
+          "meaningVi": "ít vận động, ngồi nhiều",
+          "example": "Office workers with sedentary jobs should take short breaks to walk around.",
+          "exampleVi": "Nhân viên văn phòng làm công việc ít vận động nên nghỉ giải lao ngắn để đi lại.",
+          "collocations": [
+            "sedentary lifestyle",
+            "sedentary job",
+            "sedentary behaviour"
+          ],
+          "synonyms": [
+            "inactive"
+          ]
+        },
+        {
+          "id": "health-well-being",
+          "word": "well-being",
+          "ipa": "/ˌwel ˈbiːɪŋ/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "sự khỏe mạnh và hạnh phúc",
+          "example": "Spending time in nature can have a positive effect on our overall well-being.",
+          "exampleVi": "Dành thời gian hòa mình với thiên nhiên có thể tác động tích cực đến sức khỏe tổng thể của chúng ta.",
+          "collocations": [
+            "physical well-being",
+            "emotional well-being",
+            "sense of well-being"
+          ],
+          "synonyms": [
+            "welfare",
+            "wellness"
+          ]
+        },
+        {
+          "id": "health-ailment",
+          "word": "ailment",
+          "ipa": "/ˈeɪlmənt/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "bệnh nhẹ, chứng bệnh vặt",
+          "example": "Many minor ailments, such as colds, can be treated at home without seeing a doctor.",
+          "exampleVi": "Nhiều bệnh vặt như cảm lạnh có thể tự điều trị tại nhà mà không cần đi khám bác sĩ.",
+          "collocations": [
+            "minor ailment",
+            "common ailment",
+            "chronic ailment"
+          ],
+          "synonyms": [
+            "complaint",
+            "disorder"
+          ]
+        },
+        {
+          "id": "health-holistic",
+          "word": "holistic",
+          "ipa": "/həʊˈlɪstɪk/",
+          "pos": "adjective",
+          "cefr": "C2",
+          "meaningVi": "toàn diện (xét con người như một tổng thể)",
+          "example": "A holistic approach to health considers diet, sleep and emotional well-being together.",
+          "exampleVi": "Cách tiếp cận toàn diện đối với sức khỏe xem xét chế độ ăn, giấc ngủ và đời sống cảm xúc cùng lúc.",
+          "collocations": [
+            "holistic approach",
+            "holistic view",
+            "holistic medicine"
+          ],
+          "synonyms": [
+            "comprehensive",
+            "integrated"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "nameVi": "Công việc & Sự nghiệp",
+      "nameEn": "Work & Careers",
+      "icon": "💼",
+      "descriptionVi": "Từ vựng về việc làm, môi trường công sở và phát triển sự nghiệp.",
+      "words": [
+        {
+          "id": "work-job",
+          "word": "job",
+          "ipa": "/dʒɒb/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "công việc, việc làm",
+          "example": "My sister has a new job at a hospital in the city.",
+          "exampleVi": "Chị gái tôi có công việc mới tại một bệnh viện trong thành phố.",
+          "collocations": [
+            "get a job",
+            "full-time job",
+            "lose your job"
+          ],
+          "synonyms": [
+            "occupation",
+            "position"
+          ]
+        },
+        {
+          "id": "work-office",
+          "word": "office",
+          "ipa": "/ˈɒfɪs/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "văn phòng",
+          "example": "I usually get to the office at eight o'clock in the morning.",
+          "exampleVi": "Tôi thường đến văn phòng lúc tám giờ sáng.",
+          "collocations": [
+            "office worker",
+            "go to the office",
+            "open-plan office"
+          ],
+          "synonyms": [
+            "workplace"
+          ]
+        },
+        {
+          "id": "work-boss",
+          "word": "boss",
+          "ipa": "/bɒs/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "sếp, ông chủ",
+          "example": "My boss lets me work from home on Fridays.",
+          "exampleVi": "Sếp cho phép tôi làm việc ở nhà vào các ngày thứ Sáu.",
+          "collocations": [
+            "good boss",
+            "ask your boss",
+            "former boss"
+          ],
+          "synonyms": [
+            "supervisor",
+            "employer"
+          ]
+        },
+        {
+          "id": "work-interview",
+          "word": "interview",
+          "ipa": "/ˈɪntəvjuː/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "buổi phỏng vấn",
+          "example": "I felt very nervous before my first job interview.",
+          "exampleVi": "Tôi cảm thấy rất lo lắng trước buổi phỏng vấn xin việc đầu tiên.",
+          "collocations": [
+            "job interview",
+            "attend an interview",
+            "prepare for an interview"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "work-manager",
+          "word": "manager",
+          "ipa": "/ˈmænɪdʒə/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "người quản lý",
+          "example": "The manager asked everyone to come to a short meeting at noon.",
+          "exampleVi": "Người quản lý yêu cầu mọi người đến dự một cuộc họp ngắn vào buổi trưa.",
+          "collocations": [
+            "store manager",
+            "project manager",
+            "general manager"
+          ],
+          "synonyms": [
+            "supervisor",
+            "head"
+          ]
+        },
+        {
+          "id": "work-salary",
+          "word": "salary",
+          "ipa": "/ˈsæləri/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "tiền lương (theo tháng/năm)",
+          "example": "Nurses in some countries earn a lower salary than they deserve.",
+          "exampleVi": "Ở một số quốc gia, y tá nhận mức lương thấp hơn so với những gì họ xứng đáng.",
+          "collocations": [
+            "high salary",
+            "earn a salary",
+            "starting salary"
+          ],
+          "synonyms": [
+            "pay",
+            "wage"
+          ]
+        },
+        {
+          "id": "work-colleague",
+          "word": "colleague",
+          "ipa": "/ˈkɒliːɡ/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "đồng nghiệp",
+          "example": "Getting along well with your colleagues makes the working day much more pleasant.",
+          "exampleVi": "Hòa hợp với đồng nghiệp khiến một ngày làm việc trở nên dễ chịu hơn nhiều.",
+          "collocations": [
+            "work colleague",
+            "former colleague",
+            "senior colleague"
+          ],
+          "synonyms": [
+            "co-worker"
+          ]
+        },
+        {
+          "id": "work-career",
+          "word": "career",
+          "ipa": "/kəˈrɪə/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "sự nghiệp, nghề nghiệp",
+          "example": "Young people should think carefully before choosing a career that suits their strengths.",
+          "exampleVi": "Người trẻ nên suy nghĩ kỹ trước khi chọn một nghề nghiệp phù hợp với thế mạnh của mình.",
+          "collocations": [
+            "career path",
+            "career prospects",
+            "pursue a career"
+          ],
+          "synonyms": [
+            "profession",
+            "vocation"
+          ]
+        },
+        {
+          "id": "work-employee",
+          "word": "employee",
+          "ipa": "/ɪmˈplɔɪiː/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "nhân viên, người lao động",
+          "example": "Companies that train their employees well usually keep them for longer.",
+          "exampleVi": "Những công ty đào tạo tốt nhân viên thường giữ chân họ được lâu hơn.",
+          "collocations": [
+            "full-time employee",
+            "loyal employee",
+            "employee benefits"
+          ],
+          "synonyms": [
+            "staff member",
+            "worker"
+          ]
+        },
+        {
+          "id": "work-apply",
+          "word": "apply",
+          "ipa": "/əˈplaɪ/",
+          "pos": "verb",
+          "cefr": "B1",
+          "meaningVi": "nộp đơn, xin (việc, học bổng)",
+          "example": "Over two hundred graduates applied for the same position at the bank.",
+          "exampleVi": "Hơn hai trăm sinh viên mới tốt nghiệp đã nộp đơn cho cùng một vị trí tại ngân hàng.",
+          "collocations": [
+            "apply for a job",
+            "apply online",
+            "apply for a position"
+          ],
+          "synonyms": [
+            "put in an application"
+          ]
+        },
+        {
+          "id": "work-retire",
+          "word": "retire",
+          "ipa": "/rɪˈtaɪə/",
+          "pos": "verb",
+          "cefr": "B1",
+          "meaningVi": "nghỉ hưu",
+          "example": "Many people in Vietnam retire at around sixty and enjoy a slower pace of life.",
+          "exampleVi": "Nhiều người ở Việt Nam nghỉ hưu vào khoảng sáu mươi tuổi và tận hưởng nhịp sống chậm hơn.",
+          "collocations": [
+            "retire early",
+            "retire from work",
+            "plan to retire"
+          ],
+          "synonyms": [
+            "stop working"
+          ]
+        },
+        {
+          "id": "work-part-time",
+          "word": "part-time",
+          "ipa": "/ˌpɑːt ˈtaɪm/",
+          "pos": "adjective",
+          "cefr": "B1",
+          "meaningVi": "bán thời gian",
+          "example": "Many university students take part-time jobs to pay for their living costs.",
+          "exampleVi": "Nhiều sinh viên đại học làm công việc bán thời gian để trang trải chi phí sinh hoạt.",
+          "collocations": [
+            "part-time job",
+            "part-time work",
+            "part-time staff"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "work-promotion",
+          "word": "promotion",
+          "ipa": "/prəˈməʊʃn/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "sự thăng chức",
+          "example": "She received a promotion after leading the project successfully for two years.",
+          "exampleVi": "Cô ấy được thăng chức sau khi dẫn dắt dự án thành công trong hai năm.",
+          "collocations": [
+            "get a promotion",
+            "deserve a promotion",
+            "promotion prospects"
+          ],
+          "synonyms": [
+            "advancement"
+          ]
+        },
+        {
+          "id": "work-deadline",
+          "word": "deadline",
+          "ipa": "/ˈdedlaɪn/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "hạn chót",
+          "example": "Working under tight deadlines can be stressful, but it also improves time management.",
+          "exampleVi": "Làm việc với hạn chót gấp rút có thể gây căng thẳng, nhưng cũng giúp cải thiện khả năng quản lý thời gian.",
+          "collocations": [
+            "meet a deadline",
+            "miss a deadline",
+            "tight deadline"
+          ],
+          "synonyms": [
+            "time limit",
+            "due date"
+          ]
+        },
+        {
+          "id": "work-overtime",
+          "word": "overtime",
+          "ipa": "/ˈəʊvətaɪm/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "giờ làm thêm",
+          "example": "Doing too much overtime can leave employees exhausted and damage their health.",
+          "exampleVi": "Làm thêm giờ quá nhiều có thể khiến nhân viên kiệt sức và tổn hại đến sức khỏe.",
+          "collocations": [
+            "work overtime",
+            "unpaid overtime",
+            "overtime pay"
+          ],
+          "synonyms": [
+            "extra hours"
+          ]
+        },
+        {
+          "id": "work-resign",
+          "word": "resign",
+          "ipa": "/rɪˈzaɪn/",
+          "pos": "verb",
+          "cefr": "B2",
+          "meaningVi": "từ chức, xin nghỉ việc",
+          "example": "He decided to resign because the long hours were affecting his family life.",
+          "exampleVi": "Anh ấy quyết định nghỉ việc vì giờ làm việc dài đang ảnh hưởng đến cuộc sống gia đình.",
+          "collocations": [
+            "resign from a job",
+            "resign as manager",
+            "be forced to resign"
+          ],
+          "synonyms": [
+            "quit",
+            "step down"
+          ]
+        },
+        {
+          "id": "work-job-satisfaction",
+          "word": "job satisfaction",
+          "ipa": "/ˌdʒɒb ˌsætɪsˈfækʃn/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "sự hài lòng trong công việc",
+          "example": "For many workers, job satisfaction matters more than a high salary.",
+          "exampleVi": "Đối với nhiều người lao động, sự hài lòng trong công việc quan trọng hơn mức lương cao.",
+          "collocations": [
+            "high job satisfaction",
+            "improve job satisfaction",
+            "lack of job satisfaction"
+          ],
+          "synonyms": [
+            "fulfilment at work"
+          ]
+        },
+        {
+          "id": "work-workload",
+          "word": "workload",
+          "ipa": "/ˈwɜːkləʊd/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "khối lượng công việc",
+          "example": "Teachers complain that their workload has increased while their pay has stayed the same.",
+          "exampleVi": "Giáo viên phàn nàn rằng khối lượng công việc của họ đã tăng trong khi lương vẫn giữ nguyên.",
+          "collocations": [
+            "heavy workload",
+            "manage your workload",
+            "reduce the workload"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "work-freelance",
+          "word": "freelance",
+          "ipa": "/ˈfriːlɑːns/",
+          "pos": "adjective",
+          "cefr": "C1",
+          "meaningVi": "tự do, làm nghề tự do",
+          "example": "More young designers are choosing freelance work so they can set their own hours.",
+          "exampleVi": "Ngày càng nhiều nhà thiết kế trẻ chọn làm việc tự do để có thể tự sắp xếp giờ giấc.",
+          "collocations": [
+            "freelance work",
+            "freelance writer",
+            "go freelance"
+          ],
+          "synonyms": [
+            "self-employed",
+            "independent"
+          ]
+        },
+        {
+          "id": "work-redundancy",
+          "word": "redundancy",
+          "ipa": "/rɪˈdʌndənsi/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "sự cho thôi việc (do cắt giảm nhân sự)",
+          "example": "Hundreds of factory workers faced redundancy when the plant introduced robots.",
+          "exampleVi": "Hàng trăm công nhân nhà máy đối mặt với việc bị cho thôi việc khi nhà máy đưa robot vào sử dụng.",
+          "collocations": [
+            "face redundancy",
+            "redundancy pay",
+            "voluntary redundancy"
+          ],
+          "synonyms": [
+            "dismissal",
+            "layoff"
+          ]
+        },
+        {
+          "id": "work-work-life-balance",
+          "word": "work-life balance",
+          "ipa": "/ˌwɜːk laɪf ˈbæləns/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "sự cân bằng giữa công việc và cuộc sống",
+          "example": "Flexible hours can help parents achieve a better work-life balance.",
+          "exampleVi": "Giờ làm việc linh hoạt có thể giúp các bậc cha mẹ cân bằng tốt hơn giữa công việc và cuộc sống.",
+          "collocations": [
+            "achieve a work-life balance",
+            "healthy work-life balance",
+            "improve work-life balance"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "work-recruit",
+          "word": "recruit",
+          "ipa": "/rɪˈkruːt/",
+          "pos": "verb",
+          "cefr": "C1",
+          "meaningVi": "tuyển dụng",
+          "example": "Technology firms are struggling to recruit enough skilled engineers.",
+          "exampleVi": "Các công ty công nghệ đang gặp khó khăn trong việc tuyển dụng đủ kỹ sư có tay nghề.",
+          "collocations": [
+            "recruit staff",
+            "recruit graduates",
+            "actively recruit"
+          ],
+          "synonyms": [
+            "hire",
+            "take on"
+          ]
+        },
+        {
+          "id": "work-burnout",
+          "word": "burnout",
+          "ipa": "/ˈbɜːnaʊt/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "tình trạng kiệt sức (do làm việc quá mức)",
+          "example": "Constant pressure and unrealistic targets are leading to burnout among young professionals.",
+          "exampleVi": "Áp lực liên tục và những chỉ tiêu phi thực tế đang dẫn đến tình trạng kiệt sức ở những người trẻ đi làm.",
+          "collocations": [
+            "suffer from burnout",
+            "risk of burnout",
+            "prevent burnout"
+          ],
+          "synonyms": [
+            "exhaustion"
+          ]
+        },
+        {
+          "id": "work-nepotism",
+          "word": "nepotism",
+          "ipa": "/ˈnepətɪzəm/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "thói thiên vị người thân (trong tuyển dụng)",
+          "example": "Nepotism damages morale because staff feel promotions are not based on merit.",
+          "exampleVi": "Thói thiên vị người thân làm suy giảm tinh thần vì nhân viên cảm thấy việc thăng chức không dựa trên năng lực.",
+          "collocations": [
+            "accusations of nepotism",
+            "nepotism in the workplace"
+          ],
+          "synonyms": [
+            "favouritism",
+            "cronyism"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crime",
+      "nameVi": "Tội phạm & Pháp luật",
+      "nameEn": "Crime & Law",
+      "icon": "⚖️",
+      "descriptionVi": "Từ vựng về tội phạm, hình phạt và hệ thống pháp luật.",
+      "words": [
+        {
+          "id": "crime-police",
+          "word": "police",
+          "ipa": "/pəˈliːs/",
+          "pos": "noun",
+          "cefr": "A1",
+          "meaningVi": "cảnh sát",
+          "example": "Call the police if you see someone breaking into a car.",
+          "exampleVi": "Hãy gọi cảnh sát nếu bạn thấy ai đó đang đột nhập vào một chiếc ô tô.",
+          "collocations": [
+            "call the police",
+            "police officer",
+            "police station"
+          ],
+          "synonyms": []
+        },
+        {
+          "id": "crime-safe",
+          "word": "safe",
+          "ipa": "/seɪf/",
+          "pos": "adjective",
+          "cefr": "A1",
+          "meaningVi": "an toàn",
+          "example": "This street is safe to walk along, even late at night.",
+          "exampleVi": "Con phố này đi bộ rất an toàn, kể cả vào lúc đêm muộn.",
+          "collocations": [
+            "feel safe",
+            "keep safe",
+            "safe place"
+          ],
+          "synonyms": [
+            "secure"
+          ]
+        },
+        {
+          "id": "crime-thief",
+          "word": "thief",
+          "ipa": "/θiːf/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "kẻ trộm",
+          "example": "A thief took my bag while I was waiting for the bus.",
+          "exampleVi": "Một tên trộm đã lấy túi của tôi khi tôi đang đợi xe buýt.",
+          "collocations": [
+            "car thief",
+            "catch a thief",
+            "petty thief"
+          ],
+          "synonyms": [
+            "robber",
+            "burglar"
+          ]
+        },
+        {
+          "id": "crime-steal",
+          "word": "steal",
+          "ipa": "/stiːl/",
+          "pos": "verb",
+          "cefr": "A2",
+          "meaningVi": "ăn trộm, lấy cắp",
+          "example": "Someone stole my bicycle from outside the library yesterday.",
+          "exampleVi": "Hôm qua ai đó đã lấy trộm xe đạp của tôi ở bên ngoài thư viện.",
+          "collocations": [
+            "steal money",
+            "steal a car",
+            "stolen goods"
+          ],
+          "synonyms": [
+            "rob",
+            "take"
+          ]
+        },
+        {
+          "id": "crime-crime",
+          "word": "crime",
+          "ipa": "/kraɪm/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "tội phạm, tội ác",
+          "example": "Crime in our neighbourhood has fallen since more street lights were added.",
+          "exampleVi": "Tội phạm trong khu phố chúng tôi đã giảm kể từ khi lắp thêm đèn đường.",
+          "collocations": [
+            "commit a crime",
+            "violent crime",
+            "crime rate"
+          ],
+          "synonyms": [
+            "offence",
+            "wrongdoing"
+          ]
+        },
+        {
+          "id": "crime-prison",
+          "word": "prison",
+          "ipa": "/ˈprɪzn/",
+          "pos": "noun",
+          "cefr": "A2",
+          "meaningVi": "nhà tù",
+          "example": "The man was sent to prison for five years for robbing a bank.",
+          "exampleVi": "Người đàn ông bị đi tù năm năm vì tội cướp ngân hàng.",
+          "collocations": [
+            "go to prison",
+            "send someone to prison",
+            "prison sentence"
+          ],
+          "synonyms": [
+            "jail"
+          ]
+        },
+        {
+          "id": "crime-criminal",
+          "word": "criminal",
+          "ipa": "/ˈkrɪmɪnl/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "kẻ phạm tội, tội phạm",
+          "example": "Some argue that criminals should do community work rather than go to prison.",
+          "exampleVi": "Một số người cho rằng tội phạm nên làm công việc phục vụ cộng đồng thay vì đi tù.",
+          "collocations": [
+            "dangerous criminal",
+            "convicted criminal",
+            "career criminal"
+          ],
+          "synonyms": [
+            "offender",
+            "lawbreaker"
+          ]
+        },
+        {
+          "id": "crime-law",
+          "word": "law",
+          "ipa": "/lɔː/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "luật, pháp luật",
+          "example": "Drivers who break the law by using their phones should lose their licence.",
+          "exampleVi": "Những tài xế vi phạm pháp luật vì dùng điện thoại khi lái xe nên bị tước giấy phép.",
+          "collocations": [
+            "break the law",
+            "obey the law",
+            "pass a law"
+          ],
+          "synonyms": [
+            "legislation",
+            "rule"
+          ]
+        },
+        {
+          "id": "crime-arrest",
+          "word": "arrest",
+          "ipa": "/əˈrest/",
+          "pos": "verb",
+          "cefr": "B1",
+          "meaningVi": "bắt giữ",
+          "example": "Police arrested two men who were trying to sell stolen phones.",
+          "exampleVi": "Cảnh sát đã bắt giữ hai người đàn ông đang tìm cách bán điện thoại ăn cắp.",
+          "collocations": [
+            "arrest a suspect",
+            "be arrested for",
+            "arrest someone on suspicion of"
+          ],
+          "synonyms": [
+            "detain",
+            "apprehend"
+          ]
+        },
+        {
+          "id": "crime-court",
+          "word": "court",
+          "ipa": "/kɔːt/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "tòa án",
+          "example": "The case will be heard in court next month.",
+          "exampleVi": "Vụ án sẽ được xét xử tại tòa vào tháng tới.",
+          "collocations": [
+            "go to court",
+            "court case",
+            "appear in court"
+          ],
+          "synonyms": [
+            "tribunal"
+          ]
+        },
+        {
+          "id": "crime-guilty",
+          "word": "guilty",
+          "ipa": "/ˈɡɪlti/",
+          "pos": "adjective",
+          "cefr": "B1",
+          "meaningVi": "có tội",
+          "example": "The jury found him guilty of stealing money from his employer.",
+          "exampleVi": "Bồi thẩm đoàn tuyên bố anh ta có tội đánh cắp tiền của chủ lao động.",
+          "collocations": [
+            "found guilty",
+            "plead guilty",
+            "guilty of a crime"
+          ],
+          "synonyms": [
+            "culpable"
+          ]
+        },
+        {
+          "id": "crime-punishment",
+          "word": "punishment",
+          "ipa": "/ˈpʌnɪʃmənt/",
+          "pos": "noun",
+          "cefr": "B1",
+          "meaningVi": "hình phạt, sự trừng phạt",
+          "example": "Many people believe that harsher punishment does not necessarily reduce crime.",
+          "exampleVi": "Nhiều người tin rằng hình phạt nặng hơn không nhất thiết làm giảm tội phạm.",
+          "collocations": [
+            "harsh punishment",
+            "physical punishment",
+            "the punishment fits the crime"
+          ],
+          "synonyms": [
+            "penalty"
+          ]
+        },
+        {
+          "id": "crime-victim",
+          "word": "victim",
+          "ipa": "/ˈvɪktɪm/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "nạn nhân",
+          "example": "Elderly people are often the victims of online scams and phone fraud.",
+          "exampleVi": "Người cao tuổi thường là nạn nhân của các vụ lừa đảo trực tuyến và qua điện thoại.",
+          "collocations": [
+            "innocent victim",
+            "crime victim",
+            "fall victim to"
+          ],
+          "synonyms": [
+            "casualty"
+          ]
+        },
+        {
+          "id": "crime-suspect",
+          "word": "suspect",
+          "ipa": "/ˈsʌspekt/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "nghi phạm, kẻ tình nghi",
+          "example": "The police released the suspect because there was not enough evidence.",
+          "exampleVi": "Cảnh sát đã thả nghi phạm vì không có đủ bằng chứng.",
+          "collocations": [
+            "main suspect",
+            "arrest a suspect",
+            "murder suspect"
+          ],
+          "synonyms": [
+            "the accused"
+          ]
+        },
+        {
+          "id": "crime-sentence",
+          "word": "sentence",
+          "ipa": "/ˈsentəns/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "bản án, mức án",
+          "example": "The judge gave him a two-year sentence for dangerous driving.",
+          "exampleVi": "Thẩm phán đã tuyên cho anh ta mức án hai năm tù vì tội lái xe nguy hiểm.",
+          "collocations": [
+            "prison sentence",
+            "life sentence",
+            "serve a sentence"
+          ],
+          "synonyms": [
+            "penalty",
+            "punishment"
+          ]
+        },
+        {
+          "id": "crime-witness",
+          "word": "witness",
+          "ipa": "/ˈwɪtnəs/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "nhân chứng",
+          "example": "A witness told police that she saw the robber running towards the station.",
+          "exampleVi": "Một nhân chứng nói với cảnh sát rằng cô ấy đã thấy tên cướp chạy về phía nhà ga.",
+          "collocations": [
+            "key witness",
+            "witness statement",
+            "act as a witness"
+          ],
+          "synonyms": [
+            "eyewitness",
+            "observer"
+          ]
+        },
+        {
+          "id": "crime-trial",
+          "word": "trial",
+          "ipa": "/ˈtraɪəl/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "phiên tòa, sự xét xử",
+          "example": "The trial lasted three weeks before the jury reached a verdict.",
+          "exampleVi": "Phiên tòa kéo dài ba tuần trước khi bồi thẩm đoàn đưa ra phán quyết.",
+          "collocations": [
+            "fair trial",
+            "stand trial",
+            "go on trial"
+          ],
+          "synonyms": [
+            "hearing",
+            "court case"
+          ]
+        },
+        {
+          "id": "crime-burglary",
+          "word": "burglary",
+          "ipa": "/ˈbɜːɡləri/",
+          "pos": "noun",
+          "cefr": "B2",
+          "meaningVi": "vụ trộm đột nhập (nhà, cửa hàng)",
+          "example": "Burglary rates tend to rise during holidays when many homes are empty.",
+          "exampleVi": "Tỷ lệ trộm đột nhập có xu hướng tăng vào các kỳ nghỉ khi nhiều ngôi nhà bỏ trống.",
+          "collocations": [
+            "commit a burglary",
+            "burglary rate",
+            "victim of burglary"
+          ],
+          "synonyms": [
+            "break-in",
+            "housebreaking"
+          ]
+        },
+        {
+          "id": "crime-offender",
+          "word": "offender",
+          "ipa": "/əˈfendə/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "người phạm tội",
+          "example": "Young offenders should be given education and training rather than long prison terms.",
+          "exampleVi": "Những người phạm tội trẻ tuổi nên được giáo dục và đào tạo thay vì phải chịu án tù dài.",
+          "collocations": [
+            "young offender",
+            "repeat offender",
+            "first-time offender"
+          ],
+          "synonyms": [
+            "criminal",
+            "lawbreaker"
+          ]
+        },
+        {
+          "id": "crime-deterrent",
+          "word": "deterrent",
+          "ipa": "/dɪˈterənt/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "biện pháp răn đe",
+          "example": "Some argue that heavy fines act as an effective deterrent against drink-driving.",
+          "exampleVi": "Một số người cho rằng các khoản phạt nặng là biện pháp răn đe hiệu quả đối với việc lái xe sau khi uống rượu.",
+          "collocations": [
+            "act as a deterrent",
+            "effective deterrent",
+            "powerful deterrent"
+          ],
+          "synonyms": [
+            "disincentive"
+          ]
+        },
+        {
+          "id": "crime-rehabilitation",
+          "word": "rehabilitation",
+          "ipa": "/ˌriːəˌbɪlɪˈteɪʃn/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "sự cải tạo, giúp tái hòa nhập",
+          "example": "Prisons should focus on rehabilitation so that inmates can return to society successfully.",
+          "exampleVi": "Các nhà tù nên tập trung vào việc cải tạo để phạm nhân có thể tái hòa nhập xã hội thành công.",
+          "collocations": [
+            "rehabilitation programme",
+            "rehabilitation of offenders",
+            "drug rehabilitation"
+          ],
+          "synonyms": [
+            "reform"
+          ]
+        },
+        {
+          "id": "crime-capital-punishment",
+          "word": "capital punishment",
+          "ipa": "/ˌkæpɪtl ˈpʌnɪʃmənt/",
+          "pos": "noun",
+          "cefr": "C1",
+          "meaningVi": "án tử hình",
+          "example": "Capital punishment remains one of the most controversial issues in criminal justice.",
+          "exampleVi": "Án tử hình vẫn là một trong những vấn đề gây tranh cãi nhất trong lĩnh vực tư pháp hình sự.",
+          "collocations": [
+            "abolish capital punishment",
+            "support capital punishment",
+            "face capital punishment"
+          ],
+          "synonyms": [
+            "death penalty"
+          ]
+        },
+        {
+          "id": "crime-recidivism",
+          "word": "recidivism",
+          "ipa": "/rɪˈsɪdɪvɪzəm/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "sự tái phạm",
+          "example": "Education programmes in prison have been shown to lower rates of recidivism.",
+          "exampleVi": "Các chương trình giáo dục trong tù đã được chứng minh là giúp giảm tỷ lệ tái phạm.",
+          "collocations": [
+            "rate of recidivism",
+            "reduce recidivism",
+            "high recidivism"
+          ],
+          "synonyms": [
+            "reoffending"
+          ]
+        },
+        {
+          "id": "crime-juvenile-delinquency",
+          "word": "juvenile delinquency",
+          "ipa": "/ˌdʒuːvənaɪl dɪˈlɪŋkwənsi/",
+          "pos": "noun",
+          "cefr": "C2",
+          "meaningVi": "tình trạng phạm pháp ở tuổi vị thành niên",
+          "example": "Lack of parental supervision is often linked to juvenile delinquency in urban areas.",
+          "exampleVi": "Việc thiếu sự giám sát của cha mẹ thường có liên quan đến tình trạng phạm pháp ở tuổi vị thành niên tại các khu đô thị.",
+          "collocations": [
+            "prevent juvenile delinquency",
+            "rise in juvenile delinquency",
+            "causes of juvenile delinquency"
+          ],
+          "synonyms": [
+            "youth crime"
+          ]
+        }
+      ]
+    }
+  ]
+}

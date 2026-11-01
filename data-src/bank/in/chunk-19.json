@@ -1,0 +1,1423 @@
+[
+{
+"h": "nowhere",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "nuclear",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "nucleus",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "numerous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "nutrient",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "nutrition",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "nutritious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "object",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "objection",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "objective",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "observation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "observe",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "obstacle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "obtain",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "obvious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "obviously",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "occasion",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "occasional",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "occasionally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "occupy",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "occur",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "ocean",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "offensive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "officially",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "oily",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "old-fashioned",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "oneself",
+"p": [
+"pronoun"
+],
+"c": "B1"
+},
+{
+"h": "onstage",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "onto",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "opening",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "operation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "opposition",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "oppress",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "oppression",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "option",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "oral",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "orbit",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "orchestra",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "orderly",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "ordinary",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "organ",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "organic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "organisation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "organism",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "origin",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "otherwise",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "ought to",
+"p": [
+"modal"
+],
+"c": "B1"
+},
+{
+"h": "out-of-date",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "outdoor",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "outdoors",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "outer",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "outlaw",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "outline",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "outstanding",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "outward",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "outweigh",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "overcome",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "overjoyed",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "overnight",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "overwhelm",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "overwhelming",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "overwork",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "owe",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "owing",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "oxygen",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pace",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "package",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "packing",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "paddle",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "paid",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "pain",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "painful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "pale",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "palm",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "parachute",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "paradise",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "paralyse",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "parcel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "parental",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "parking",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "parrot",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "part-time",
+"p": [
+"adjective",
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "partial",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "participant",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "participate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "participle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "particularly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "passion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "passive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "passport",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "password",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "patience",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "patrol",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pattern",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pause",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "peanut",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "peculiar",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "penniless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "penny",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "per",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "percent",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "performer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "permanent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "permanently",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "permit",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "personally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "persuade",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "persuasive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "phantom",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pharmacy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "phenomenon",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "philosopher",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "philosophy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "phoenix",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "photocopy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "phrasal verb",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "phrase",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "physics",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pie",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "piety",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pillow",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pin",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "pineapple",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pipe",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pit",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "plain",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "platform",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pleasantly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "plug",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "pocket money",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "poet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "poetry",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "poison",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "poisonous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "pole",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "policy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "politely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "politician",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "politics",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pollutant",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pond",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "popcorn",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pork",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "port",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "positive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "positively",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "possess",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "possession",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "possessive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "possibility",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "postcard",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "postman",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pot",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "potential",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pottery",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pound",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "poverty",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "powder",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "practical",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "praise",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "prayer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "precious",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "preference",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "prefix",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "pregnant",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "prejudice",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "preparation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "prepared",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "preposition",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "preschool",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "prescription",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "presence",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "presentation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "preservation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "preserve",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "president",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "press",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "previous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "priest",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "primarily",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "primary school",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "primitive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "principle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "prison",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "prisoner",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "privacy",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "prize",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "probability",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "proceed",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "process",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "proclaim",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "procrastination",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "producer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "productive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "profession",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "professor",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "progress",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "prohibition",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "prominent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "promote",
+"p": [
+"verb"
+],
+"c": "B1"
+}
+]

@@ -1,0 +1,1407 @@
+[
+{
+"h": "exhaustion",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "exhibit",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "exile",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "existing",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "exotic",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "expansion",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "expectation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "expected",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "expedition",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "explode",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "exploit",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "explorer",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "explosive",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "export",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "expressive",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "exquisite",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "extension",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "extensive",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "external",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "extract",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "extraordinarily",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "exultant",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "eyebrow",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "eyelash",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "eyelid",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fabric",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fabulous",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "facilitate",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "facilities",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "factor",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "faculty",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "faith",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "falter",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "fame",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "familiarise",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "fantastically",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "fascinated",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "fascination",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fatal",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "fate",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "father-in-law",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "faulty",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "fearsome",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "feat",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fed up",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "federal",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "feedback",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ferryboat",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fibre",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fictional",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "fierce",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "fighting",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "figurative",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "filial",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "financially",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "finely",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "fingernail",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fire brigade",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "firearm",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fireplace",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "firmness",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "first language",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "first person",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "firstly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "fiscal",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "fixed",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "flame",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "flap",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "flaw",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "flawless",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "flax",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "flee",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "fleet",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "flesh",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "flexibility",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "flexible",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "flexibly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "flip",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "fluency",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fluid",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "flutter",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "follower",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "folly",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fondly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "foolishly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "footnote",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "forcefully",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "foreman",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "foresee",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "forestry",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "formation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "formerly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "formidable",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "forthcoming",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "foul",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "found",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "fox",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fragrance",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "frankly",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "frantically",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "fraud",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "freak",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "friendly",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "frigate",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "frontier",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "frugal",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "fulfil",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "fume",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "functional",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "functionality",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "fundamental",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "funk",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "funky",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "furious",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "furiously",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "furore",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gaiety",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gambling",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gang",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gangster",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gardener",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gasp",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gateway",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gaudy",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "gaze",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gear",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "generalisation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "generalise",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "generosity",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "generously",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "genius",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "genre",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gently",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "genuine",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "genuinely",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "geographic",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "germ",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "getaway",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "ghetto",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "giveaway",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "glacis",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "glamourous",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "glare",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gleam",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "glee",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "global warming",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "globally",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "glocal",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "gloomy",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "glorify",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "glow",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "goat",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "god",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "godly",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "goodwill",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gook",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gorge",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "governmental",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "gracefulness",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gradual",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "grain",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "grand",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "graphically",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "grasp",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gravestone",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gravitation",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "greatness",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "grief",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "grieve",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "grim",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "grin",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "grip",
+"p": [
+"noun",
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "gross",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "growing",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "grown-up",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "guerrilla",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "guideline",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gulp",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gum",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gunshot",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "guts",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "gymnastic",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "habitant",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "hail",
+"p": [
+"verb"
+],
+"c": "B2"
+},
+{
+"h": "hairy",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "handicap",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "handicraft",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "handout",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "handrail",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "hard drive",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "hardware",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "harmless",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "harrow",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "haste",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "hastily",
+"p": [
+"adverb"
+],
+"c": "B2"
+},
+{
+"h": "hatching",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "haunting",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "hay",
+"p": [
+"noun"
+],
+"c": "B2"
+},
+{
+"h": "hazardous",
+"p": [
+"adjective"
+],
+"c": "B2"
+},
+{
+"h": "headquarters",
+"p": [
+"noun"
+],
+"c": "B2"
+}
+]

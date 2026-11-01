@@ -1,0 +1,1416 @@
+[
+{
+"h": "hairdryer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hammer",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "hand-held",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "handball",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "handkerchief",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "handshake",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "handwriting",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "handy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "hang",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "hanging",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "harbour",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "hard-working",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "hardship",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "harness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hasty",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "hatch",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hatred",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "haunt",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "haven",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hazard",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "headline",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "heal",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "healing",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "hearing",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "heart attack",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hearted",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "hearty",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "heater",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "heaven",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "heavenly",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "heel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "height",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "helmet",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "helpless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "herd",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hesitate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "hidden",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "highlight",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "highly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "hip",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hire",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "historian",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "historic",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "historical",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "HIV",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "holy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "homeless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "honest",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "honestly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "honesty",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "honeymoon",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hop",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hopeful",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "hopefully",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "hopeless",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "horizon",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "horn",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "horrible",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "horrify",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "hostel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "household",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "housework",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "huge",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "humanity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "humid",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "humorous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "humour",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hunger",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "hunt",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "hurriedly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "hut",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ice hockey",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ice skating",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "identity",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "identity card",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "idiom",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "idol",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ignore",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "illegally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "illness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "illuminate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "imaginary",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "imitate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "immediate",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "immediately",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "immigrate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "immigration",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "impair",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "impression",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "impressive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "improper",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "improvement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "incident",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "including",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "income",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "inconvenient",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "incorrect",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "increasingly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "incredible",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "incredibly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "indefinite article",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "independent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "indirect",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "indirectly",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "individual",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "indoors",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "industrial",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "industry",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "inevitable",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "infection",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "infinitive",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "inform",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "informative",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "ingredient",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "inhabitant",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "inhale",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "initial",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "initially",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "inject",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "injury",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ink",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "innermost",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "innocent",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "innovator",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "inquiry",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "insane",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "inscribe",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "inscription",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "insight",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "insist",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "inspection",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "inspire",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "instal",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "instance",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "instead of",
+"p": [
+"preposition"
+],
+"c": "B1"
+},
+{
+"h": "institute",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "instruction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "instructor",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "insurance",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "intend",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "intense",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "intensive",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "intention",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "intentionally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "interact",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "interaction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "intermediate",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "intermission",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "internal",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "internationally",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "interrupt",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "interval",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "interviewee",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "introduction",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "invasion",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "invest",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "investigation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "invitation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "involuntarily",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "involve",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "involved",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "iron",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "ironing",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "irregular",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "irritate",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "isle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "isolation",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ivory",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "jade",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "jail",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "jar",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "jazz",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "jealous",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "jewel",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "jog",
+"p": [
+"noun",
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "jogging",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "joint",
+"p": [
+"adjective",
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "journal",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "journalist",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "judgement",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "jug",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "juicy",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "jumper",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "jungle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "justice",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "kettle",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "keyboard",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "killing",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "kindness",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "kitten",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "knit",
+"p": [
+"verb"
+],
+"c": "B1"
+},
+{
+"h": "lab",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "laboratory",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "ladder",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lamb",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "landlord",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "largely",
+"p": [
+"adverb"
+],
+"c": "B1"
+},
+{
+"h": "lasting",
+"p": [
+"adjective"
+],
+"c": "B1"
+},
+{
+"h": "latecomer",
+"p": [
+"noun"
+],
+"c": "B1"
+},
+{
+"h": "lately",
+"p": [
+"adverb"
+],
+"c": "B1"
+}
+]
